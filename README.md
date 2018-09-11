@@ -1,2 +1,2 @@
 # HLR.github.io
-This repo contains the information of the  Heterogeneous Machine Learning (HetML) Lab website. 
+This repo contains the information of the  Heterogeneous Machine Learning and Reasoning (HLR) Lab website. 
