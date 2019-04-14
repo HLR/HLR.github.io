@@ -1,78 +1,101 @@
+<!DOCTYPE html>
 <html>
-<head>
-<title>Parisa Kordjamshidi -  About </title>
-<style type="text/css">
-body {
-        background-color: #FFFFFF;
-        background-repeat: repeat-x;
-        padding:0px;
-        margin:0;
-}
-p.padding
-{
-padding-top:25px;
-padding-bottom:25px;
-padding-right:50px;
-padding-left:50px;
-}
+	<head>
+		<title>HLR</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<style>
+			body {
+		    margin: 0;
+				font-family: Arial, Helvetica, sans-serif;
+			}
+			.top-container {
+				background-color: #f1f1f1;
+				padding: 30px;
+				text-align: center;
+				background: #027432;
+				color: white;
+			}
+			.header {
+				padding: 10px 16px;
+				background: #555;
+				color: #f1f1f1;
+			}
+			.navbar {
+				overflow: hidden;
+				background-color: #111111;
+			}
+			.navbar a {
+				float: left;
+				display: block;
+				color: white;
+				text-align: center;
+				padding: 14px 20px;
+				text-decoration: none;
+			}
+			.navbar a.right {
+				float: right;
+			}
+			.navbar a:hover {
+				background-image: url("https://etc.usf.edu/clipart/48600/48687/48687_dom_0502_md.gif");
+				color: black;
+			}
+			.content {
+				padding: 16px;
+				padding-left: 15%;
+				padding-right: 15%;
+			}
+			.sticky {
+				position: fixed;
+				top: 0;
+				width: 100%;
+			}
+			.sticky + .content {
+				padding-top: 62.4px;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="top-container">
+			<table>
+				<tr>
+					<td> <a href="home.html"><img src="logo.jpg" alt="Domino Chain" border="black"></a> </td>
+					<td> <h1>Heterogeneous Learning and Reasoning Research Group</h1> </td>
+				</tr>
+			</table>
+		</div>
 
-</style>
-<link href="parisa.css" rel="stylesheet" type="text/css">
- <link rel="shortcut icon" href="http://tulane.edu/sites/tulane/files/favicon_0.ico" type="image/vnd.microsoft.icon" /> 
-</head>
-<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-<center>
-<br>
-<span style= "font-family: Arial, sans-serif;">
-<table alighn = "center";style="text-align: left; width: 764px; height: auto;" border="5" cellpadding="20" cellspacing="1">
-  <tbody>
-    <tr>
-      <td style=" align-content: center; height: 3cm;"><big> <span style ="font-weight: bold;font-size: 30;" ><font color="red">Het</font>erogeneous <font color="blue">M</font>achine <font color="green">L</font>earning and Reasoning Lab</span> 
-       
-      </td>
-    </tr>
-  </tbody>
-</table>
-</span>
-</center>
-<center>
-<table id="Table_01" width="801" height="674" border="0" cellpadding="0" cellspacing="0">
-                    <tr>
-                      <td>
-                        <div style="margin-top: 20px; margin-left: 23px; width: 190px; float: left">
-                            <table width="180" border="0" align="center" id="nav">
-        <tr><td><span class="navh1"><a href="index.htm">About</a></span></td></tr>
-        <tr><td><span class="navh1"><a href="students.htm">Members</a></span></td></tr>
-        <tr><td><span class="navh1"><a href="publication.htm">Publication</a></span></td></tr>
-        <tr><td><span class="navh1"><a href="grants.htm">Grants</a></span></td></tr>
-        <tr><td><span class="navh1"><a href="news.htm">News</a></span></td></tr>
-        <tr><td class="navh1"><a href="">Software</a></td></tr>
-        <tr><td class="navh1"><a href="">Data</a></td></tr>
-<tr><td><span class="navh1">
-<!--<a class="twitter-timeline" href="https://twitter.com/Kordjamshidi">Tweets by Kordjamshidi</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script></span></td></tr>
-        <tr><td height="100" class="navh1">&nbsp;</td></tr>
-                           </table>
-                        </div>
- !-->                       <div style="margin-left: 10px; width: 500px; float: left">
+		<div class="navbar" id="myHeader">
+			<a href="home.html">About HLR</a>
+			<a href="team.html">Team Members</a>
+			<a href="events.html">Events</a>
+			<a href="publications.html">Publications</a>
+			<a href="demos.html">Demos</a>
+			<a href="related.html" class="right">Related Links</a>
+		</div>
 
-<!-- EDIT CONTENT BELOW ONLY -->
+		<div class="content">
+			<h2>What is HLR?</h2>
+			<p>Heterogeneous Learning and Reasoning (HLR) lab conducts research on machine learning, natural language processing and combing vision and language.  We perform information and semantic extraction from language. We investigate methodologies to interplay between learning and reasoning and develop techniques to include declarative and procedural knowledge in statistical/neural learning. We develop research software and build prototypes to facilitate designing AI systems. We also aim to apply our techniques and tools on real world-problems and perform multi-disciplinary research to impact the society for making the world a better place to live.  </p>
+			</br>
+			<p>Checkout our <a href="https://github.com/HLR" target="_blank">GitHub</a> page. </p>
+			<h3>News</h3>
+			<p>April xx: Parisa serves on NSF panel.</p>
+			<p>April 8:  <a href="https://domiknows.github.io" target="_blank">DomiKnowS</a> project started! This will be in collaboration with IHMC.</p>
+		</div>
 
-    <!-- Start of StatCounter Code for Default Guide -->
-<script type="text/javascript">
-var sc_project=11083511; 
-var sc_invisible=1; 
-var sc_security="2f97c6cf"; 
-var scJsHost = (("https:" == document.location.protocol) ?
-"https://secure." : "http://www.");
-document.write("<sc"+"ript type='text/javascript' src='" +
-scJsHost+
-"statcounter.com/counter/counter.js'></"+"script>");
-</script>
-<noscript><div class="statcounter"><a title="web analytics"
-href="http://statcounter.com/" target="_blank"><img
-class="statcounter"
-src="//c.statcounter.com/11083511/0/2f97c6cf/1/" alt="web
-analytics"></a></div></noscript>
-<!-- End of StatCounter Code for Default Guide -->
-</body>
+		<script>
+			window.onscroll = function() {myFunction()};
+
+			var header = document.getElementById("myHeader");
+			var sticky = header.offsetTop;
+
+			function myFunction() {
+				if (window.pageYOffset > sticky) {
+					header.classList.add("sticky");
+				} else {
+					header.classList.remove("sticky");
+				}
+			}
+		</script>
+	</body>
 </html>
