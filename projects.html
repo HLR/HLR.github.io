@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>HLR</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<style>
+			body {
+				margin: 0;
+				font-family: Arial, Helvetica, sans-serif;
+			}
+			.top-container {
+				background-color: #f1f1f1;
+				padding: 30px;
+				text-align: center;
+				background: #027432;
+				color: white;
+			}
+			.header {
+				padding: 10px 16px;
+				background: #555;
+				color: #f1f1f1;
+			}
+			.navbar {
+				overflow: hidden;
+				background-color: #111111;
+			}
+			.navbar a {
+				float: left;
+				display: block;
+				color: white;
+				text-align: center;
+				padding: 14px 20px;
+				text-decoration: none;
+			}
+			.navbar a:hover {
+				color: #027432;
+			}
+			.content {
+				padding: 16px;
+				padding-left: 15%;
+				padding-right: 15%;
+			}
+			.sticky {
+				position: fixed;
+				top: 0;
+				width: 100%;
+			}
+			.sticky + .content {
+				padding-top: 62.4px;
+			}
+			a:link.project, a:visited.project {
+				font-size: 30px;
+				font-weight: 900;
+				color: #027432;
+				padding: 14px 25px;
+				text-align: center;
+				text-decoration: none;
+			}
+			a:hover.project, a:active.project {
+				color: green;
+			}
+			a:link.inner, a:visited.inner {
+				color: #027432;
+				font-weight: bold;
+			}
+			a:hover.inner, a:active.inner {
+				color: green;
+				font-weight: bold;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="top-container">
+			<table>
+				<tr>
+					<td> <a href="home.html"><img src="logo.jpg" alt="HLR Logo" border="black"></a> </td>
+					<td> <h1>Heterogeneous Learning and Reasoning Research Group</h1> </td>
+				</tr>
+			</table>
+		</div>
+
+		<div class="navbar" id="myHeader">
+			<a href="home.html">About HLR</a>
+			<a href="team.html">Team Members</a>
+			<a href="publications.html">Publications</a>
+			<a href="projects.html">Projects</a>
+			<a href="software.html">Software</a>
+		</div>
+
+		<div class="content">
+			<h2>Projects</h2>
+			<table>
+				<tr>
+					<td><a href="https://domiknows.github.io" target="_blank" class="project">DomiKnowS</a></td>
+					<td><p align="justify">A Declarative Learning Based Programming Framework For Integration of <strong>Dom</strong>ain <strong>Know</strong>ledge in <strong>S</strong>tatistical Learning</p></td>
+				</tr>
+				<tr>
+					<td width="200px"><a href="https://domiknows.github.io" target="_blank" class="project">ReSpLanding</a></td>
+					<td><p align="justify">Combining Learning and <strong>Re</strong>asoning for <strong>Sp</strong>atial <strong>Lan</strong>guage Understan<strong>ding</strong> </p></td>
+				</tr>
+			</table>	
+		
+			</div>
+
+		<script>
+			window.onscroll = function() {myFunction()};
+			var header = document.getElementById("myHeader");
+			var sticky = header.offsetTop;
+			function myFunction() {
+				if (window.pageYOffset > sticky) {
+					header.classList.add("sticky");
+				} else {
+					header.classList.remove("sticky");
+				}
+			}
+		</script>
+	</body>
+</html>
