@@ -20,25 +20,21 @@
 				background: #555;
 				color: #f1f1f1;
 			}
-						.navbar {
-						overflow: hidden;
-						background-color: #111111;
-					}
-					.navbar a {
-					  float: left;
-					  display: block;
-					  color: white;
-					  text-align: center;
-					  padding: 14px 20px;
-					  text-decoration: none;
-					}
-					.navbar a.right {
-					  float: right;
-					}
-					.navbar a:hover {
-					  background-image: url("https://etc.usf.edu/clipart/48600/48687/48687_dom_0502_md.gif");
-					  color: black;
-					}
+			.navbar {
+				overflow: hidden;
+				background-color: #111111;
+			}
+			.navbar a {
+				float: left;
+				display: block;
+				color: white;
+				text-align: center;
+				padding: 14px 20px;
+				text-decoration: none;
+			}
+			.navbar a:hover {
+				color: #027432;
+			}
 			.content {
 				padding: 16px;
 				padding-left: 15%;
@@ -52,29 +48,20 @@
 			.sticky + .content {
 				padding-top: 62.4px;
 			}
-			
-			.expando {
-				display: none;
-			}
-			.expando:target {
+			.shown {
 				display: block;
 			}
 			ul {
 				list-style-type: none;
 			}
-			a:link.pub, a:visited.pub {
+			.button {
 				background-color: #027432;
 				color: white;
 				padding: 14px 25px;
 				text-align: center;
 				text-decoration: none;
-				display: inline-block;
-			}
-			a:hover.pub, a:active.pub {
-				background-color: green;
-			}
-			a.pub {
-				padding-top: 1000.4px;
+				font-weight:600;
+				font-size:15px;
 			}
 			
 		</style>
@@ -92,157 +79,156 @@
 		<div class="navbar" id="myHeader">
 			<a href="home.html">About HLR</a>
 			<a href="team.html">Team Members</a>
-			<a href="events.html">Events</a>
 			<a href="publications.html">Publications</a>
-			<a href="demos.html">Demos</a>
-			<a href="related.html" class="right">Related Links</a>
+			<a href="projects.html">Projects</a>
+			<a href="software.html">Software</a>
 		</div>
 
 		<div class="content">
 			<h2>Publications</h2>
 				<ul>
-					<li><a href="#2018" class="pub">2018</a>
-						<ul class="expando" id="2018">
+					<button onclick="toggle_visibility('2018');" class="button">2018</button>
+						<ul class="shown" id="2018">
 						</br>
-							<li>Parisa Kordjamshidi, Dan Roth, Kristian Kersting. <b>Systems AI: A Declarative Learning Based Programming Perspective</b>, <i> IJCAI-ECAI-18, Stockholm, Sweden, July 13-19, 2018.</i> <a href="papers/IJCAI-2018-survey.pdf">[Download]</a></li>
+							<li align="justify">Parisa Kordjamshidi, Dan Roth, Kristian Kersting. <b>Systems AI: A Declarative Learning Based Programming Perspective</b>, <i> IJCAI-ECAI-18, Stockholm, Sweden, July 13-19, 2018.</i> <a href="papers/IJCAI-2018-survey.pdf">[Download]</a></li>
 							</br>
-							<li>Benyamin Ahmadnia, Parisa Kordjamshidi, Reza Haffari,<b> Neural Machine Translation Advised by Statistical Machine Translation: The Case of Farsi-Spanish Bilingually Low-Resource Scenario</b>, ICMLA, 2018, accepted. </li>
+							<li align="justify">Benyamin Ahmadnia, Parisa Kordjamshidi, Reza Haffari,<b> Neural Machine Translation Advised by Statistical Machine Translation: The Case of Farsi-Spanish Bilingually Low-Resource Scenario</b>, ICMLA, 2018, accepted. </li>
 							</br>
-							<li>Umar Manzoor, Parisa Kordjamshidi. <b>Anaphora Resolution for Improving Spatial Relation Extraction from Text</b>, <i>The first international workshop on Spatial Language Understanding (SpLU-2018), co-located with NAACL HLT 2018. New Orleans, June 2018.</i> <a href="papers/SpatialCoreferenceResolution-7.pdf">[Download]</a></li>
+							<li align="justify">Umar Manzoor, Parisa Kordjamshidi. <b>Anaphora Resolution for Improving Spatial Relation Extraction from Text</b>, <i>The first international workshop on Spatial Language Understanding (SpLU-2018), co-located with NAACL HLT 2018. New Orleans, June 2018.</i> <a href="papers/SpatialCoreferenceResolution-7.pdf">[Download]</a></li>
 							</br>
-							<li>Taher Rahgooy, Umar Manzoor, Parisa Kordjamshidi, <b>Visually Guided Spatial Relation Extraction from Text</b>, <i>The 16th Annual Conference of the North American Chapter of the Association for Computational Linguistics, NAACL HLT 2018, short paper. New Orleans, June 2018.</i> <a href="papers/NAACL-2018-short.pdf">[Download]</a></li>
+							<li align="justify">Taher Rahgooy, Umar Manzoor, Parisa Kordjamshidi, <b>Visually Guided Spatial Relation Extraction from Text</b>, <i>The 16th Annual Conference of the North American Chapter of the Association for Computational Linguistics, NAACL HLT 2018, short paper. New Orleans, June 2018.</i> <a href="papers/NAACL-2018-short.pdf">[Download]</a></li>
 							</br>
-							<li>Parisa Kordjamshidi, Reports of the Workshops of the 32nd AAAI Conference on Artificial Intelligence, DeLBP workshop, <a href= https://www.aaai.org/ojs/index.php/aimagazine/article/view/2823>AI Magazine</a>, 2018. </li>
+							<li align="justify">Parisa Kordjamshidi, Reports of the Workshops of the 32nd AAAI Conference on Artificial Intelligence, DeLBP workshop, <a href= https://www.aaai.org/ojs/index.php/aimagazine/article/view/2823>AI Magazine</a>, 2018. </li>
 							</br>
 						</ul>    
 					</li>
 				</ul>
 				<ul>
-					<li><a href="#2017" class="pub">2017</a>
-						<ul class="expando" id="2017">
+					<button onclick="toggle_visibility('2017');" class="button">2017</button>
+						<ul class="shown" id="2017">
 						</br>
-							<li>Parisa Kordjamshidi, Sameer Singh, Daniel Khashabi, Christos Christodoulopoulos, Mark Sammons, Saurabh Sinha and Dan Roth. <b>Relational Learning and Feature Extraction by Querying over Heterogeneous Information Networks.</b> <i>UAI-2017, Workshop on Statistical Relational AI (StarAI)</i>. <a href="papers/StarAI-Saul.pdf">[Download]</a></li>
+							<li align="justify">Parisa Kordjamshidi, Sameer Singh, Daniel Khashabi, Christos Christodoulopoulos, Mark Sammons, Saurabh Sinha and Dan Roth. <b>Relational Learning and Feature Extraction by Querying over Heterogeneous Information Networks.</b> <i>UAI-2017, Workshop on Statistical Relational AI (StarAI)</i>. <a href="papers/StarAI-Saul.pdf">[Download]</a></li>
 							</br>
-							<li>P. Kordjamshidi, T. Rahgooy, U. Manzoor. <b>Spatial Language Understanding with Multimodal Graphs using Declarative Learning based Programming. </b><i>EMNLP-2017, Workshop on Structured Prediction for NLP.</i> <a href="papers/EMNLP_Workshop_paper.pdf">[Download]</a> </li>
+							<li align="justify">P. Kordjamshidi, T. Rahgooy, U. Manzoor. <b>Spatial Language Understanding with Multimodal Graphs using Declarative Learning based Programming. </b><i>EMNLP-2017, Workshop on Structured Prediction for NLP.</i> <a href="papers/EMNLP_Workshop_paper.pdf">[Download]</a> </li>
 							</br>
-							<li>P. Kordjamshidi, T. Rahgooy, M-F. Moens, J. Pustejovsky, U. Manzoor and K. Roberts. <b>CLEF 2017: Multimodal Spatial Role Labeling (mSpRL) Task Overview</b>. <i> LNCS volume 10456 on Experimental IR Meets Multilinguality, Multimodality, and Interaction; Proceedings of 8th International Conference of the CLEF Association. </i><a href="papers/CLEF_overview_PaperCR.pdf">[Download]</a></li>
+							<li align="justify">P. Kordjamshidi, T. Rahgooy, M-F. Moens, J. Pustejovsky, U. Manzoor and K. Roberts. <b>CLEF 2017: Multimodal Spatial Role Labeling (mSpRL) Task Overview</b>. <i> LNCS volume 10456 on Experimental IR Meets Multilinguality, Multimodality, and Interaction; Proceedings of 8th International Conference of the CLEF Association. </i><a href="papers/CLEF_overview_PaperCR.pdf">[Download]</a></li>
 							</br>
-							<li>Kordjamshidi, P., van Otterlo, M., Moens, M.F. (2017). <b>Spatial role labeling annotation scheme. </b> <i>In: Pustejovsky J., Ide N. (Eds.), Handbook of Linguistic Annotation Springer Verlag.</i> <a href="papers/SpatialRoleLabeling_MinorReview.pdf">[Download]</a></li>
-						</br>
-						</ul>    
-					</li>
-				</ul>
-				<ul>
-					<li><a href="#2016" class="pub">2016</a>
-						<ul class="expando" id="2016">
-							</br>
-							<li>P. Kordjamshidi, C. Christodoulopoulos, D. Khashabi, B. Mangipudi, S. Singh, D. Roth. Better call Saul: Flexible Programming for Learning and Inference in NLP, COLING-2016.<a href="papers/KKCMSR16.pdf">[Download]</a></li>
-							</br>
-							<li>M. Sammons, C. Christodoulopoulos, P. Kordjamshidi, D. Khashabi, V. Srikumar and D. Roth. EDISON: Feature Extraction for NLP, Simplified. LREC-2016.</li>
-						</ul>    
-					</li>
-				</ul>
-				<ul>
-					<li><a href="#2015" class="pub">2015</a>
-						<ul class="expando" id="2015">
-							</br>
-							<li>Kordjamshidi, P., Roth, D., Wu, H.(2015). Saul: Towards declarative learning based programming. IJCAI2015. <a href="papers/LFS_LBP_IJCAI%20-%20DR.pdf">[Download]</a><a href="http://cogcomp.cs.illinois.edu/page/publication_view/767" target="_blank" name="Publication"></a></li>
-							</br>
-							<li>Kordjamshidi, P., Roth, D., Moens, M.F. (2015). Structured learning for spatial information extraction from biomedical text: bacteria biotopes. BMC Bioinformatics 2015, 16:129. <a href="papers/BMC_Bacteria_Biotope.pdf">[Download]</a></li>
-							</br>
-							<li>Kordjamshidi, P., Moens, M.F. (2015). Global machine learning for spatial ontology population. Journal of Web Semantics, 30, 3-21. <a href="papers/webSemanticJournalPaperPreprint.pdf" target="_blank">[Download]</a></li>
-							</br>
-							<li>Kordjamshidi, P., Massa, W., Provoost, T., Moens, M.F. (2015). Machine Reading for Extraction of Bacteria and Habitat Taxonomies. Lecture Notes in Computer Science (LNCS), Communications in Computer and Information Science (CCIS) series, Springer-Verlag, 2015.</li>
-							</br>
-							<li>Y. Song, H. Peng, P. Kordjamshidi, M. Sammons, D. Roth (2015). Improving a Pipeline Architecture for Shallow Discourse Parsing. Proc. of the Conference on Computational Natural Language Learning (CoNLL2015) Shared Task.</li>
-							</br>
-							<li>Pustejovsky J., Kordjamshidi P., Moens M.F., Levine A., Dworman S., Yocum Z., (2015). SemEval-2015 Task 8: SpaceEval. SemEval2015. <a href="papers/SemEval149.pdf">[Download]</a></li>
-							</br>
-							<li>Massa, W., Kordjamshidi, P.,Provoost, T., Moens, M.F. (2015). Machine reading of biological texts: bacteria-biotope extraction. Proceedings of the 6th international conference on bioinformatics models, methods and algorithms. 8th international joint conference on biomedical engineering systems and technologies. Lisbon, Portugal, 12-15 January 2015 (pp. 55-64) SCITEPRESS, 2015. <a href="papers/BIOINFORMATICS_2015_32_CR.pdf">[Download]</a></li>
+							<li align="justify">Kordjamshidi, P., van Otterlo, M., Moens, M.F. (2017). <b>Spatial role labeling annotation scheme. </b> <i>In: Pustejovsky J., Ide N. (Eds.), Handbook of Linguistic Annotation Springer Verlag.</i> <a href="papers/SpatialRoleLabeling_MinorReview.pdf">[Download]</a></li>
 						</br>
 						</ul>    
 					</li>
 				</ul>
 				<ul>
-					<li><a href="#2014" class="pub">2014</a>
-						<ul class="expando" id="2014">
+					<button onclick="toggle_visibility('2016');" class="button">2016</button>
+						<ul class="shown" id="2016">
 							</br>
-							<li>Glavas, G., Snajder, J.,Kordjamshidi, P., Moens, M.F. (2014). HiEve: A corpus for extracting event hierarchies from news stories. Proceedings of 9th language resources and evaluation conference. 9th language resources and evaluation conference. Reykjavik, Iceland, 26-31 May 2014 (pp. 3678-3683) ELRA, 2014. <a href="papers/Glavasetal.LREC2014.pdf">[Download]</a></li>
+							<li align="justify">P. Kordjamshidi, C. Christodoulopoulos, D. Khashabi, B. Mangipudi, S. Singh, D. Roth. Better call Saul: Flexible Programming for Learning and Inference in NLP, COLING-2016.<a href="papers/KKCMSR16.pdf">[Download]</a></li>
+							</br>
+							<li align="justify">M. Sammons, C. Christodoulopoulos, P. Kordjamshidi, D. Khashabi, V. Srikumar and D. Roth. EDISON: Feature Extraction for NLP, Simplified. LREC-2016.</li>
+						</ul>    
+					</li>
+				</ul>
+				<ul>
+					<button onclick="toggle_visibility('2015');" class="button">2015</button>
+						<ul class="shown" id="2015">
+							</br>
+							<li align="justify">Kordjamshidi, P., Roth, D., Wu, H.(2015). Saul: Towards declarative learning based programming. IJCAI2015. <a href="papers/LFS_LBP_IJCAI%20-%20DR.pdf">[Download]</a><a href="http://cogcomp.cs.illinois.edu/page/publication_view/767" target="_blank" name="Publication"></a></li>
+							</br>
+							<li align="justify">Kordjamshidi, P., Roth, D., Moens, M.F. (2015). Structured learning for spatial information extraction from biomedical text: bacteria biotopes. BMC Bioinformatics 2015, 16:129. <a href="papers/BMC_Bacteria_Biotope.pdf">[Download]</a></li>
+							</br>
+							<li align="justify">Kordjamshidi, P., Moens, M.F. (2015). Global machine learning for spatial ontology population. Journal of Web Semantics, 30, 3-21. <a href="papers/webSemanticJournalPaperPreprint.pdf" target="_blank">[Download]</a></li>
+							</br>
+							<li align="justify">Kordjamshidi, P., Massa, W., Provoost, T., Moens, M.F. (2015). Machine Reading for Extraction of Bacteria and Habitat Taxonomies. Lecture Notes in Computer Science (LNCS), Communications in Computer and Information Science (CCIS) series, Springer-Verlag, 2015.</li>
+							</br>
+							<li align="justify">Y. Song, H. Peng, P. Kordjamshidi, M. Sammons, D. Roth (2015). Improving a Pipeline Architecture for Shallow Discourse Parsing. Proc. of the Conference on Computational Natural Language Learning (CoNLL2015) Shared Task.</li>
+							</br>
+							<li align="justify">Pustejovsky J., Kordjamshidi P., Moens M.F., Levine A., Dworman S., Yocum Z., (2015). SemEval-2015 Task 8: SpaceEval. SemEval2015. <a href="papers/SemEval149.pdf">[Download]</a></li>
+							</br>
+							<li align="justify">Massa, W., Kordjamshidi, P.,Provoost, T., Moens, M.F. (2015). Machine reading of biological texts: bacteria-biotope extraction. Proceedings of the 6th international conference on bioinformatics models, methods and algorithms. 8th international joint conference on biomedical engineering systems and technologies. Lisbon, Portugal, 12-15 January 2015 (pp. 55-64) SCITEPRESS, 2015. <a href="papers/BIOINFORMATICS_2015_32_CR.pdf">[Download]</a></li>
 						</br>
 						</ul>    
 					</li>
 				</ul>
 				<ul>
-					<li><a href="#2013" class="pub">2013</a>
-						<ul class="expando" id="2013">
+					<button onclick="toggle_visibility('2014');" class="button">2014</button>
+						<ul class="shown" id="2014">
 							</br>
-							<li>Kordjamshidi, P., Moens, M.F. (sup.) (2013). Structured Machine Learning for Mapping Natural Language to Spatial Ontologies (Gestructureerd machinaal leren voor het omzetten van natuurlijke taal naar ruimtelijke ontologieën), 233 pp, July 2013. PhD thesis. <a href="papers/ThesisWithoutCover.pdf">[Download]</a></li>
-							</br>
-							<li>Kordjamshidi, P., Hois, J.,van Otterlo, M., Moens, M.F.(2013). Learning to interpret spatial natural language in terms of qualitative spatial relations. In: Tenbrink T., Wiener J., Claramunt C. (Eds.), bookseries: Series Explorations in Language and Space, Representing space in cognition: interrelations of behavior, language, and formal models Oxford University Press, 115-146.</li>
-							</br>
-							<li>Kolomiyets, O., Kordjamshidi, P.,Bethard, S., Moens, M.F. (2013). SemEval-2013 task 3: Spatial role labeling. Second joint conference on lexical and computational semantics (*SEM), Volume 2: Proceedings of the seventh international workshop on semantic evaluation (SemEval 2013). Second joint conference on lexical and computational semantics. Atlanta, USA, 14-15 June 2013 (pp. 255-266). East Stroudsburg, PA: ACL, 2013</li>
-							</br>
-							<li>Kordjamshidi, P., Moens, M.F. (2013). Designing constructive machine learning models based on generalized linear learning techniques. Proceedings of the NIPS workshop on constructive machine learning. NIPS workshop on constructive machine learning. Lake Tahoe, Nevada, USA, 10 December 2013 (pp. 1-5), 2013</li>
-							</br>
-							<li>Kordjamshidi, P., Moens, M.F. (2013). Structured machine learning for mapping natural language to spatial ontologies. International workshop on advances in regularization, optimization, kernel methods and support vector machines: theory and applications. Leuven, 8-19 July 2013, 2013.</li>
+							<li align="justify">Glavas, G., Snajder, J.,Kordjamshidi, P., Moens, M.F. (2014). HiEve: A corpus for extracting event hierarchies from news stories. Proceedings of 9th language resources and evaluation conference. 9th language resources and evaluation conference. Reykjavik, Iceland, 26-31 May 2014 (pp. 3678-3683) ELRA, 2014. <a href="papers/Glavasetal.LREC2014.pdf">[Download]</a></li>
 						</br>
 						</ul>    
 					</li>
 				</ul>
 				<ul>
-					<li><a href="#2012" class="pub">2012</a>
-						<ul class="expando" id="2012">
+					<button onclick="toggle_visibility('2013');" class="button">2013</button>
+						<ul class="shown" id="2013">
 							</br>
-							<li>Kordjamshidi, P., Bethard, S., Moens, M.F. (2012). SemEval-2012 task 3: Spatial role labeling. {*SEM 2012}: The First Joint Conference on Lexical and Computational Semantics -- Volume 1: Proceedings of the main conference and the shared task, and Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation {(SemEval 2012)}: Vol. 2. SemEval-2012. Montreal- Canada, 7-8 June (pp. 365-373) ACL, 2012.</li>
+							<li align="justify">Kordjamshidi, P., Moens, M.F. (sup.) (2013). Structured Machine Learning for Mapping Natural Language to Spatial Ontologies (Gestructureerd machinaal leren voor het omzetten van natuurlijke taal naar ruimtelijke ontologieën), 233 pp, July 2013. PhD thesis. <a href="papers/ThesisWithoutCover.pdf">[Download]</a></li>
 							</br>
-							<li>Kordjamshidi, P., Frasconi, P., van Otterlo, M., Moens, M.F., De Raedt, L. (2012). Relational learning for spatial relation extraction from natural language. In Muggleton, S. (Ed.), Tamaddoni-Nezhad, A. (Ed.), Lisi, F. (Ed.), Lecture notes in artificial intelligence: Vol. 7207. Inductive Logic Programming. Windsor, 31st July-3rd August (pp. 204-220). Berlin Heidelberg: Springer, 2012.</li>
+							<li align="justify">Kordjamshidi, P., Hois, J.,van Otterlo, M., Moens, M.F.(2013). Learning to interpret spatial natural language in terms of qualitative spatial relations. In: Tenbrink T., Wiener J., Claramunt C. (Eds.), bookseries: Series Explorations in Language and Space, Representing space in cognition: interrelations of behavior, language, and formal models Oxford University Press, 115-146.</li>
 							</br>
-							<li>Kordjamshidi, P., Moens, M.F. (2012). Spatial role labeling using structured support vector machines. Proceedings of 21st Belgian-Dutch conference on machine learning (BeneLearn): vol. 21. Belgian-Dutch conference on machine learning (BeneLearn). Ghent, 24-25 May, 71-71, 2012.</li>
+							<li align="justify">Kolomiyets, O., Kordjamshidi, P.,Bethard, S., Moens, M.F. (2013). SemEval-2013 task 3: Spatial role labeling. Second joint conference on lexical and computational semantics (*SEM), Volume 2: Proceedings of the seventh international workshop on semantic evaluation (SemEval 2013). Second joint conference on lexical and computational semantics. Atlanta, USA, 14-15 June 2013 (pp. 255-266). East Stroudsburg, PA: ACL, 2013</li>
+							</br>
+							<li align="justify">Kordjamshidi, P., Moens, M.F. (2013). Designing constructive machine learning models based on generalized linear learning techniques. Proceedings of the NIPS workshop on constructive machine learning. NIPS workshop on constructive machine learning. Lake Tahoe, Nevada, USA, 10 December 2013 (pp. 1-5), 2013</li>
+							</br>
+							<li align="justify">Kordjamshidi, P., Moens, M.F. (2013). Structured machine learning for mapping natural language to spatial ontologies. International workshop on advances in regularization, optimization, kernel methods and support vector machines: theory and applications. Leuven, 8-19 July 2013, 2013.</li>
 						</br>
 						</ul>    
 					</li>
 				</ul>
 				<ul>
-					<li><a href="#2011" class="pub">2011</a>
-						<ul class="expando" id="2011">
+					<button onclick="toggle_visibility('2012');" class="button">2012</button>
+						<ul class="shown" id="2012">
 							</br>
-							<li>Kordjamshidi, P., van Otterlo, M., Moens, M.F. (2011). Spatial role labeling: Towards extraction of spatial relations from natural language. ACM Transactions on Speech and Language Processing, 8 (3), article 4, 36 p , Kordjamshidietal-ACM-TSLP-2011.pdf.</li>
+							<li align="justify">Kordjamshidi, P., Bethard, S., Moens, M.F. (2012). SemEval-2012 task 3: Spatial role labeling. {*SEM 2012}: The First Joint Conference on Lexical and Computational Semantics -- Volume 1: Proceedings of the main conference and the shared task, and Volume 2: Proceedings of the Sixth International Workshop on Semantic Evaluation {(SemEval 2012)}: Vol. 2. SemEval-2012. Montreal- Canada, 7-8 June (pp. 365-373) ACL, 2012.</li>
 							</br>
-							<li>Kordjamshidi, P., Frasconi, P., van Otterlo, M., Moens, M.F., De Raedt, L. (2011). Spatial relation extraction using relational learning. Latest Advances in Inductive Logic Programming. ILP. Windsor Great Park, United Kingdom, 31 July-3rd August (pp. 1-6), 2011, ILP_4.pdf.</li>
+							<li align="justify">Kordjamshidi, P., Frasconi, P., van Otterlo, M., Moens, M.F., De Raedt, L. (2012). Relational learning for spatial relation extraction from natural language. In Muggleton, S. (Ed.), Tamaddoni-Nezhad, A. (Ed.), Lisi, F. (Ed.), Lecture notes in artificial intelligence: Vol. 7207. Inductive Logic Programming. Windsor, 31st July-3rd August (pp. 204-220). Berlin Heidelberg: Springer, 2012.</li>
 							</br>
-							<li>Kordjamshidi, P., Hois, J., van Otterlo, M., Moens, M.F. (2011). Machine learning for interpretation of spatial natural language in terms of QSR. International Conference on Spatial Information Theory (COSIT’11).Extended abstract.: Vol. Spatial Information Theory (technical report). COSIT. Belfast, 12-16 September (pp. 1-5), 2011, abstract_cosit.pdf.</li>
+							<li align="justify">Kordjamshidi, P., Moens, M.F. (2012). Spatial role labeling using structured support vector machines. Proceedings of 21st Belgian-Dutch conference on machine learning (BeneLearn): vol. 21. Belgian-Dutch conference on machine learning (BeneLearn). Ghent, 24-25 May, 71-71, 2012.</li>
+						</br>
+						</ul>    
+					</li>
+				</ul>
+				<ul>
+					<button onclick="toggle_visibility('2011');" class="button">2011</button>
+						<ul class="shown" id="2011">
+							</br>
+							<li align="justify">Kordjamshidi, P., van Otterlo, M., Moens, M.F. (2011). Spatial role labeling: Towards extraction of spatial relations from natural language. ACM Transactions on Speech and Language Processing, 8 (3), article 4, 36 p , Kordjamshidietal-ACM-TSLP-2011.pdf.</li>
+							</br>
+							<li align="justify">Kordjamshidi, P., Frasconi, P., van Otterlo, M., Moens, M.F., De Raedt, L. (2011). Spatial relation extraction using relational learning. Latest Advances in Inductive Logic Programming. ILP. Windsor Great Park, United Kingdom, 31 July-3rd August (pp. 1-6), 2011, ILP_4.pdf.</li>
+							</br>
+							<li align="justify">Kordjamshidi, P., Hois, J., van Otterlo, M., Moens, M.F. (2011). Machine learning for interpretation of spatial natural language in terms of QSR. International Conference on Spatial Information Theory (COSIT 	’11).Extended abstract.: Vol. Spatial Information Theory (technical report). COSIT. Belfast, 12-16 September (pp. 1-5), 2011, abstract_cosit.pdf.</li>
 						
 						</br>
 						</ul>    
 					</li>
 				</ul>
 				<ul>
-					<li><a href="#2010" class="pub">2010</a>
-						<ul class="expando" id="2010">
+					<button onclick="toggle_visibility('2010');" class="button">2010</button>
+						<ul class="shown" id="2010">
 							</br>
-							<li>Kordjamshidi, P., Moens, M.F., van Otterlo, M. (2010). Spatial Role Labeling: Task Definition and Annotation Scheme. In Calzolari, N. (Ed.), Khalid, C. (Ed.), Bente, M. (Ed.), Proceedings of the Seventh conference on International Language Resources and Evaluation (LREC'10). Seventh conference on International Language Resources and Evaluation. Malta, 19-21 May 2010 (pp. 413-420) European Language Resources Association (ELRA), 2010. <a href="papers/LREC_2010_paper.pdf">[Paper]</a></i> <a href="iPresentations/LREC_2010.pdf">[Slides]</a></li>
+							<li align="justify">Kordjamshidi, P., Moens, M.F., van Otterlo, M. (2010). Spatial Role Labeling: Task Definition and Annotation Scheme. In Calzolari, N. (Ed.), Khalid, C. (Ed.), Bente, M. (Ed.), Proceedings of the Seventh conference on International Language Resources and Evaluation (LREC'10). Seventh conference on International Language Resources and Evaluation. Malta, 19-21 May 2010 (pp. 413-420) European Language Resources Association (ELRA), 2010. <a href="papers/LREC_2010_paper.pdf">[Paper]</a></i> <a href="iPresentations/LREC_2010.pdf">[Slides]</a></li>
 							</br>
-							<li>Kordjamshidi, P., van Otterlo, M., Moens, M.F. (2010). From language towards formal spatial calculi. In Ross, R. (Ed.), Hois, J. (Ed.), Kelleher, J. (Ed.), Proc. of 1st Workshop COSLI'10. Computational Models of Spatial Language Interpretation (COSLI). Mt.Hood/Portland, OR, USA, 15-August 2010 (pp. 17-24). http://ceur-ws.org/Vol-620: CEUR-WS.org, 2010. <a href="papers/COSLI2010.pdf">[Paper]</a></i> <a href="iPresentations/CoSLI2010.pdf">[Slides]</li>
+							<li align="justify">Kordjamshidi, P., van Otterlo, M., Moens, M.F. (2010). From language towards formal spatial calculi. In Ross, R. (Ed.), Hois, J. (Ed.), Kelleher, J. (Ed.), Proc. of 1st Workshop COSLI'10. Computational Models of Spatial Language Interpretation (COSLI). Mt.Hood/Portland, OR, USA, 15-August 2010 (pp. 17-24). http://ceur-ws.org/Vol-620: CEUR-WS.org, 2010. <a href="papers/COSLI2010.pdf">[Paper]</a></i> <a href="iPresentations/CoSLI2010.pdf">[Slides]</a></li>
 						</ul>    
 					</li>
 				</ul>
 				<ul>
-					<li><a href="#2009" class="pub">2009 and Earlier</a>
-						<ul class="expando" id="2009">
+					<button onclick="toggle_visibility('2009');" class="button">2009 and Earlier</button>
+						<ul class="shown" id="2009">
 							</br>
-							<li>P.KordJamshidi, B. De Baets,G. De Tre. Prototype-based classification by fuzzification of cases. Proceedings of IPMU'08, pp. 1519-1526, Torremolinos (Malaga), June 22-27, 2008.PDF</li>
+							<li align="justify">P.KordJamshidi, B. De Baets,G. De Tre. Prototype-based classification by fuzzification of cases. Proceedings of IPMU'08, pp. 1519-1526, Torremolinos (Malaga), June 22-27, 2008.PDF</li>
 							</br>
-							<li>G. De Tre, T. Matthe, P. KordJamshidi, M. Demoor (2007). On the Use of Case Based Reasoning Techniques in Flexible Querying. 18th International Workshop on Database and Expert Systems Applications, 2007, 345-349.</li>
+							<li align="justify">G. De Tre, T. Matthe, P. KordJamshidi, M. Demoor (2007). On the Use of Case Based Reasoning Techniques in Flexible Querying. 18th International Workshop on Database and Expert Systems Applications, 2007, 345-349.</li>
 							</br>
-							<li>Saeed Jalili, Parisa Kord Jamshidi. Active Learning with Labeled and Unlabeled Documents in text categorization (ITCC 2003), 28-30 April 2003, Las Vegas, NV, USA. IEEE Computer Society.PDF</li>
+							<li align="justify">Saeed Jalili, Parisa Kord Jamshidi. Active Learning with Labeled and Unlabeled Documents in text categorization (ITCC 2003), 28-30 April 2003, Las Vegas, NV, USA. IEEE Computer Society.PDF</li>
 							</br>
-							<li>Saeed Jalili, Parisa Kordjamshidi. Applying automatic active text classification in categorization of Iran's Historical Documents. Conference of documents and history of Iran Dec 2002, Tehran, Iran (in Persian language).</li>
+							<li align="justify">Saeed Jalili, Parisa Kordjamshidi. Applying automatic active text classification in categorization of Iran's Historical Documents. Conference of documents and history of Iran Dec 2002, Tehran, Iran (in Persian language).</li>
 							</br>
-							<li>Saeed Jalili, Parisa Kordjamshidi. Text categorization based on machine learning techniques. Conference of information technology and optimization of telecommunication industry, Sep 2002 Isfahan, Iran (in Persian language).</li>
+							<li align="justify">Saeed Jalili, Parisa Kordjamshidi. Text categorization based on machine learning techniques. Conference of information technology and optimization of telecommunication industry, Sep 2002 Isfahan, Iran (in Persian language).</li>
 							</br>
-							<li>Saeed Jalili, Parisa Kordjamshidi. Active text classification and using unlabeled documents. International computer conference of computer society of Iran CSICC2003, Mashhad, Iran (in Persian language,pdf).</li>
+							<li align="justify">Saeed Jalili, Parisa Kordjamshidi. Active text classification and using unlabeled documents. International computer conference of computer society of Iran CSICC2003, Mashhad, Iran (in Persian language,pdf).</li>
 							</br>
-							<li>Parisa Kord Jamshidi, Getting to know the computer (for non_computer students), ISBN:964-8798-24-9, Summer 2006 (in Persian language).</li>
+							<li align="justify">Parisa Kord Jamshidi, Getting to know the computer (for non_computer students), ISBN:964-8798-24-9, Summer 2006 (in Persian language).</li>
 						</br>
 						</ul>    
 					</li>
@@ -260,6 +246,14 @@
 				} else {
 					header.classList.remove("sticky");
 				}
+			}
+			function toggle_visibility(id) {
+				var e = document.getElementById(id);
+				if(e.style.display == 'none') {
+					e.style.display = 'block';
+				} else {
+					e.style.display = 'none';
+				} 
 			}
 		</script>
 	</body>
