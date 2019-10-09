@@ -1,0 +1,20 @@
+- title: "Systems AI: A Declarative Learning Based Programming Perspective"
+  authors: Parisa Kordjamshidi, Dan Roth, Kristian Kersting.
+  venue: IJCAI-ECAI-18
+  year: 2018
+  link:
+    url: https://hlr.github.io/papers/IJCAI-2018-survey.pdf
+    display:  Download
+
+- title: "Neural Machine Translation Advised by Statistical Machine Translation: The Case of Farsi-Spanish Bilingually Low-Resource Scenario"
+  authors: Benyamin Ahmadnia, Parisa Kordjamshidi, Reza Haffari
+  venue: ICMLA 2018
+  year: 2018
+
+- title: "Anaphora Resolution for Improving Spatial Relation Extraction from Text"
+  authors: Umar Manzoor, Parisa Kordjamshidi
+  venue: SpLU 2018
+  year: 2018
+  link:
+    url: https://hlr.github.io/papers/SpatialCoreferenceResolution-7.pdf
+    display:  Download
