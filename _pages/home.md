@@ -1,7 +1,7 @@
 ---
-title: "Heterogeneous Learning and Reasoning - Home"
+title: "HLR - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Heterogeneous Learning and Reasoning at Michigan State University."
 sitemap: false
 permalink: /
 ---

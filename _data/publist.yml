@@ -1,6 +1,6 @@
 - title: "Systems AI: A Declarative Learning Based Programming Perspective"
   authors: Parisa Kordjamshidi, Dan Roth, Kristian Kersting.
-  venue: IJCAI-ECAI-18
+  venue: IJCAI-ECAI 2018
   year: 2018
   link:
     url: https://hlr.github.io/papers/IJCAI-2018-survey.pdf
@@ -26,3 +26,36 @@
   link:
     url: https://hlr.github.io/papers/NAACL-2018-short.pdf
     display: Download
+
+- title: "Relational Learning and Feature Extraction by Querying over Heterogeneous Information Networks"
+  authors: Parisa Kordjamshidi, Sameer Singh, Daniel Khashabi, Christos Christodoulopoulos, Mark Sammons, Saurabh Sinha and Dan Roth
+  venue: UAI 2017, Workshop on Statistical Relational AI (StarAI)
+  year: 2017
+  link:
+    url: https://hlr.github.io/papers/StarAI-Saul.pdf
+    display: Download
+
+- title: "Spatial Language Understanding with Multimodal Graphs using Declarative Learning based Programming"
+  authors: Parisa Kordjamshidi, T. Rahgooy, U. Manzoor
+  venue: EMNLP 2017, Workshop on Structured Prediction for NLP
+  year: 2017
+
+- title: "CLEF 2017: Multimodal Spatial Role Labeling (mSpRL) Task Overview"
+  authors: Parisa Kordjamshidi, T. Rahgooy, M-F. Moens, J. Pustejovsky, U. Manzoor and K. Roberts
+  venue: LNCS volume 10456 on Experimental IR Meets Multilinguality, Multimodality, and Interaction
+  year: 2017
+
+- title: "Spatial role labeling annotation scheme"
+  authors: Kordjamshidi, P., van Otterlo, M., Moens, M.F
+  year: 2017
+  venue: "In: Pustejovsky J., Ide N. (Eds.), Handbook of Linguistic Annotation Springer Verlag."
+
+- title: "Better call Saul: Flexible Programming for Learning and Inference in NLP"
+  authors: P. Kordjamshidi, C. Christodoulopoulos, D. Khashabi, B. Mangipudi, S. Singh, D. Roth
+  year: 2016
+  venue: COLING 2016
+
+- title: "EDISON: Feature Extraction for NLP, Simplified"
+  authors: M. Sammons, C. Christodoulopoulos, P. Kordjamshidi, D. Khashabi, V. Srikumar and D. Roth
+  year: 2016
+  venue: LREC 2016
