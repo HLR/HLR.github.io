@@ -18,3 +18,11 @@
   link:
     url: https://hlr.github.io/papers/SpatialCoreferenceResolution-7.pdf
     display:  Download
+
+- title: "Visually Guided Spatial Relation Extraction from Text"
+  authors: Taher Rahgooy, Umar Manzoor, Parisa Kordjamshidi
+  venue: NAACL HLT 2018
+  year: 2018
+  link:
+    url: https://hlr.github.io/papers/NAACL-2018-short.pdf
+    display: Download
