@@ -1,9 +1,9 @@
 ---
-title: "HLR - News"
+title: "HLR - Projects"
 layout: textlay
-excerpt: "HLR - News Page"
+excerpt: "HLR - projects"
 sitemap: false
-permalink: /allnews.html
+permalink: /projects
 ---
 
 # News

@@ -1,7 +1,7 @@
 ---
 title: "HLR - Publications"
 layout: gridlay
-excerpt: "HLR -- Publications."
+excerpt: "HHeterogeneous Learning and Reasoning at Michigan State University."
 sitemap: false
 permalink: /publications/
 ---
