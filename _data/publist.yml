@@ -1,0 +1,99 @@
+#2019
+
+- title: "From Ontologies to Learning-Based Programs"
+  authors: Quan Guo, Andrzej Uszok and Parisa Kordjamshidi.
+  venue: IJCAI-2019
+  year: 2019
+  link:
+    url: http://delbp.github.io/papers/DeLBP-2019_Accepted-3.pdf
+#    display:  Download
+
+
+- title: "From Spatial Relations to Spatial Configurations"
+  authors: Soham Dan, Parisa Kordjamshidi, Julia Bonn, Archna Bhatia, Martha Palmer and Dan Roth.
+  venue: splu-robonlp workshop, co-located at NAACL-2019
+  year: 2019
+#  link:
+#    url: https://hlr.github.io/papers/IJCAI-2018-survey.pdf
+#    display:  Download
+
+- title: "Semantic Segmentation of Microengineered Neural Tissues"
+  authors: H. Karimian, K. Pollard, M. J. Moore, P. Kordjamshidi.
+  venue: 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)
+  year: 2019
+#  link:
+#    url: https://hlr.github.io/papers/IJCAI-2018-survey.pdf
+#    display:  Download
+
+- title: "Deep Convolutional Neural Network for Flood Extent Mapping Using Unmanned Aerial Vehicles Data"
+  authors: Gebrehiwot, Asmamaw; Hashemi-Beni, Leila; Thompson, Gary; Kordjamshidi, Parisa; Langan, Thomas E.
+#  venue: IJCAI-ECAI 2018
+  year: 2019
+#  link:
+#    url: https://hlr.github.io/papers/IJCAI-2018-survey.pdf
+#    display:  Download
+
+#2018
+- title: "Systems AI: A Declarative Learning Based Programming Perspective"
+  authors: Parisa Kordjamshidi, Dan Roth, Kristian Kersting.
+  venue: IJCAI-ECAI 2018
+  year: 2018
+  link:
+    url: https://hlr.github.io/papers/IJCAI-2018-survey.pdf
+    display:  Download
+
+- title: "Neural Machine Translation Advised by Statistical Machine Translation: The Case of Farsi-Spanish Bilingually Low-Resource Scenario"
+  authors: Benyamin Ahmadnia, Parisa Kordjamshidi, Reza Haffari
+  venue: ICMLA 2018
+  year: 2018
+
+- title: "Anaphora Resolution for Improving Spatial Relation Extraction from Text"
+  authors: Umar Manzoor, Parisa Kordjamshidi
+  venue: SpLU 2018
+  year: 2018
+  link:
+    url: https://hlr.github.io/papers/SpatialCoreferenceResolution-7.pdf
+    display:  Download
+
+- title: "Visually Guided Spatial Relation Extraction from Text"
+  authors: Taher Rahgooy, Umar Manzoor, Parisa Kordjamshidi
+  venue: NAACL HLT 2018
+  year: 2018
+  link:
+    url: https://hlr.github.io/papers/NAACL-2018-short.pdf
+    display: Download
+
+#2017
+- title: "Relational Learning and Feature Extraction by Querying over Heterogeneous Information Networks"
+  authors: Parisa Kordjamshidi, Sameer Singh, Daniel Khashabi, Christos Christodoulopoulos, Mark Sammons, Saurabh Sinha and Dan Roth
+  venue: UAI 2017, Workshop on Statistical Relational AI (StarAI)
+  year: 2017
+  link:
+    url: https://hlr.github.io/papers/StarAI-Saul.pdf
+    display: Download
+
+- title: "Spatial Language Understanding with Multimodal Graphs using Declarative Learning based Programming"
+  authors: Parisa Kordjamshidi, T. Rahgooy, U. Manzoor
+  venue: EMNLP 2017, Workshop on Structured Prediction for NLP
+  year: 2017
+
+- title: "CLEF 2017: Multimodal Spatial Role Labeling (mSpRL) Task Overview"
+  authors: Parisa Kordjamshidi, T. Rahgooy, M-F. Moens, J. Pustejovsky, U. Manzoor and K. Roberts
+  venue: LNCS volume 10456 on Experimental IR Meets Multilinguality, Multimodality, and Interaction
+  year: 2017
+
+- title: "Spatial role labeling annotation scheme"
+  authors: Kordjamshidi, P., van Otterlo, M., Moens, M.F
+  year: 2017
+  venue: "In: Pustejovsky J., Ide N. (Eds.), Handbook of Linguistic Annotation Springer Verlag."
+
+#2016
+- title: "Better call Saul: Flexible Programming for Learning and Inference in NLP"
+  authors: P. Kordjamshidi, C. Christodoulopoulos, D. Khashabi, B. Mangipudi, S. Singh, D. Roth
+  year: 2016
+  venue: COLING 2016
+
+- title: "EDISON: Feature Extraction for NLP, Simplified"
+  authors: M. Sammons, C. Christodoulopoulos, P. Kordjamshidi, D. Khashabi, V. Srikumar and D. Roth
+  year: 2016
+  venue: LREC 2016

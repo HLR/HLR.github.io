@@ -1,0 +1,20 @@
+
+- name: Hossein Faghihi
+  photo: hossein.png
+  bio: ....
+  email: rajabyfa@msu.edu
+
+- name: Drew Hayward
+  photo: drew.jpg
+  bio: Drew Hayward, is a Ph.D. student at Michigan State University. His research interests include Artificial Intelligence, Information Retrieval, Knowledge Bases, Natural Language Processing, Deep Learning.
+  email: haywar40@msu.edu
+
+- name: Roshanak Mirzaee
+  photo: roshanak.png
+  bio: ...
+  email: mirzaeem@msu.edu
+
+- name: Chen Zheng
+  photo: Zheng.png
+  bio: Chen Zheng is a Ph.D. student at Computer Science and Engineering Department, Michigan State University. His research focus on Machine Learning, Natural Language Processing and Information Retrieval. He's currently working on Spatial Role Labelling and Reasoning tasks.
+  email: zhengc12@msu.edu

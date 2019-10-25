@@ -1,2 +1,7 @@
-# HLR.github.io
-This repo contains the information of the  Heterogeneous Machine Learning and Reasoning (HLR) Lab website. 
+# HLR Website
+
+This is the website of our academic research group at Michigan State University.
+
+
+Copyright HLR. Code released under the MIT License.
+
