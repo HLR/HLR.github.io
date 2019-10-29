@@ -6,9 +6,9 @@ sitemap: false
 permalink: /projects
 ---
 
-# News
+# Projects
 
-{% for article in site.data.news %}
-<p>{{ article.date }} <br>
-<em>{{ article.headline }}</em></p>
+ {% for project in site.data.projects %}
+<p>{{ project.date }} <br>
+<em>{{ project.headline }}</em></p>
 {% endfor %}
