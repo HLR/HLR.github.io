@@ -1,0 +1,22 @@
+#Softwares
+
+- title: "HLR"
+  description: This project is Heterogeneous Learning and Reasoning (HLR) Research Group. ......
+  members: Parisa Kordjamshidi.
+  webpage: https://github.com/HLR
+
+- title: "SpRL"
+  description: <strong>Sp</strong>atial <strong>R</strong>ole <strong>L</strong>abeling (SpRL) is .....
+  members: Parisa Kordjamshidi.
+  webpage: https://github.com/HLR/SpRL
+
+- title: "HetSaul"
+  description: This project augments <a href="https://github.com/CogComp/saul" class="inner" target="_blank"> Saul</a> to support working with heterogeneous and multimodal information, e.g., vision and language. Saul is  modeling language implemented as a domain specific language (DSL) in Scala. The main goal of Saul is to facilitate designing machine learning models with arbitrary configurations for the application programmer.
+  members: Parisa Kordjamshidi.
+  webpage: https://github.com/HLR/HetSaul
+
+
+
+
+
+

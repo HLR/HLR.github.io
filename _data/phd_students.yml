@@ -1,20 +1,25 @@
 
 - name: Hossein Faghihi
   photo: hossein.png
-  bio: ....
+  research_interest: Natural Language processing, knowledge reasoning and representation, Intelligent HCI, Context-aware applications.
   email: rajabyfa@msu.edu
+  webpage: http://hosseinfaghihi.herokuapp.com
 
 - name: Drew Hayward
   photo: drew.jpg
-  bio: Drew Hayward, is a Ph.D. student at Michigan State University. His research interests include Artificial Intelligence, Information Retrieval, Knowledge Bases, Natural Language Processing, Deep Learning.
+  research_interest: Artificial Intelligence, Information Retrieval, Knowledge Bases, Natural Language Processing, Deep Learning.
   email: haywar40@msu.edu
+  webpage: /
 
 - name: Roshanak Mirzaee
   photo: roshanak.png
-  bio: ...
+  research_interest: Machine Learning, Natural Language processing, Question Answering in NLP, Reasoning in NLP, Knowledge and Information Retrieval and HCI.
   email: mirzaeem@msu.edu
+  webpage: http://roshanak-mirzaee.herokuapp.com
 
 - name: Chen Zheng
   photo: Zheng.png
-  bio: Chen Zheng is a Ph.D. student at Computer Science and Engineering Department, Michigan State University. His research focus on Machine Learning, Natural Language Processing and Information Retrieval. He's currently working on Spatial Role Labelling and Reasoning tasks.
+#  bio: He's currently working on Spatial Role Labelling and Reasoning tasks.
+  research_interest: Machine Learning, Natural Language Processing and Information Retrieval. currently working on Spatial Role Labelling and Reasoning tasks.
   email: zhengc12@msu.edu
+  webpage: /

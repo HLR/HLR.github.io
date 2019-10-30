@@ -1,4 +1,5 @@
 - name: Quan Guo
   photo: Guo.png
-  bio: Quan Guo, Ph.D., is working as a Postdoctoral Fellow at Michigan State University, USA. His research interests include Machine Intelligence, Cognitive Science, Neuroscience, Neural Networks, Recurrent Neural Networks, and Deep Learning.
+  research_interest: Machine Intelligence, Cognitive Science, Neuroscience, Neural Networks, Recurrent Neural Networks, and Deep Learning.
   email: guoquan@msu.edu
+  webpage: /
