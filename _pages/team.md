@@ -18,10 +18,10 @@ permalink: /team/
 <div class="row">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
+<div class="col-sm-12 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/profiles/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.bio }}<br>email: <{{ member.email }}></i>
+  <h4><a href="{{ member.webpage }}" style="color:inherit">{{ member.name }}</a></h4>
+  <i>{{ member.bio }}</i><br><br><i><b>Research Interest</b>: {{ member.research_interest }}<br><b>Email</b>: <{{ member.email }}></i>
   <ul style="overflow: hidden">
 
   </ul>
@@ -52,8 +52,8 @@ permalink: /team/
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/profiles/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.bio }}<br>email: <{{ member.email }}></i>
+  <h4><a href="{{ member.webpage }}" style="color:inherit">{{ member.name }}</a></h4>
+  <i><b>Research Interests</b>: {{ member.research_interest }}<br><b>Email</b>: <{{ member.email }}></i>
   <ul style="overflow: hidden">
 
   </ul>
@@ -84,8 +84,8 @@ permalink: /team/
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/profiles/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.bio }}<br>email: <{{ member.email }}></i>
+  <h4><a href="{{ member.webpage }}" style="color:inherit">{{ member.name }}</a></h4>
+  <i><b>Research Interests</b>: {{ member.research_interest }}<br><b>Email</b>: <{{ member.email }}></i>
   <ul style="overflow: hidden">
 
   </ul>
@@ -111,8 +111,8 @@ permalink: /team/
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/profiles/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.bio }}<br>email: <{{ member.email }}></i>
+  <h4><a href="{{ member.webpage }}" style="color:inherit">{{ member.name }}</a></h4>
+  <i><b>Research Interests</b>: {{ member.research_interest }}<br><b>Email</b>: <{{ member.email }}></i>
   <ul style="overflow: hidden">
 
   </ul>
