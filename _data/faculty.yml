@@ -1,6 +1,6 @@
 - name: Dr. Parisa Kordjamshidi
   photo: Kordjamshidi.jpg
-  bio: Parisa Kordjamshidi is an assistant professor of computer science at Michigan State University and affiliated as a research scientist at IHMC. She has worked on the extraction of formal semantics and structured representations from natural language, with a specific focus on spatial semantics representation and structured output learning models. She obtained an NSF CAREER award in Feb 2019 to work on combining learning and reasoning for spatial language understanding. She is the leading PI of a project funded by the Office of Naval Research (ONR) to perform basic research and develop a declarative learning-based programming framework for integration of domain knowledge into statistical learning (DominKnowS project, 2019-2022). DeLBP facilitates programming for building systems that require a number of learning and reasoning components that interact with each other and receive data from heterogeneous resources.
+  bio: Parisa Kordjamshidi is an assistant professor of computer science at Michigan State University and affiliated as a research scientist at IHMC. 
   research_interest: Her main research interests are artificial intelligence, machine learning, natural language processing, and declarative learning based programming (DeLBP).
   email: kordjams@msu.edu
   webpage: http://www.cse.msu.edu/~kordjams/
