@@ -8,6 +8,9 @@ permalink: /team/
 
 # Group Members
 
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/group-pic.jpg" width="80%">
+
+
 ## Faculty
 {% assign number_printed = 0 %}
 {% for member in site.data.faculty %}
