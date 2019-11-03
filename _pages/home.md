@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-# Welcome to the **Heterogeneous Learning and Reasoning** Lab
+## Welcome to the **Heterogeneous Learning and Reasoning** Lab
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/AI_web.jpg" width="100%">
 
