@@ -21,7 +21,7 @@ permalink: /projects
 <pubtit><a href="{{ site.url }}{{ site.baseurl }}/projects" style="color: inherit"> {{ project.title }} </a></pubtit>
 [//]: # (<p><img src="" class="img-responsive" width="33%" style="float: left"></p>)
 <p> {{ project.description }} </p>
-<p><em> {{ project.members }} </em></p>
+<p><em> {{ project.members }, {project.graduate_students}} </em></p>
 <p><strong><a href="{{ project.webpage }}">{{ project.title }}</a></strong></p>
 <p> </p>
 </div>
@@ -37,7 +37,7 @@ permalink: /projects
 {% endfor %}
 
 
-# Softwares
+# Software
 
 {% assign number_printed = 0 %}
  {% for software in site.data.softwares %}
