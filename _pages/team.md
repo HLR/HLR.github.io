@@ -26,7 +26,7 @@ permalink: /team/
   <h4><a href="{{ member.webpage }}" style="color:inherit">{{ member.name }}</a></h4>
   <i>{{ member.bio }}</i><br><br>
   <i><b>Research Interest</b>: {{ member.research_interest }}<br><b>Email</b>: <{{ member.email }}></i>
-  <i>[Webpage]({{ member.webpage }})
+  <i>[Webpage]({{ member.webpage }})</i>
   <ul style="overflow: hidden">
 
   </ul>
