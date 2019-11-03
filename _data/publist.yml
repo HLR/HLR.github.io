@@ -26,14 +26,14 @@
 #    display:  Download
 
 - title: "Semantic Segmentation of Microengineered Neural Tissues"
-  authors: H. Karimian, K. Pollard, M. J. Moore, P. Kordjamshidi.
-  venue: 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)
+  authors: "H. Karimian, K. Pollard, M. J. Moore, P. Kordjamshidi."
+  venue: "41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)"
   year: 2019
 #  link:
 #    url: https://hlr.github.io/papers/IJCAI-2018-survey.pdf
 #    display:  Download
 
-- title: "Rapid in-vitro detection of drug-induced peripheral neuropathy through electrophysiological and histological analysis of 3D microphysiological "nerve-on-a-chip" cultures"
+- title: "Rapid in-vitro detection of drug-induced peripheral neuropathy through electrophysiological and histological analysis of 3D microphysiological \"nerve-on-a-chip\" cultures"
   authors: Pollard KJ, Karimian HR, Curley LJ, Kordjamshidi P, and Moore MJ.
   venue: Society for Neuroscience Conference, Chicago, IL, October 19-23, 2019.
   year: 2019
@@ -43,7 +43,7 @@
 
 - title: "Deep Convolutional Neural Network for Flood Extent Mapping Using Unmanned Aerial Vehicles Data"
   authors: Gebrehiwot, Asmamaw; Hashemi-Beni, Leila; Thompson, Gary; Kordjamshidi, Parisa; Langan, Thomas E.
-  venue: Sensors 19, no. 7: 1486, 2019
+  venue: "Sensors 19, no. 7: 1486, 2019"
   year: 2019
 #  link:
 #    url: https://hlr.github.io/papers/IJCAI-2018-survey.pdf
@@ -54,7 +54,7 @@
   authors: Parisa Kordjamshidi, Dan Roth, Kristian Kersting.
   venue: IJCAI-ECAI 2018
   year: 2018
-  link: https://hlr.github.io/papers/IJCAI-2018-survey.pdf
+  link:
     url: https://hlr.github.io/papers/IJCAI-2018-survey.pdf
     display:  Download
 
