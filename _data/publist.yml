@@ -2,10 +2,18 @@
 
 - title: "From Ontologies to Learning-Based Programs"
   authors: Quan Guo, Andrzej Uszok and Parisa Kordjamshidi.
-  venue: IJCAI-2019
+  venue: IJCAI-2019 workshop on Declarative Learning-based programming
   year: 2019
   link:
     url: http://delbp.github.io/papers/DeLBP-2019_Accepted-3.pdf
+#    display:  Download
+
+- title: "Declarative Learning-Based Programming as an Interface to AI Systems"
+  authors: Parisa Kordjamshidi, Dan Roth, Kristian Kersting.
+  venue: arXiv
+  year: 2019
+  link:
+    url: https://arxiv.org/pdf/1906.07809.pdf
 #    display:  Download
 
 
@@ -25,9 +33,17 @@
 #    url: https://hlr.github.io/papers/IJCAI-2018-survey.pdf
 #    display:  Download
 
+- title: "Rapid in-vitro detection of drug-induced peripheral neuropathy through electrophysiological and histological analysis of 3D microphysiological "nerve-on-a-chip" cultures"
+  authors: Pollard KJ, Karimian HR, Curley LJ, Kordjamshidi P, and Moore MJ.
+  venue: Society for Neuroscience Conference, Chicago, IL, October 19-23, 2019.
+  year: 2019
+#  link:
+#    url: https://hlr.github.io/papers/IJCAI-2018-survey.pdf
+#    display:  Download
+
 - title: "Deep Convolutional Neural Network for Flood Extent Mapping Using Unmanned Aerial Vehicles Data"
   authors: Gebrehiwot, Asmamaw; Hashemi-Beni, Leila; Thompson, Gary; Kordjamshidi, Parisa; Langan, Thomas E.
-#  venue: IJCAI-ECAI 2018
+  venue: Sensors 19, no. 7: 1486, 2019
   year: 2019
 #  link:
 #    url: https://hlr.github.io/papers/IJCAI-2018-survey.pdf
@@ -38,7 +54,7 @@
   authors: Parisa Kordjamshidi, Dan Roth, Kristian Kersting.
   venue: IJCAI-ECAI 2018
   year: 2018
-  link:
+  link: https://hlr.github.io/papers/IJCAI-2018-survey.pdf
     url: https://hlr.github.io/papers/IJCAI-2018-survey.pdf
     display:  Download
 
