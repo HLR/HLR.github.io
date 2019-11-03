@@ -1,13 +1,14 @@
 ---
 title: "HLR - Publications"
 layout: gridlay
-excerpt: "HHeterogeneous Learning and Reasoning at Michigan State University."
+excerpt: "Heterogeneous Learning and Reasoning at Michigan State University."
 sitemap: false
 permalink: /publications/
 ---
 
 
-# Publications
+# Recent Publication
+### For the full list see [here]: http://www.cse.msu.edu/~kordjams/publication.htm .
 {% assign year = 0 %}
 {% for publi in site.data.publist %}
 
