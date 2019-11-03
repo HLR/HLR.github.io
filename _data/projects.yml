@@ -4,11 +4,13 @@
   description: A Declarative Learning Based Programming Framework For Integration of <strong>Dom</strong>ain <strong>Know</strong>ledge in <strong>S</strong>tatistical Learning
   members: Parisa Kordjamshidi, James Allen, Choh Man Teng, Quan Guo, Andrzej Uszok, Brent Kristen Venable.
   graduate_students: Hossein Faghihi, Drew Hayward.
+  Funding Resource: Office of Naval Research (ONR).
   webpage: https://domiknows.github.io
 
 - title: "SpLang"
   description: Combining Learning and Reasoning for <strong>Sp</strong>atial <strong>Lan</strong>guage Understandin<strong>g</strong>
   members: Parisa Kordjamshidi.
+  funding_resource: National Science Foundation (NSF).
   graduate_students: Roshanak Mirzaee, Yue Zhang, Chen Zheng.
   webpage: https://domiknows.github.io
 
