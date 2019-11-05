@@ -8,9 +8,11 @@ permalink: /projects
 
 # Projects
 
+<ul>
+{% for project in site.data.projects %}<li><a href="#{{ project.id }}"> {{ project.title }}. </a> ( {{ project.description }} )</li>{% endfor %}
+</ul>
 
-Jump to: {% for project in site.data.projects %} [ {{ project.title }} ](#{{ project.id }}). {% endfor %}
-
+<br><br>
 {% assign number_printed = 0 %}
  {% for project in site.data.projects %}
  {% assign even_odd = number_printed | modulo: 2 %}
@@ -28,7 +30,7 @@ Jump to: {% for project in site.data.projects %} [ {{ project.title }} ](#{{ pro
 <p>Members: <em> {{ project.members }}, {{project.graduate_students}} </em></p>
 [//]: # (<p>Github: <strong><a href="{{ project.webpage }}">{{ project.title }}</a></strong></p>)
 <p>Source of funding: <i>{{ project.funding_resource }}</i> </p>
-{% if project.publications != 0 %}
+{% if project.publications %}
 <p>List of publications: </p>
 {% for pub in project.publications %}
 <ul>
