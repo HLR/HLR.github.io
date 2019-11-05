@@ -8,7 +8,9 @@ permalink: /team/
 
 # Group Members
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/group-pic.jpg" width="80%">
+Jump to: [Faculty](#faculty), [Postdocs](#postdocs), [Phd Students](#phd-students), [Master Students](#master-students)
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/group-pic.jpg" width="60%">
 
 
 ## Faculty
@@ -25,7 +27,7 @@ permalink: /team/
   <img src="{{ site.url }}{{ site.baseurl }}/images/profiles/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4><a href="{{ member.webpage }}" style="color:inherit">{{ member.name }}</a></h4>
   <i>{{ member.bio }}</i><br><br>
-  <i><b>Research Interest</b>: {{ member.research_interest }}, [Webpage]({{ member.webpage }}). <br><b>Email</b>: <{{ member.email }}></i>
+  <i><b>Research Interest</b>: {{ member.research_interest }}. <br><b>Email</b>: <{{ member.email }}></i>
   <ul style="overflow: hidden">
 
   </ul>
