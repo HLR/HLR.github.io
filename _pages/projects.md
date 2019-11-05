@@ -25,9 +25,17 @@ Jump to: {% for project in site.data.projects %} [ {{ project.title }} ](#{{ pro
 <p> {{ project.description }} </p>
 <p> {{ project.info }} </p>
 <p><img src="{{ site.url }}{{ site.baseurl }}/images/picpic/projects/{{ project.image }}" class="img-responsive" width="60%" style="margin:auto"></p>
-<p><em> {{ project.members }} {{project.graduate_students}} </em></p>
+<p>Members: <em> {{ project.members }}, {{project.graduate_students}} </em></p>
 [//]: # (<p>Github: <strong><a href="{{ project.webpage }}">{{ project.title }}</a></strong></p>)
-<p> </p>
+<p>Source of funding: <i>{{ project.funding_resource }}</i> </p>
+{% if project.publications != 0 %}
+<p>List of publications: </p>
+{% for pub in project.publications %}
+<ul>
+<li><strong>{{ pub.title }}</strong>. {{ pub.authors }}. <a href="{{ pub.link }}">Download</a> </li>
+</ul>
+{% endfor %}
+{% endif %}
 </div>
  </div>
 

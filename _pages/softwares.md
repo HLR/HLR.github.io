@@ -22,7 +22,7 @@ Jump to: {% for software in site.data.softwares %} [ {{ software.title }} ](#{{ 
 <div class="well">
 ### {{ software.title }} 
 <p> {{ software.description }} </p>
-<p><em> {{ software.members }} </em></p>
+<p>Members: <em> {{ software.members }} </em></p>
 <p>Github: <strong><a href="{{ software.webpage }}">{{ software.title }}</a></strong></p>
 [//]: # (<p><img src="" class="img-responsive" width="33%" style="float: left"></p>)
 <p> </p>

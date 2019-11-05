@@ -4,17 +4,21 @@
   id: domiknows
   description: A Declarative Learning Based Programming Framework For Integration of <strong>Dom</strong>ain <strong>Know</strong>ledge in <strong>S</strong>tatistical Learning.
   info: We seek for abstractions that facilitate writing programs that can learn from data. We are interested in languages that can help in integration of learning and reasoning formalisms and the formulation of declarative and procedural domain knowledge for learners.
-  members: Parisa Kordjamshidi, James Allen, Choh Man Teng, Quan Guo, Andrzej Uszok, Brent Kristen Venable.
+  members: Parisa Kordjamshidi, James Allen, Choh Man Teng, Quan Guo, Andrzej Uszok, Brent Kristen Venable
   graduate_students: Hossein Faghihi, Drew Hayward.
-  Funding Resource: Office of Naval Research (ONR).
+  funding_resource: Office of Naval Research (ONR).
   image: domiknows.png
   webpage: https://domiknows.github.io
+  publications:
+    - title: "From Ontologies to Learning-Based Programs"
+      authors: Quan Guo, Andrzej Uszok and Parisa Kordjamshidi.
+      link: http://delbp.github.io/papers/DeLBP-2019_Accepted-3.pdf
 
 - title: "SpLang"
   id: splang
   description: Combining Learning and Reasoning for <strong>Sp</strong>atial <strong>Lan</strong>guage Understandin<strong>g</strong>
   info: Our goal is to investigate the generic domain-independent spatial meaning representation schemes that can help in tasks that involve spatial language understanding. We exploit domain knowledge including ontologies that convey common-sense, the axioms of spatial qualitative reasoning and external visual resources in an integrate learning and reasoning framework. We develop deep structured and relational learning techniques for this goal and investigate the interaction between learning and spatial reasoning. We evaluate the capabilities of deep structured models in learning qualitative representations and the impact of those representations on textual and visual question answering tasks, focusing on locative questions.
-  members: Parisa Kordjamshidi.
+  members: Parisa Kordjamshidi
   funding_resource: National Science Foundation (NSF).
   graduate_students: Roshanak Mirzaee, Yue Zhang, Chen Zheng.
   image: splang.png
