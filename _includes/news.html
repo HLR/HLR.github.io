@@ -5,7 +5,7 @@
 {% for article in site.data.news limit:9 %}
 {% if article.top == 1 %}
 {{ article.date }}
-<p>{{ article.headline }}</p>
+<p>{{ article.headline }} {{ article.link }}</p>
 {% if article.pictures %}
 <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/{{ article.pictures[0].image }}" class="img-responsive" width="95%" style="float: left" />
 {% endif %}
