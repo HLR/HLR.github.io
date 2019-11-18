@@ -12,7 +12,9 @@ permalink: /allnews.html
 <span style="font-size:15px; color: #333">{{ article.date }}</span> <br>
 <p>
 <em>{{ article.headline }}</em></p>
+{% if article.link %}
 <p>More Info: <a href="{{ article.link }}">{{ article.link }}</a></p>
+{% endif %}
 
 {% assign number_printed = 0 %}
 {% for pic in article.pictures %}
