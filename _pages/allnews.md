@@ -13,7 +13,7 @@ permalink: /allnews.html
 <p>
 <em>{{ article.headline }}</em></p>
 {% if article.link %}
-<p>More Info: <a href="{{ article.link }}">{{ article.link }}</a></p>
+<p><a href="{{ article.link }}">[ More Info ]</a></p>
 {% endif %}
 
 {% assign number_printed = 0 %}
