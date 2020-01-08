@@ -1,3 +1,11 @@
+---
+title: "HLR - Deadlines"
+layout: homelay
+excerpt: "Heterogeneous Learning and Reasoning at Michigan State University."
+sitemap: false
+permalink: /deadlines/
+---
+
 ## Relevant Conference Deadlines
 
 | Event  |  Deadline  | When  |  Where  |
