@@ -19,4 +19,5 @@ permalink: /deadlines/
 | CoNLL 2020  | N/A  | N/A  | N/A  |
 | AAAI 2021  | N/A  | N/A  | N/A  |
 | ICLR 2021  | N/A  | N/A  | N/A  |
-{:.table-striped}
+{:.table-striped .table-bordered}
+
