@@ -9,15 +9,22 @@ permalink: /deadlines/
 
 ## Relevant Conference Deadlines
 
+&nbsp;
+&nbsp;
+
 | Event  |  Deadline  | When  |  Where  |
-|:-:|:-:|:-:|---|
-| IJCAI-PRICAI 2020  | Jan 22 2020  | July 11-17, 2020  | Yokohama, Japan  |
-| ICML 2020  | Feb 07 2020   | July 12-18, 2020  | Vienna, Austria  |
-| COLING 2020  |  Apr 09 2020  | Sep 13-18, 2020  | Barcelona, Spain  |
-| EMNLP-IJCNLP 2020  | N/A  | N/A  | N/A  |
-| NeurIPS 2020  | N/A  | N/A  | N/A  |
-| CoNLL 2020  | N/A  | N/A  | N/A  |
-| AAAI 2021  | N/A  | N/A  | N/A  |
-| ICLR 2021  | N/A  | N/A  | N/A  |
+|:-:|:-:|:-:|:-:|
+| &nbsp; IJCAI-PRICAI 2020 &nbsp; | &nbsp; Jan 22 2020  &nbsp; | &nbsp;  Jul 11-17, 2020 &nbsp; | &nbsp; Yokohama, Japan &nbsp; |
+| &nbsp; ICML 2020  &nbsp; | &nbsp;  Feb 07 2020   &nbsp; | &nbsp; Jul 12-18, 2020  &nbsp; | &nbsp;  Vienna, Austria &nbsp; |
+| &nbsp; COLING 2020  &nbsp; | &nbsp;   Apr 09 2020   &nbsp; | &nbsp; Sep 13-18, 2020   &nbsp; | &nbsp;  Barcelona, Spain &nbsp; |
+| &nbsp; EMNLP-IJCNLP 2020  &nbsp; | &nbsp; N/A  &nbsp; | &nbsp;  N/A   &nbsp; | &nbsp;  N/A &nbsp; |
+| &nbsp; NeurIPS 2020   &nbsp; | &nbsp;  N/A   &nbsp; | &nbsp;  N/A   &nbsp; | &nbsp;  N/A &nbsp; |
+| &nbsp; CoNLL 2020  &nbsp; | &nbsp;  N/A  &nbsp; | &nbsp;  N/A   &nbsp; | &nbsp;  N/A  &nbsp;|
+| &nbsp; AAAI 2021  &nbsp; | &nbsp;  N/A   &nbsp; | &nbsp; N/A   &nbsp; | &nbsp;  N/A  &nbsp;|
+| &nbsp; ICLR 2021  &nbsp; | &nbsp;  N/A   &nbsp; | &nbsp;  N/A   &nbsp; | &nbsp;  N/A &nbsp; |
+
+&nbsp;
+&nbsp;
+&nbsp;
 {:.table-striped .table-bordered}
 
