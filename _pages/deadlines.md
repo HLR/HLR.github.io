@@ -22,9 +22,10 @@ permalink: /deadlines/
 | &nbsp; CoNLL 2020  &nbsp; | &nbsp;  N/A  &nbsp; | &nbsp;  N/A   &nbsp; | &nbsp;  N/A  &nbsp;|
 | &nbsp; AAAI 2021  &nbsp; | &nbsp;  N/A   &nbsp; | &nbsp; N/A   &nbsp; | &nbsp;  N/A  &nbsp;|
 | &nbsp; ICLR 2021  &nbsp; | &nbsp;  N/A   &nbsp; | &nbsp;  N/A   &nbsp; | &nbsp;  N/A &nbsp; |
+{:.table-striped .table-bordered}
 
 &nbsp;
 &nbsp;
 &nbsp;
-{:.table-striped .table-bordered}
+
 
