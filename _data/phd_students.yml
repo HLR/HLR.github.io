@@ -1,3 +1,9 @@
+- name: Chen Zheng
+  photo: Zheng.png
+#  bio: He's currently working on Spatial Role Labelling and Reasoning tasks.
+  research_interest: Machine Learning, Natural Language Processing and Information Retrieval. currently working on Spatial Role Labelling and Reasoning tasks.
+  email: zhengc12@msu.edu
+  webpage: https://cse.msu.edu/~zhengc12/
 
 - name: Hossein Faghihi
   photo: hossein.png
@@ -5,21 +11,20 @@
   email: rajabyfa@msu.edu
   webpage: http://hosseinfaghihi.herokuapp.com
 
-- name: Drew Hayward
-  photo: drew.jpg
-  research_interest: Artificial Intelligence, Information Retrieval, Knowledge Bases, Natural Language Processing, Deep Learning.
-  email: haywar40@msu.edu
-  webpage: /
-
 - name: Roshanak Mirzaee
   photo: roshanak.png
   research_interest: Machine Learning, Natural Language processing, Question Answering in NLP, Reasoning in NLP, Knowledge and Information Retrieval and HCI.
   email: mirzaeem@msu.edu
   webpage: http://roshanak-mirzaee.herokuapp.com
 
-- name: Chen Zheng
-  photo: Zheng.png
-#  bio: He's currently working on Spatial Role Labelling and Reasoning tasks.
-  research_interest: Machine Learning, Natural Language Processing and Information Retrieval. currently working on Spatial Role Labelling and Reasoning tasks.
-  email: zhengc12@msu.edu
-  webpage: https://cse.msu.edu/~zhengc12/
+- name: Drew Hayward
+  photo: drew.jpg
+  research_interest: Artificial Intelligence, Reasoning, Knowledge Bases, Natural Language Processing, Deep Learning.
+  email: haywar40@msu.edu
+  webpage: /
+
+- name: Yue Zhang
+  photo: yue.jpg
+  research_interest: Natural Language Processing and Information Retrieval, Machine Learning, Deep Learning, Spatial Role Labeling and Reasoning
+  email: zhan1624@msu.edu
+  webpage: /
