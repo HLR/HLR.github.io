@@ -102,8 +102,8 @@ Jump to: [Faculty](#faculty), [Postdocs](#postdocs), [Phd Students](#phd-student
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
 {% endfor %}
+
 
 ## Master Students
 {% assign number_printed = 0 %}
@@ -113,6 +113,7 @@ Jump to: [Faculty](#faculty), [Postdocs](#postdocs), [Phd Students](#phd-student
 
 {% if even_odd == 0 %}
 <div class="row">
+{% assign closed = 0 %}
 {% endif %}
 
 <div class="col-sm-6 clearfix">
@@ -128,9 +129,13 @@ Jump to: [Faculty](#faculty), [Postdocs](#postdocs), [Phd Students](#phd-student
 
 {% if even_odd == 1 %}
 </div>
+{% assign closed = 1 %}
 {% endif %}
 
 {% endfor %}
+{% if closed == 0 %}
+</div>
+{% endif %}
 
 
 {% assign even_odd = number_printed | modulo: 2 %}
