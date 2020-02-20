@@ -1,5 +1,13 @@
 #2020
 
+- title: "From Spatial Relations to Spatial Configurations"
+  authors: Soham Dan, Parisa Kordjamshidi, Julia Bonn, Archna Bhatia, Martha Palmer and Dan Roth.
+  venue: Proceddings of Language Resources and Evaluation Conference (LREC-2020), accepted.
+  year: 2020
+#  link:
+#    url: https://hlr.github.io/papers/IJCAI-2018-survey.pdf
+#    display:  Download
+
 - title: Neural Learning Representations to Augment Statistical Analysis of Drug Treatment Effects on Bioengineered Microphysiological Nerve Tissue
   authors: Hamid R. Karimian, Kevin J. Pollard, Michael J. Moore and Parisa Kordjamshidi
   venue: AAAI-2020 workshop on Health Intelligence
@@ -26,7 +34,7 @@
 
 - title: "From Spatial Relations to Spatial Configurations"
   authors: Soham Dan, Parisa Kordjamshidi, Julia Bonn, Archna Bhatia, Martha Palmer and Dan Roth.
-  venue: splu-robonlp workshop, co-located at NAACL-2019
+  venue: non-arxival, splu-robonlp workshop, co-located at NAACL-2019
   year: 2019
 #  link:
 #    url: https://hlr.github.io/papers/IJCAI-2018-survey.pdf
