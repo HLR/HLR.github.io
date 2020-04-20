@@ -1,4 +1,10 @@
 #2020
+
+- title: "Inference-Masked Loss for Structured Output Learning"
+  authors: Quan Guo, Hossein Rajaby Faghihi, Yue Zhang, Andrzej Uszok and Parisa Kordjamshidi
+  venue: The 29th International Joint Conference on Artificial Intelligence (IJCAI-2020), accepted.
+  year: 2020
+
 - title: "Cross-Modality Relevance for Reasoning on Language and Vision"
   authors: Chen Zheng, Quan Guo and Parisa Kordjamshidi.
   venue: 2020 Annual Conference of the Association for Computational Linguistics (ACL-2020), accepted.
