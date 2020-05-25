@@ -14,18 +14,7 @@ permalink: /publications/Inference-Masked-Loss
 [Andrzej Uszok](https://github.com/auszok),
 [Parisa Kordjamshidi](http://www.cse.msu.edu/~kordjams)
 
-This work has been accepted for publication in IJCAI 2020 (main track). Please refer to the IJCAI Proceedings for a **full verison**.
-
-- [Inference-Masked Loss for Deep Structured Output Learning](#inference-masked-loss-for-deep-structured-output-learning)
-  - [Abstract](#abstract)
-  - [Introduction](#introduction)
-  - [Inference-Masked Loss](#inference-masked-loss)
-    - [The Loss Function](#the-loss-function)
-    - [Combination](#combination)
-    - [Structure and Domain Knowledge](#structure-and-domain-knowledge)
-  - [Experiments](#experiments)
-  - [Conclusion](#conclusion)
-  - [Cite](#cite)
+*This work has been accepted for publication in IJCAI 2020 (main track). Please refer to the IJCAI Proceedings for a **full verison**.*
 
 ## Abstract
 
@@ -55,7 +44,7 @@ The contribution of this paper is as follows:
 
 ## Inference-Masked Loss
 
-We assume training a deep neural network given a set of examples $\left\{\left(X,Y\right)\right\}$, that is, pairs of inputs $X$ and outputs $Y$.
+We assume training a deep neural network given a set of examples $\left\lbrace\left(X,Y\right)\right\rbrace$, that is, pairs of inputs $X$ and outputs $Y$.
 Both inputs and outputs can have arbitrary structures. We assume the structure of the output variables can be expressed with a set of linear constraints among them, denoted by $\mathcal{C}\left(Y\right) \le 0$. The constraints can be represented with a set of inequalities without loss of generality.
 These constraints originate from our knowledge about the domain and are expressed using logical expressions or in ontologies that are converted to linear constraints.
 In this study, we focus on the case where all parts of the output structure are discrete values and can be associated with a collection of binary predicates $q\in \mathbf{Q}$ where $\mathbf{Q}$ is the set of all possible predicates.
@@ -66,28 +55,42 @@ $P\left(y|X\right)$. The inference is finding the best assignment of $y$ that yi
 The joint probability distribution is estimated by a normalized exponential function with logarithm estimated by the total scoring function
 $g\left(y,X;\theta\right)$ that $\log P\left(y|X\right) \propto g\left(y,X;\theta\right)$.
 Given the linear constraints, the inference can be represented as an ILP problem as follows.
+
+{% raw %}
 $$
-y^{*} = \argmax_{y} g\left(y,X;\theta\right) \quad {s.t.} \quad \mathcal{C}\left(y\right)\le0.
+y^{*} = \arg\max_{y} g\left(y,X;\theta\right) \quad {s.t.} \quad \mathcal{C}\left(y\right)\le0.
 $$
+{% endraw %}
+
 To train such a model, first, we make local predictions for each component of $y$. In other words, for each predicate $q\in \mathbf{Q}$, we make a local prediction $f_q\left(X;\theta\right)$ with deep neural networks, where $f_q$ is a local network and $\theta$ is the weights and biases.
 Following the log-linear model formulation, we calculate a local scoring function $g_q = \log f_q\left(X;\theta\right)$ and a corresponding negative term $g_{\neg q} = \log \left(1 - f_q\left(X;\theta\right)\right)$. We calculate the total scoring function for the output $y$ by a linear model,
-\begin{equation}\label{eq:scoring}
+
+{% raw %}
+$$
 g\left(y,X;\theta\right) = \sum_{q\in \mathbf{Q}} g_q y_q + g_{\neg q} y_{\neg q}.
-\end{equation}
+$$
+{% endraw %}
+
 The inference problem in the ILP problem can be solved efficiently by off-the-shelf solvers.
 
 ### The Loss Function
 
 The commonly-used negative log-likelihood (NLL) loss function is given by
+
+{% raw %}
 $$
     \mathcal{L}_{NLL} = \sum_{q \in \mathbf{Q}}
         - Y_q \log f_q\left(X;\theta\right)
         - \left(1 - Y_q\right) \log{\left(1 - f_q\left(X;\theta\right)\right)}.
 $$
+{% endraw %}
+
 In fact, the ground-truth $Y_q$ and the term $\left(1 - Y_q\right)$ serves as a selective mask to select penalizing the parameters of negative log-likelihood  $-\log f_q\left(X;\theta\right)$ or $-\log{\left(1 - f_q\left(X;\theta\right)\right)}$.
 
 Inspired by the idea mentioned above, we introduce the IML.
-For each predicate $q$, if the associated component in the global inference $y^*_q$ is correct according to the ground-truth $Y_q$, IML will nullify the corresponding terms by the mask. The resulting IML is as follows,
+For each predicate $q$, if the associated component in the global inference $y^{*}_q$ is correct according to the ground-truth $Y_q$, IML will nullify the corresponding terms by the mask. The resulting IML is as follows,
+
+{% raw %}
 $$
 \begin{aligned}
 \mathcal{L}_{IML}
@@ -97,16 +100,18 @@ $$
     - y^*_q \left(1 - Y_q\right) \log{\left(1 - f_q\left(X;\theta\right) \right)}. \\
 \end{aligned}
 $$
-It can be observed that both masks $(1 - y^*_q) Y_q$ and $y^*_q \left(1 - Y_q\right)$ will be zero if $y^*_q = Y_q$. When $y^*_q \ne Y_q$, the masks will become $Y_q$ and $\left(1 - Y_q\right)$ as in the NLL that, consequently, selects either the $-\log f_q\left(X;\theta\right)$ or $-\log{\left(1 - f_q\left(X;\theta\right)\right)}$ to be penalized according to the ground-truth.
+{% endraw %}
+
+It can be observed that both masks $(1 - y^{\*}_q) Y_q$ and $y^{\*}_q \left(1 - Y_q\right)$ will be zero if $y^{\*}_q = Y_q$. When $y^{\*}_q \ne Y_q$, the masks will become $Y_q$ and $\left(1 - Y_q\right)$ as in the NLL that, consequently, selects either the $-\log f_q\left(X;\theta\right)$ or $-\log{\left(1 - f_q\left(X;\theta\right)\right)}$ to be penalized according to the ground-truth.
 
 Table 1: Penalty term of NLL and IML regarding one predicate $q$.
 
-|    | $Y_q$ | $f_q$ | NLL | IML $y_q^*=0$ | IML $y_q^*=1$ |
+|    | $Y_q$ | $f_q$ | NLL | IML $y_q^{*}=0$ | IML $y_q^{*}=1$ |
 |--- | ----- | ----- | --- | ------------- | --------- |
 | TP |   1   | $\uparrow$ | $-\log f_q\left(X;\theta\right)$ | $-\log f_q\left(X;\theta\right)$ | $0^-$ |
-| TN | 0 | $\downarrow$ | $-\log\left(1-f_q\left(X;\theta\right)\right)$ | $0^-$ | $-\log\left(1-f_q\left(X;\theta\right)\right)$
-| FP | 0 | $\uparrow$ | $-\log\left(1-f_q\left(X;\theta\right)\right)$ | $0^+$ | $-\log\left(1-f_q\left(X;\theta\right)\right)$
-| FN | 1 | $\downarrow$ | $-\log f_q\left(X;\theta\right)$ | $-\log f_q\left(X;\theta\right)$ | $0^+$
+| TN | 0 | $\downarrow$ | $-\log\left(1-f_q\left(X;\theta\right)\right)$ | $0^-$ | $-\log\left(1-f_q\left(X;\theta\right)\right)$ |
+| FP | 0 | $\uparrow$ | $-\log\left(1-f_q\left(X;\theta\right)\right)$ | $0^+$ | $-\log\left(1-f_q\left(X;\theta\right)\right)$ |
+| FN | 1 | $\downarrow$ | $-\log f_q\left(X;\theta\right)$ | $-\log f_q\left(X;\theta\right)$ | $0^+$ |
 
 Notations:
 
@@ -119,28 +124,30 @@ The first column denotes the True/False Positive/Negative notations regarding th
 The $\uparrow$ in the third column indicates a probability close to 1 while a $\downarrow$ indicates that close to 0.
 
 In the NLL, the term is selected by the ground-truth $Y_q$. Moreover, the magnitude is determined by how correct (or incorrect) the local prediction $f_q\left(X;\theta\right)$ is. As we introduced the inference to IML, the conditions become different.
-$0^+$ and $0^-$ are the cases that the global inference gives the correct result ($H^*_q = Y_q$), while the others are for the cases when the inference is wrong.
-(FN, $y^*_q=0$) and (FP, $y^*_q=1$) are the criminals that we want to penalize.
+$0^+$ and $0^-$ are the cases that the global inference gives the correct result ($H^{\*}_q = Y_q$), while the others are for the cases when the inference is wrong.
+(FN, $y^{\*}_q=0$) and (FP, $y^{\*}_q=1$) are the criminals that we want to penalize.
 The $0^+$ are the false local predictions that can be corrected by inference. Therefore, we do not need to penalize them.
-The (TP, $y^*_q=0$) and (TN, $y^*_q=1$) are innocent cases because they were correct locally and inference changed them to be wrong. However, we argue that if they get a higher local score, they should be able to help in correcting other false predictions.
+The (TP, $y^{\*}_q=0$) and (TN, $y^{\*}_q=1$) are innocent cases because they were correct locally and inference changed them to be wrong. However, we argue that if they get a higher local score, they should be able to help in correcting other false predictions.
 The $0^-$ are not problematic because they are correct, and they support the correct inference. No update needs to be applied in this case.
 
 ### Combination
 
-Training solely with IML could lead to ``lazy'' update and is more likely to be trapped in a local minimum compared to traditional loss because IML would ignore many of the local errors.
+Training solely with IML could lead to "lazy" update and is more likely to be trapped in a local minimum compared to traditional loss because IML would ignore many of the local errors.
 The effect is two-fold. On one hand, with IML, the model receives fewer updates, which leads to a slower convergence. On the other hand, using IML would miss the opportunity to update a weak local model, which may cause trouble at testing time.
 We combine NLL and IML to enforce accurate local prediction.
+{% raw %}
 $$
 \begin{aligned}
 & \hphantom{{}={}}
 \mathcal{L}_{{IML}\left(\lambda\right)} \\
 & = \lambda \mathcal{L}_{{NLL}} + (1-\lambda) \mathcal{L}_{{IML}} \\
 & = \sum_{q \in \mathbf{Q}}
-    - \left(1 - \left(1-\lambda\right)y^*_q\right) Y_q \log{ f_q\left(X;\theta\right) } \\
+    - \left(1 - \left(1-\lambda\right)y^{*}_q\right) Y_q \log{ f_q\left(X;\theta\right) } \\
 & \hphantom{{}=\sum_{q \in \mathbf{Q}}}
-    - \left( \lambda + \left(1-\lambda\right)y^*_q \right)\left(1 - Y_q\right) \log{\left(1 - f_q\left(X;\theta\right) \right)}, \\
+    - \left( \lambda + \left(1-\lambda\right)y^{*}_q \right)\left(1 - Y_q\right) \log{\left(1 - f_q\left(X;\theta\right) \right)}, \\
 \end{aligned}
 $$
+{% endraw %}
 where $\lambda$ is weighting the trade-off between NLL and IML, which is a hyper-parameter for the proposed loss.
 $\lambda$ is also interpreted as the ratio of penalty to apply when the inference can resolve the errors on the local prediction and correct them in the global inference.
 $\lambda$ times the corresponding NLL loss term will be penalized.
@@ -161,7 +168,7 @@ Then we derive the linear constraints from the logical expressions by the rules 
 We evaluate the proposed approach with several structured learning tasks:
 Two different entity relation extraction (ER) tasks and spatial role labeling (SpRL) task. We investigate the entity and relation recognition corpora (CoNLL04) and ACE 2005 Corpus (ACE2005) for ER task. The two datasets contain different types of entities and relationships. For SpRL task, CLEF 2017 mSpRL dataset(SpRL2017) is investigated.
 
-Please refer to our GitHub repository for the experiments associated with this work: https://github.com/HLR/Inference-Masked-Loss.
+Please refer to our [GitHub repository](https://github.com/HLR/Inference-Masked-Loss) for the experiments associated with this work: [Inference-Masked-Loss](https://github.com/HLR/Inference-Masked-Loss).
 
 ## Conclusion
 
@@ -178,4 +185,15 @@ We investigated the combination of deep neural networks with structured output b
 }
 ```
 
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+<!-- Mathjax Support -->
+<script>
+MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']]
+  },
+  svg: {
+    fontCache: 'global'
+  }
+};
+</script>
+<script type="text/javascript" id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3.0.1/es5/tex-mml-chtml.js"></script>
