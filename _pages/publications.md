@@ -20,7 +20,10 @@ permalink: /publications/
   <b>{{ publi.title }}</b> <br />
   <em>{{ publi.authors }} </em><br />
   {{ publi.venue }} <br/>
-  <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  {% for link in publi.links -%}
+  {%- if link.display -%}
+  <a href="{{ link.url }}">[{{ link.display }}]</a>
+  {%- endif-%}
+  {%- endfor %}
 
 {% endfor %}
-
