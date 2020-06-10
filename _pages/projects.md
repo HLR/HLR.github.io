@@ -9,8 +9,9 @@ permalink: /projects
 # Projects
 
 <ul>
-{% for project in site.data.projects %}<li><a href="#{{ project.id }}"> {{ project.title }}. </a> ( {{ project.description }} )</li>{% endfor %}
+{% for project in site.data.projects %}<li><a href="/{{ project.id }}"> {{ project.title }}. </a> ( {{ project.description }} )</li>{% endfor %}
 </ul>
+[//]: <> ( href="#{{ project.id }}")
 
 <br><br>
 {% assign number_printed = 0 %}
@@ -23,13 +24,13 @@ permalink: /projects
 
 <div class="col-sm-12 clearfix" id="#{{ project.id }}">
 <div class="well">
-### {{ project.title }} 
+### <a href="/{{ project.id }}">{{ project.title }}</a> 
 <p> {{ project.description }} </p>
-<p> {{ project.info }} </p>
-<p><img src="{{ site.url }}{{ site.baseurl }}/images/picpic/projects/{{ project.image }}" class="img-responsive" width="60%" style="margin:auto"></p>
-<p>Members: <em> {{ project.members }}, {{project.graduate_students}} </em></p>
+<!---<p> {{ project.info }} </p>
+<p><img src="{{ site.url }}{{ site.baseurl }}/images/picpic/projects/{{ project.image }}" class="img-responsive" width="60%" style="margin:auto"></p> -->
+<p><b>Members</b>: <em> {{ project.members }}, {{project.graduate_students}} </em></p>
 [//]: # (<p>Github: <strong><a href="{{ project.webpage }}">{{ project.title }}</a></strong></p>)
-<p>Source of funding: <i>{{ project.funding_resource }}</i> </p>
+<!---<p>Source of funding: <i>{{ project.funding_resource }}</i> </p>
 {% if project.publications %}
 <p>List of publications: </p>
 {% for pub in project.publications %}
@@ -37,7 +38,7 @@ permalink: /projects
 <li><strong>{{ pub.title }}</strong>. {{ pub.authors }}. <a href="{{ pub.link }}">Download</a> </li>
 </ul>
 {% endfor %}
-{% endif %}
+{% endif %}-->
 </div>
  </div>
 
@@ -49,4 +50,5 @@ permalink: /projects
 {% endif %}
 
 {% endfor %}
+
 
