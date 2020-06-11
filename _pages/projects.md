@@ -8,9 +8,9 @@ permalink: /projects
 
 # Projects
 
-<ul>
+<!---<ul>
 {% for project in site.data.projects %}<li><a href="/{{ project.id }}"> {{ project.title }}. </a> ( {{ project.description }} )</li>{% endfor %}
-</ul>
+</ul>-->
 [//]: <> ( href="#{{ project.id }}")
 
 <br><br>
@@ -24,6 +24,7 @@ permalink: /projects
 
 <div class="col-sm-12 clearfix" id="#{{ project.id }}">
 <div class="well">
+![]({{ site.url }}{{ site.baseurl }}/images/picpic/projects/{{ project.logo }}){: style="width: 100px; float: left; border: 10px"}
 ### <a href="/{{ project.id }}">{{ project.title }}</a> 
 <p> {{ project.description }} </p>
 <!---<p> {{ project.info }} </p>

@@ -14,10 +14,14 @@ permalink: /splang/
 
 {% assign project = site.data.projects | where: "title", page.title %}
 {% assign project = project[0] %}
-
+<div>
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/projects/{{ project.logo }}" style="width: 90px; float: left; border: 10px; margin-right: 20px"/>
+<br>
 
 ### {{ project.title }} 
 <p> {{ project.description }} </p>
+</div>
+<br>
 <p> {{ project.info }} </p>
 <p><img src="{{ site.url }}{{ site.baseurl }}/images/picpic/projects/{{ project.image }}" class="img-responsive" width="60%" style="margin:auto"></p>
 <p><b>Members</b>: <em> {{ project.members }}, {{project.graduate_students}} </em></p>
