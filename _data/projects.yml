@@ -29,6 +29,10 @@
   graduate_students: Roshanak Mirzaee, Yue Zhang, Chen Zheng.
   funding_resource: National Science Foundation (NSF).
   image: splang.png
+  publications:
+    - title: "From Spatial Relations to Spatial Configurations"
+      authors: Soham Dan, Parisa Kordjamshidi, Julia Bonn, Archna Bhatia, Martha Palmer and Dan Roth
+      link: https://www.aclweb.org/anthology/2020.lrec-1.717.pdf
 
 
 
