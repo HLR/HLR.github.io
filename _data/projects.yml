@@ -15,6 +15,10 @@
     - title: "From Ontologies to Learning-Based Programs"
       authors: Quan Guo, Andrzej Uszok and Parisa Kordjamshidi.
       link: http://delbp.github.io/papers/DeLBP-2019_Accepted-3.pdf
+      webpage: https://hlr.github.io/publications/Inference-Masked-Loss
+      github: https://github.com/HLR/Inference-Masked-Loss
+    - title: "Latent Alignment of Procedural Concepts in Multimodal Recipes"
+      authors: Hossein Rajaby Faghihi, Roshanak Mirzaee, Sudarshan Paliwal and Parisa Kordjamshidi
 
 - title: "SpLang"
   id: splang
@@ -22,10 +26,9 @@
   description: Combining Learning and Reasoning for <strong>Sp</strong>atial <strong>Lan</strong>guage Understandin<strong>g</strong>
   info: Our goal is to investigate the generic domain-independent spatial meaning representation schemes that can help in tasks that involve spatial language understanding. We exploit domain knowledge including ontologies that convey common-sense, the axioms of spatial qualitative reasoning and external visual resources in an integrate learning and reasoning framework. We develop deep structured and relational learning techniques for this goal and investigate the interaction between learning and spatial reasoning. We evaluate the capabilities of deep structured models in learning qualitative representations and the impact of those representations on textual and visual question answering tasks, focusing on locative questions.
   members: Parisa Kordjamshidi
-  funding_resource: National Science Foundation (NSF).
   graduate_students: Roshanak Mirzaee, Yue Zhang, Chen Zheng.
+  funding_resource: National Science Foundation (NSF).
   image: splang.png
-  webpage: https://domiknows.github.io
 
 
 
