@@ -22,7 +22,9 @@ permalink: /deadlines/
 | &nbsp; AACL-IJCNLP 2020  &nbsp; | &nbsp;  Jun 27 2020   &nbsp; | &nbsp;  Dec 4-7, 2020   &nbsp; | &nbsp;   Suzhou, China &nbsp; |
 | &nbsp; COLING 2020  &nbsp; | &nbsp;   Jul 02 2020   &nbsp; | &nbsp; Dec 8-13, 2020   &nbsp; | &nbsp;  Barcelona, Spain &nbsp; |
 | &nbsp; AKBC 2020  &nbsp; | &nbsp;   TBD   &nbsp; | &nbsp; TBD   &nbsp; | &nbsp;  Virtual conference and workshops &nbsp; |
-| &nbsp; AAAI 2021  &nbsp; | &nbsp;  N/A   &nbsp; | &nbsp; N/A   &nbsp; | &nbsp;  N/A  &nbsp;|
+| &nbsp; WMT 2020  &nbsp; | &nbsp;  Aug 16 2020   &nbsp; | &nbsp;  Nov 19-20, 2020 &nbsp; | &nbsp;  Online  &nbsp;|
+| &nbsp; AAAI 2021  &nbsp; | &nbsp;  Sep 10 2020  &nbsp; | &nbsp; Feb 2-9, 2021  &nbsp; | &nbsp;  Vancouver, Canada  &nbsp;|
+| &nbsp; EACL 2021  &nbsp; | &nbsp;  Sep 21 2020   &nbsp; | &nbsp;  Apr 21-23, 2021 &nbsp; | &nbsp; Kyiv, Ukraine  &nbsp;|
 | &nbsp; ICLR 2021  &nbsp; | &nbsp;  N/A   &nbsp; | &nbsp;  N/A   &nbsp; | &nbsp;  N/A &nbsp; |
 {:.table-striped .table-bordered}
 
