@@ -1,7 +1,7 @@
 #2020
 - title: Latent Alignment of Procedural Concepts in Multimodal Recipes
   authors: Hossein Rajaby Faghihi, Roshanak Mirzaee, Sudarshan Paliwal and Parisa Kordjamshidi
-  venue: Workshop on Advances in Language and Vision Research at (ACL-2020), accepted.
+  venue: Workshop on Advances in Language and Vision Research at (ACL-2020)
   year: 2020
   links:
     - url: https://www.aclweb.org/anthology/2020.alvr-1.5/
@@ -23,7 +23,7 @@
 
 - title: "Cross-Modality Relevance for Reasoning on Language and Vision"
   authors: Chen Zheng, Quan Guo and Parisa Kordjamshidi.
-  venue: 2020 Annual Conference of the Association for Computational Linguistics (ACL-2020), accepted.
+  venue: 2020 Annual Conference of the Association for Computational Linguistics (ACL-2020)
   year: 2020
   links:
     - url: https://www.aclweb.org/anthology/2020.acl-main.683/
@@ -33,11 +33,11 @@
 
 - title: "From Spatial Relations to Spatial Configurations"
   authors: Soham Dan, Parisa Kordjamshidi, Julia Bonn, Archna Bhatia, Martha Palmer and Dan Roth.
-  venue: Proceddings of Language Resources and Evaluation Conference (LREC-2020), accepted.
+  venue: Proceddings of Language Resources and Evaluation Conference (LREC-2020)
   year: 2020
-#  links:
-#    - url: https://hlr.github.io/papers/IJCAI-2018-survey.pdf
-#      display:  Download
+  links:
+    - url: https://www.aclweb.org/anthology/2020.lrec-1.717/
+      display: PDF
 
 - title: Neural Learning Representations to Augment Statistical Analysis of Drug Treatment Effects on Bioengineered Microphysiological Nerve Tissue
   authors: Hamid R. Karimian, Kevin J. Pollard, Michael J. Moore and Parisa Kordjamshidi
@@ -51,8 +51,8 @@
   venue: IJCAI-2019 workshop on Declarative Learning-based programming
   year: 2019
   links:
-    - url: http://delbp.github.io/papers/DeLBP-2019_Accepted-3.pdf
-#      display:  Download
+    - url: https://delbp.github.io/papers/DeLBP-2019_Accepted-3.pdf
+      display: PDF
 
 - title: "Declarative Learning-Based Programming as an Interface to AI Systems"
   authors: Parisa Kordjamshidi, Dan Roth, Kristian Kersting.
@@ -60,21 +60,15 @@
   year: 2019
   links:
     - url: https://arxiv.org/pdf/1906.07809.pdf
-#      display:  Download
-
-
-- title: "From Spatial Relations to Spatial Configurations"
-  authors: Soham Dan, Parisa Kordjamshidi, Julia Bonn, Archna Bhatia, Martha Palmer and Dan Roth.
-  venue: non-arxival, splu-robonlp workshop, co-located at NAACL-2019
-  year: 2019
-#  links:
-#    - url: https://hlr.github.io/papers/IJCAI-2018-survey.pdf
-#      display:  Download
+      display:  Download
 
 - title: "Semantic Segmentation of Microengineered Neural Tissues"
   authors: "H. Karimian, K. Pollard, M. J. Moore, P. Kordjamshidi."
   venue: "41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)"
   year: 2019
+  links:
+    - url: https://ieeexplore.ieee.org/document/8856378
+      display: IEEE
 #  links:
 #    - url: https://hlr.github.io/papers/IJCAI-2018-survey.pdf
 #      display:  Download
@@ -83,17 +77,12 @@
   authors: Pollard KJ, Karimian HR, Curley LJ, Kordjamshidi P, and Moore MJ.
   venue: Society for Neuroscience Conference, Chicago, IL, October 19-23, 2019.
   year: 2019
-#  links:
-#    - url: https://hlr.github.io/papers/IJCAI-2018-survey.pdf
-#      display:  Download
 
 - title: "Deep Convolutional Neural Network for Flood Extent Mapping Using Unmanned Aerial Vehicles Data"
   authors: Gebrehiwot, Asmamaw; Hashemi-Beni, Leila; Thompson, Gary; Kordjamshidi, Parisa; Langan, Thomas E.
   venue: "Sensors 19, no. 7: 1486, 2019"
   year: 2019
-#  links:
-#    - url: https://hlr.github.io/papers/IJCAI-2018-survey.pdf
-#      display:  Download
+
 
 #2018
 - title: "Systems AI: A Declarative Learning Based Programming Perspective"
