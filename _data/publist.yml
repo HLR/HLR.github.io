@@ -82,6 +82,9 @@
   authors: Gebrehiwot, Asmamaw; Hashemi-Beni, Leila; Thompson, Gary; Kordjamshidi, Parisa; Langan, Thomas E.
   venue: "Sensors 19, no. 7: 1486, 2019"
   year: 2019
+  links:
+    - url: https://pdfs.semanticscholar.org/087b/091505cc801c2506acdbfab63219688f2016.pdf
+      display: PDF
 
 
 #2018
@@ -91,7 +94,7 @@
   year: 2018
   links:
     - url: https://hlr.github.io/papers/IJCAI-2018-survey.pdf
-      display:  Download
+      display:  PDF
 
 - title: "Neural Machine Translation Advised by Statistical Machine Translation: The Case of Farsi-Spanish Bilingually Low-Resource Scenario"
   authors: Benyamin Ahmadnia, Parisa Kordjamshidi, Reza Haffari
@@ -104,7 +107,7 @@
   year: 2018
   links:
     - url: https://hlr.github.io/papers/SpatialCoreferenceResolution-7.pdf
-      display:  Download
+      display:  PDF
 
 - title: "Visually Guided Spatial Relation Extraction from Text"
   authors: Taher Rahgooy, Umar Manzoor, Parisa Kordjamshidi
@@ -112,7 +115,7 @@
   year: 2018
   links:
     - url: https://hlr.github.io/papers/NAACL-2018-short.pdf
-      display: Download
+      display: PDF
 
 #2017
 - title: "Relational Learning and Feature Extraction by Querying over Heterogeneous Information Networks"
@@ -121,7 +124,7 @@
   year: 2017
   links:
     - url: https://hlr.github.io/papers/StarAI-Saul.pdf
-      display: Download
+      display: PDF
 
 - title: "Spatial Language Understanding with Multimodal Graphs using Declarative Learning based Programming"
   authors: Parisa Kordjamshidi, T. Rahgooy, U. Manzoor
