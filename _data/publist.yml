@@ -100,6 +100,9 @@
   authors: Benyamin Ahmadnia, Parisa Kordjamshidi, Reza Haffari
   venue: ICMLA 2018
   year: 2018
+  links:
+    - url: https://ieeexplore.ieee.org/document/8614221
+      display: IEEE
 
 - title: "Anaphora Resolution for Improving Spatial Relation Extraction from Text"
   authors: Umar Manzoor, Parisa Kordjamshidi
@@ -130,6 +133,9 @@
   authors: Parisa Kordjamshidi, T. Rahgooy, U. Manzoor
   venue: EMNLP 2017, Workshop on Structured Prediction for NLP
   year: 2017
+  links:
+    - url: https://www.aclweb.org/anthology/W17-4306/
+      display: PDF
 
 - title: "CLEF 2017: Multimodal Spatial Role Labeling (mSpRL) Task Overview"
   authors: Parisa Kordjamshidi, T. Rahgooy, M-F. Moens, J. Pustejovsky, U. Manzoor and K. Roberts
