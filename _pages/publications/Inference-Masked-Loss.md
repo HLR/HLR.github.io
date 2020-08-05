@@ -14,7 +14,7 @@ permalink: /publications/Inference-Masked-Loss
 [Andrzej Uszok](https://github.com/auszok),
 [Parisa Kordjamshidi](http://www.cse.msu.edu/~kordjams)
 
-*This work has been accepted for publication in IJCAI 2020 (main track). Please refer to the IJCAI Proceedings for a **full verison**.*
+*This work has been accepted for publication in IJCAI 2020 (main track). Please refer to the [IJCAI Proceedings](https://www.ijcai.org/Proceedings/2020/382) for a [**full verison**](https://www.ijcai.org/Proceedings/2020/0382.pdf).*
 
 ## Abstract
 

@@ -6,13 +6,15 @@
 
 - title: "Inference-Masked Loss for Structured Output Learning"
   authors: Quan Guo, Hossein Rajaby Faghihi, Yue Zhang, Andrzej Uszok and Parisa Kordjamshidi
-  venue: The 29th International Joint Conference on Artificial Intelligence (IJCAI-2020), accepted.
+  venue: Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence, IJCAI-20.
   year: 2020
   links:
-    - url: Inference-Masked-Loss
-      display: Web Page
+    - url: https://www.ijcai.org/Proceedings/2020/0382.pdf
+      display: PDF
     - url: https://github.com/HLR/Inference-Masked-Loss
       display: Code
+    - url: Inference-Masked-Loss
+      display: Web Page
 
 - title: "Cross-Modality Relevance for Reasoning on Language and Vision"
   authors: Chen Zheng, Quan Guo and Parisa Kordjamshidi.
