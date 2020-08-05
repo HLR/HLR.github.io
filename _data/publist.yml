@@ -3,6 +3,11 @@
   authors: Hossein Rajaby Faghihi, Roshanak Mirzaee, Sudarshan Paliwal and Parisa Kordjamshidi
   venue: Workshop on Advances in Language and Vision Research at (ACL-2020), accepted.
   year: 2020
+  links:
+    - url: https://www.aclweb.org/anthology/2020.alvr-1.5/
+      display: PDF
+    - code: https://github.com/HLR/LatentAlignmentProcedural
+      display: Code
 
 - title: "Inference-Masked Loss for Structured Output Learning"
   authors: Quan Guo, Hossein Rajaby Faghihi, Yue Zhang, Andrzej Uszok and Parisa Kordjamshidi
@@ -20,6 +25,11 @@
   authors: Chen Zheng, Quan Guo and Parisa Kordjamshidi.
   venue: 2020 Annual Conference of the Association for Computational Linguistics (ACL-2020), accepted.
   year: 2020
+  links:
+    - url: https://www.aclweb.org/anthology/2020.acl-main.683/
+      display: PDF
+    - code: https://github.com/HLR/Cross_Modality_Relevance
+      display: Code
 
 - title: "From Spatial Relations to Spatial Configurations"
   authors: Soham Dan, Parisa Kordjamshidi, Julia Bonn, Archna Bhatia, Martha Palmer and Dan Roth.
