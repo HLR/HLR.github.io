@@ -69,9 +69,6 @@
   links:
     - url: https://ieeexplore.ieee.org/document/8856378
       display: IEEE
-#  links:
-#    - url: https://hlr.github.io/papers/IJCAI-2018-survey.pdf
-#      display:  Download
 
 - title: "Rapid in-vitro detection of drug-induced peripheral neuropathy through electrophysiological and histological analysis of 3D microphysiological \"nerve-on-a-chip\" cultures"
   authors: Pollard KJ, Karimian HR, Curley LJ, Kordjamshidi P, and Moore MJ.
@@ -152,8 +149,14 @@
   authors: P. Kordjamshidi, C. Christodoulopoulos, D. Khashabi, B. Mangipudi, S. Singh, D. Roth
   year: 2016
   venue: COLING 2016
+  links:
+    - url: https://www.aclweb.org/anthology/C16-1285/
+      display: PDF
 
 - title: "EDISON: Feature Extraction for NLP, Simplified"
   authors: M. Sammons, C. Christodoulopoulos, P. Kordjamshidi, D. Khashabi, V. Srikumar and D. Roth
   year: 2016
   venue: LREC 2016
+  links:
+    - url: https://www.aclweb.org/anthology/L16-1645/
+      display: PDF
