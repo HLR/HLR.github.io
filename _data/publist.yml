@@ -60,7 +60,7 @@
   year: 2019
   links:
     - url: https://arxiv.org/pdf/1906.07809.pdf
-      display:  Download
+      display: PDF
 
 - title: "Semantic Segmentation of Microengineered Neural Tissues"
   authors: "H. Karimian, K. Pollard, M. J. Moore, P. Kordjamshidi."
