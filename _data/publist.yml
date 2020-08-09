@@ -1,21 +1,4 @@
 #2020
-- title: Knowledge Graphs Effectiveness in Neural Machine Translation Improvement
-  authors: Benyamin Ahmadnia, Bonnie J. Dorr, Parisa Kordjamshidi
-  venue: Computer Science, Volume 21, Number 3 (4 July 2020)
-  year: 2020
-  links:
-    - url: https://journals.agh.edu.pl/csci/article/view/3701
-      display: PDF
-
-- title: Latent Alignment of Procedural Concepts in Multimodal Recipes
-  authors: Hossein Rajaby Faghihi, Roshanak Mirzaee, Sudarshan Paliwal and Parisa Kordjamshidi
-  venue: Workshop on Advances in Language and Vision Research at (ACL-2020)
-  year: 2020
-  links:
-    - url: https://www.aclweb.org/anthology/2020.alvr-1.5/
-      display: PDF
-    - code: https://github.com/HLR/LatentAlignmentProcedural
-      display: Code
 
 - title: "Inference-Masked Loss for Structured Output Learning"
   authors: Quan Guo, Hossein Rajaby Faghihi, Yue Zhang, Andrzej Uszok and Parisa Kordjamshidi
@@ -45,6 +28,23 @@
   year: 2020
   links:
     - url: https://www.aclweb.org/anthology/2020.lrec-1.717/
+      display: PDF
+- title: Latent Alignment of Procedural Concepts in Multimodal Recipes
+  authors: Hossein Rajaby Faghihi, Roshanak Mirzaee, Sudarshan Paliwal and Parisa Kordjamshidi
+  venue: Workshop on Advances in Language and Vision Research at (ACL-2020)
+  year: 2020
+  links:
+    - url: https://www.aclweb.org/anthology/2020.alvr-1.5/
+      display: PDF
+    - code: https://github.com/HLR/LatentAlignmentProcedural
+      display: Code
+
+- title: Knowledge Graphs Effectiveness in Neural Machine Translation Improvement
+  authors: Benyamin Ahmadnia, Bonnie J. Dorr, Parisa Kordjamshidi
+  venue: Computer Science, Volume 21, Number 3 (4 July 2020)
+  year: 2020
+  links:
+    - url: https://journals.agh.edu.pl/csci/article/view/3701
       display: PDF
 
 - title: Neural Learning Representations to Augment Statistical Analysis of Drug Treatment Effects on Bioengineered Microphysiological Nerve Tissue
