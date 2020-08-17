@@ -19,6 +19,11 @@
       github: https://github.com/HLR/Inference-Masked-Loss
     - title: "Latent Alignment of Procedural Concepts in Multimodal Recipes"
       authors: Hossein Rajaby Faghihi, Roshanak Mirzaee, Sudarshan Paliwal and Parisa Kordjamshidi
+    - title: "Inference-Masked Loss for Structured Output Learning"
+      authors: Quan Guo, Hossein Rajaby Faghihi, Yue Zhang, Andrzej Uszok and Parisa Kordjamshidi
+      link: https://www.ijcai.org/Proceedings/2020/0382.pdf
+      webpage: Inference-Masked-Loss
+      github: https://github.com/HLR/Inference-Masked-Loss
 
 - title: "SpLang"
   id: splang
