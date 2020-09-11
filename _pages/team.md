@@ -49,13 +49,24 @@ Jump to: [Faculty](#faculty), [Postdocs](#postdocs), [Phd Students](#phd-student
 </div>
 
 
-## Master Students
+## Master's Students
 <div class="row">
 {% for member in site.data.master_students %}
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/profiles/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4><a href="{{ member.webpage }}" style="color:inherit">{{ member.name }}</a></h4>
-  <i><b>Research Interests</b>: {{ member.research_interest }}<br><b>Email</b>: <{{ member.email }}></i>
+  <i><b>Email</b>: <{{ member.email }}></i>
+</div>
+{% endfor %}
+</div>
+
+## Undergrads
+<div class="row">
+{% for member in site.data.undergrads %}
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/profiles/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <h4><a href="{{ member.webpage }}" style="color:inherit">{{ member.name }}</a></h4>
+  <i><b>Email</b>: <{{ member.email }}>
 </div>
 {% endfor %}
 </div>
