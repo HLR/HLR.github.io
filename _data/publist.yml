@@ -1,5 +1,10 @@
 #2020
 
+- title: "SRLGRN: Semantic Role Labeling Graph Reasoning Network"
+  authors: Chen Zheng and Parisa Kordjamshidi.
+  venue: The 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP-2020)
+  year: 2020
+
 - title: "Inference-Masked Loss for Structured Output Learning"
   authors: Quan Guo, Hossein Rajaby Faghihi, Yue Zhang, Andrzej Uszok and Parisa Kordjamshidi
   venue: Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence, IJCAI-20.
