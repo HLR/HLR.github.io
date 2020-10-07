@@ -28,6 +28,7 @@ permalink: /deadlines/
 | &nbsp; ICLR 2021  &nbsp; | &nbsp;  Oct 02 2020    &nbsp; | &nbsp;  May 4, 2021   &nbsp; | &nbsp;  Vienna, Austria &nbsp; |
 | &nbsp; NAACL 2021  &nbsp; | &nbsp;  Nov 24 2020    &nbsp; | &nbsp;  June 6-11, 2021   &nbsp; | &nbsp;  Mexico City, Mexico &nbsp; |
 | &nbsp; ACL 2021  &nbsp; | &nbsp;  -    &nbsp; | &nbsp;  August 1-6, 2021   &nbsp; | &nbsp;  Bangkok, Thailand &nbsp; |
+| &nbsp; IJCAI 2021  &nbsp; | &nbsp;  Jan 18 2021    &nbsp; | &nbsp;  -   &nbsp; | &nbsp;  - &nbsp; |
 {:.table-striped .table-bordered}
 
 &nbsp;
