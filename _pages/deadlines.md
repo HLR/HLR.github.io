@@ -27,8 +27,8 @@ permalink: /deadlines/
 | &nbsp; EACL 2021  &nbsp; | &nbsp;  Oct 08 2020   &nbsp; | &nbsp;  April 21-23, 2021 &nbsp; | &nbsp; Online(Kyiv, Ukraine)  &nbsp;|
 | &nbsp; ICLR 2021  &nbsp; | &nbsp;  Oct 02 2020    &nbsp; | &nbsp;  May 4, 2021   &nbsp; | &nbsp;  Vienna, Austria &nbsp; |
 | &nbsp; NAACL 2021  &nbsp; | &nbsp;  Nov 24 2020    &nbsp; | &nbsp;  June 6-11, 2021   &nbsp; | &nbsp;  Mexico City, Mexico &nbsp; |
-| &nbsp; ACL 2021  &nbsp; | &nbsp;  -    &nbsp; | &nbsp;  August 1-6, 2021   &nbsp; | &nbsp;  Bangkok, Thailand &nbsp; |
-| &nbsp; IJCAI 2021  &nbsp; | &nbsp;  Jan 18 2021    &nbsp; | &nbsp;  -   &nbsp; | &nbsp;  - &nbsp; |
+| &nbsp; IJCAI 2021  &nbsp; | &nbsp;  Jan 18 2021    &nbsp; | &nbsp;  August 21-26, 2021   &nbsp; | &nbsp;  Montreal, Canada &nbsp; |
+| &nbsp; ACL 2021  &nbsp; | &nbsp;  Feb 02 2021     &nbsp; | &nbsp;  August 2-4, 2021, 2021   &nbsp; | &nbsp;  Bangkok, Thailand &nbsp; |
 {:.table-striped .table-bordered}
 
 &nbsp;
