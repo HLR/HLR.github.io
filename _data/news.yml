@@ -2,7 +2,7 @@
   headline: Our poster "SPARTQA: A Textual Question Answering Benchmark for Spatial Reasoning" won the best poster award in 2nd AI Symposium held in University of Michigan.
   top: 1
   pictures:
-    - image: certificate.png
+    - image: newspic/certificate.png
 
 - date: <i>September 15th 2020</i>
   headline: Our paper on "SRLGRN Semantic Role Labeling Graph Reasoning Network" is accepted for EMNLP-2020. Congratulations to Chen et al.!
