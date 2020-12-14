@@ -70,3 +70,7 @@ Jump to: [Faculty](#faculty), [Postdocs](#postdocs), [Phd Students](#phd-student
 </div>
 {% endfor %}
 </div>
+
+## Past Members
+
+- Quan Guo as Postdoc. Currently a research associate at Sichuan University
