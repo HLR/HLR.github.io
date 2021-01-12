@@ -9,6 +9,8 @@ permalink: /publications/
 
 # Recent Publication
 ### For the full list see [here](http://www.cse.msu.edu/~kordjams/publication.htm).
+### You can download the Bibtex file of all below publications [here]({{ site.url }}{{ site.baseurl }}/hlr.bib).
+
 {% assign year = 0 %}
 {% for publi in site.data.publist %}
 
