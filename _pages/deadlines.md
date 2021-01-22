@@ -22,7 +22,6 @@ permalink: /deadlines/
 | &nbsp; ICLR 2021  &nbsp; | &nbsp;  Oct 02 2020    &nbsp; | &nbsp;  May 4, 2021   &nbsp; | &nbsp;  Vienna, Austria &nbsp; |
 | &nbsp; EACL 2021  &nbsp; | &nbsp;  Oct 08 2020   &nbsp; | &nbsp;  April 21-23, 2021 &nbsp; | &nbsp; Online(Kyiv, Ukraine)  &nbsp;|
 | &nbsp; AAAI 2021  &nbsp; | &nbsp;  Sep 10 2020  &nbsp; | &nbsp; Feb 2-9, 2021  &nbsp; | &nbsp;  Vancouver, Canada  &nbsp;|
-
 | 2020 |  |  |  |
 | &nbsp; WMT 2020  &nbsp; | &nbsp;  Aug 16 2020   &nbsp; | &nbsp;  Nov 19-20, 2020 &nbsp; | &nbsp;  Online  &nbsp;|
 | &nbsp; AKBC 2020  &nbsp; | &nbsp;   TBD   &nbsp; | &nbsp; TBD   &nbsp; | &nbsp;  Virtual conference and workshops &nbsp; |
