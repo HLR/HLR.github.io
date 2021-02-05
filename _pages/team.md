@@ -8,25 +8,16 @@ permalink: /team/
 
 # Group Members
 
-Jump to: [Gallery](#gallery), [Faculty](#faculty), [Postdocs](#postdocs), [Phd Students](#phd-students), [Master Students](#master-students)
+Jump to: [Faculty](#faculty), [Postdocs](#postdocs), [Phd Students](#phd-students), [Master Students](#master-students)
 <div class="row">
-<div class="col-lg-6 col-md-6 col-sm-12">
+<div class="col-lg-5 col-md-6 col-sm-12">
+<a href="{{ site.url }}{{ site.baseurl }}/pictures/" >
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/main.jpg" width="100%">
+</a>
 </div>
 </div>
 
-### Gallery
-{% assign number_printed = 0 %}
-<div class="row">
-{% for pic in site.data.gallery %}
-
-<div class="col-lg-4 col-md-6 col-sm-12 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image }}" class="img-responsive" width="100%"/>
-</div>
-
-{% endfor %}
-
-</div>
+Go to <a href="{{ site.url }}{{ site.baseurl }}/pictures/"> <b>Gallery</b> </a>
 
 ## Faculty
 {% assign number_printed = 0 %}
