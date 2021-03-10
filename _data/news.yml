@@ -1,5 +1,13 @@
+- date: <i>March 10th 2021</i>
+  headline: Our paper on "Time-Stamped Language Model: Teaching Language Models to Understand The Flow of Events" is accepted for NAACL-2021. Congratulations to Hossein et al.
+  top: 1
+  
+- date: <i>March 10th 2021</i>
+  headline: Our paper on "SPARTQA: A Textual Question Answering Benchmark for Spatial Reasoning" is accepted for NAACL-2021. Congratulations to Roshanak et al.
+  top: 1
+  
 - date: <i>October 30th 2020</i>
-  headline: Our poster "SPARTQA, A Textual Question Answering Benchmark for Spatial Reasoning" won the "best poster award" in 3rd Michigan AI Symposium, University of Michigan, Ann Arbor. Congratulations to Roshanak et al.
+  headline: Our poster "SPARTQA: A Textual Question Answering Benchmark for Spatial Reasoning" won the "best poster award" in 3rd Michigan AI Symposium, University of Michigan, Ann Arbor. Congratulations to Roshanak et al.
   top: 1
   pictures:
     - image: certificate.png
@@ -18,14 +26,14 @@
 
 - date: <i>February 27th 2020</i>
   headline: Parisa gave a talk in dagstuhl event. The topic is "Declarative learning-based programming as an interface to AI systems".
-  top: 1
+  top: 0
   link: https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=20091
   pictures:
     - image: dagsthul.jpg
 
 - date: <i>October 30th 2019</i>
   headline: Parisa will serve as an area chair of ACL-2020 on Language Grounding to Vision, Robotics and Beyond track.
-  top: 1
+  top: 0
 
 - date: <i>October 25th 2019</i>
   headline: Our tutorial on "Representation, Learning and Reasoning on Spatial Language for Downstream NLP Tasks", is accepted for EMNLP-2020, this will be a joint work of Parisa with James Pustejovsky and Marie-Francine Moens. 
@@ -38,7 +46,7 @@
 
 - date: <i>October 19th 2019</i>
   headline: We are honored to announce that The paper "<b>From Ontologies to Learning-Based Programs</b>" has been selected as the "most impactful to AI" prize winner in the <b>2nd Michigan AI Symposium, University of Michigan</b>, Ann Arbor. Keep up the good work and congratulations.
-  top: 1
+  top: 0
   pictures:
     - image: news-1.jpg
 
