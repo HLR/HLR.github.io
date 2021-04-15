@@ -1,4 +1,5 @@
 ## Documentation Links
+[Home](/domiknows-nlp)
 - [Installation](/domiknows-nlp/install)
 - [Introduction](/domiknows-nlp/intro)
 - [Overview](/domiknows-nlp/overview)
