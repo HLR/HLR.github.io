@@ -6,8 +6,9 @@ sitemap: false
 permalink: /domiknows-nlp/install
 ---
 
+{% include documentation_contents.md %}
 
-# Install
+# DomiKnowS Installation
 
 - [Install](#install)
   - [Requirements](#requirements)
