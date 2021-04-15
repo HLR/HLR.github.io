@@ -4,6 +4,13 @@
   authors: Roshanak Mirzaee, Hossein Rajaby Faghihi, Qiang Ning, and Parisa Kordjamshidi.
   venue: The 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL-2021)
   year: 2021
+  links:
+    - url: https://arxiv.org/pdf/2104.05832.pdf
+      display: PDF
+    - url: https://github.com/HLR/SpartQA_generation
+      display: Code_data
+    - url: https://github.com/HLR/SpartQA-baselines
+      display: Code_baseline
   
 - title: "Time-Stamped Language Model: Teaching Language Models to Understand The Flow of Events"
   authors: Hossein Rajaby Faghihi and Parisa Kordjamshidi.
