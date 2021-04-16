@@ -28,7 +28,7 @@ permalink: /domiknows-nlp/install
 - [PyTorch](https://pytorch.org) 1.4.0
 - [Gurobi](https://gurobi.com) 8.0
 - [graphviz](https://graphviz.org/)
-- other dependencies specified in [`requirements.txt`](/requirements.txt), that are installed by `pip`.
+- other dependencies specified in [`requirements.txt`](https://github.com/HLR/DomiKnowS/blob/main/requirements.txt), that are installed by `pip`.
 
 ```bash
 python -m pip install -r requirements.txt
@@ -48,7 +48,7 @@ export PYTHONPATH=$(pwd):$PYTHONPATH
 ### Additional for testing
 
 We test with [pytest](https://pytest.org).
-Additional dependencies for testing in [`requirements-dev.txt`](/requirements-dev.txt), that can be installed by `pip`.
+Additional dependencies for testing in [`requirements-dev.txt`](https://github.com/HLR/DomiKnowS/blob/main/requirements-dev.txt), that can be installed by `pip`.
 
 ```bash
 python -m pip install -r requirements-dev.txt
@@ -60,7 +60,7 @@ Make sure to check out if there is any **additional prerequirements** or setup s
 
 ## Testing
 
-Testing cases are in [`test_regr`](/test_regr)
+Testing cases are in [`test_regr`](https://github.com/HLR/DomiKnowS/tree/main/test_regr)
 
 After installing [dependency of testing](#additional-for-testing), one can run test cases with [pytest](https://pytest.org):
 

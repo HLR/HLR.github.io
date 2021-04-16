@@ -80,7 +80,7 @@ for paragraph_datanode in program.populate(reader):
 ## How to program
 DomiKnowS aims to regularize the design to be focused on knowledge.
 The following sections introduce the major concepts.
-For a complete pipeline of programming with DomiKnowS, please referer to the [pipeline](PIPELINE.md).
+For a complete pipeline of programming with DomiKnowS, please referer to the [pipeline](/domiknows-nlp/pipeline).
 ### Knowledge Declaration
 Class reference:
 - `regr.graph.Graph`
