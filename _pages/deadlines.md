@@ -15,6 +15,7 @@ permalink: /deadlines/
 | Event  |  Deadline  | When  |  Where  |
 |:-:|:-:|:-:|:-:|
 | 2021 |  |  |  |
+| &nbsp; AKBC 2021  &nbsp; | &nbsp;  Jun 18 2021     &nbsp; | &nbsp;  October 4-7, 2021, 2021   &nbsp; | &nbsp; Irvine, United States  &nbsp; |
 | &nbsp; EMNLP 2021  &nbsp; | &nbsp;  May 18 2021     &nbsp; | &nbsp;  November 7-11, 2021   &nbsp; | &nbsp; Punta Cana, Dominican Republic  &nbsp; |
 | &nbsp; ICML 2021  &nbsp; | &nbsp;  Feb 05 2021     &nbsp; | &nbsp;  July 18-24, 2021   &nbsp; | &nbsp; Vienna, Austria   &nbsp; |
 | &nbsp; ACL 2021  &nbsp; | &nbsp;  Feb 02 2021     &nbsp; | &nbsp;  August 2-4, 2021   &nbsp; | &nbsp;  Bangkok, Thailand &nbsp; |
