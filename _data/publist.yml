@@ -16,6 +16,12 @@
   authors: Hossein Rajaby Faghihi and Parisa Kordjamshidi.
   venue: The 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL-2021)
   year: 2021
+  links:
+    - url: https://arxiv.org/abs/2104.07635
+      display: PDF
+    - url: https://github.com/HLR/TSLM
+      display: Code
+
   
 #2020 
 
@@ -23,6 +29,11 @@
   authors: Chen Zheng and Parisa Kordjamshidi.
   venue: The 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP-2020)
   year: 2020
+  links:
+    - url: https://www.aclweb.org/anthology/2020.emnlp-main.714.pdf
+      display: PDF
+    - url: https://github.com/HLR/SRLGRN
+      display: Code
 
 - title: "Inference-Masked Loss for Structured Output Learning"
   authors: Quan Guo, Hossein Rajaby Faghihi, Yue Zhang, Andrzej Uszok and Parisa Kordjamshidi
