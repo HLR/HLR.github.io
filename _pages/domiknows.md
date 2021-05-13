@@ -30,7 +30,7 @@ permalink: /domiknows/
 <p>List of <b>publications</b>: </p>
 {% for pub in project.publications %}
 <ul>
-<li><strong>{{ pub.title }}</strong>. {{ pub.authors }} {% if pub.webpage %} <a href="{{ pub.webpage }}">More detail</a>. {% endif %} {% if pub.webpage %} <a href="{{ pub.webpage }}">GitHub</a>. {% endif %} {% if pub.link %} <a href="{{ pub.link }}">Download</a>. {% endif %} </li>
+<li><strong>{{ pub.title }}</strong>. {{ pub.authors }} {% if pub.webpage %} <a href="{{ pub.webpage }}">More detail</a>. {% endif %} {% if pub.github %} <a href="{{ pub.github }}">GitHub</a>. {% endif %} {% if pub.link %} <a href="{{ pub.link }}">Download</a>. {% endif %} </li>
 </ul>
 {% endfor %}
 {% endif %}
