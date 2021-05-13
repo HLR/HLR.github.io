@@ -1,3 +1,11 @@
+- date: <i>May 4th 2021</i>
+  headline: Congratulations to Sushanta for his Master thesis defense and graduating!
+  top: 1
+  
+- date: <i>April 29th 2021</i>
+  headline: Our paper on "Relational Gating for ''What If'' Reasoning" is accepted for IJCAI-2021. Congratulations to Chen et al.!
+  top: 1
+
 - date: <i>March 10th 2021</i>
   headline: Our paper on "Time-Stamped Language Model, Teaching Language Models to Understand The Flow of Events" is accepted for NAACL-2021. Congratulations to Hossein et al.
   top: 1
@@ -18,11 +26,11 @@
 
 - date: <i>April 20th 2020</i>
   headline: Our paper on "Inference-Masked Loss for Deep Structured Output Learning" is accepted for IJCAI-2020. The acceptance rate is only 12.6%. Congratulations to Quan et al.!
-  top: 1
+  top: 0
 
 - date: <i>April 3rd 2020</i>
   headline: Our paper on "Cross-Modality Relevance for Reasoning on Language and Vision" is accepted for ACL-2020. Congratulations to Chen et al.!
-  top: 1
+  top: 0
 
 - date: <i>February 27th 2020</i>
   headline: Parisa gave a talk in dagstuhl event. The topic is "Declarative learning-based programming as an interface to AI systems".
@@ -37,12 +45,12 @@
 
 - date: <i>October 25th 2019</i>
   headline: Our tutorial on "Representation, Learning and Reasoning on Spatial Language for Downstream NLP Tasks", is accepted for EMNLP-2020, this will be a joint work of Parisa with James Pustejovsky and Marie-Francine Moens. 
-  top: 1
+  top: 0
 
 - date: <i>October 24th 2019</i>
   headline: Our 3rd  workshop on "Spatial Language Understanding", is accepted to be co-located with EMNLP-2020. 
   link: https://spatial-language.github.io
-  top: 1
+  top: 0
 
 - date: <i>October 19th 2019</i>
   headline: We are honored to announce that The paper "<b>From Ontologies to Learning-Based Programs</b>" has been selected as the "most impactful to AI" prize winner in the <b>2nd Michigan AI Symposium, University of Michigan</b>, Ann Arbor. Keep up the good work and congratulations.

@@ -1,5 +1,10 @@
 #2021
 
+- title: "Relational Gating for ''What If'' Reasoning"
+  authors: Chen Zheng and Parisa Kordjamshidi.
+  venue: The 30th International Joint Conference on Artificial Intelligence (IJCAI-2021)
+  year: 2021
+
 - title: "SpartQA: A Textual Question Answering Benchmark for Spatial Reasoning"
   authors: Roshanak Mirzaee, Hossein Rajaby Faghihi, Qiang Ning, and Parisa Kordjamshidi.
   venue: The 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL-2021)
