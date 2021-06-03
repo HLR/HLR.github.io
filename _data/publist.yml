@@ -4,6 +4,11 @@
   authors: Chen Zheng and Parisa Kordjamshidi.
   venue: The 30th International Joint Conference on Artificial Intelligence (IJCAI-2021)
   year: 2021
+  links:
+    - url: https://arxiv.org/abs/2105.13449
+      display: PDF
+    - url: https://github.com/HLR/RGN
+      display: Code
 
 - title: "SpartQA: A Textual Question Answering Benchmark for Spatial Reasoning"
   authors: Roshanak Mirzaee, Hossein Rajaby Faghihi, Qiang Ning, and Parisa Kordjamshidi.
