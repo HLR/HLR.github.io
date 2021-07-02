@@ -15,7 +15,10 @@ permalink: /deadlines/
 | Event  |  Deadline  | When  |  Where  |
 |:-:|:-:|:-:|:-:|
 | 2021 |  |  |  |
-| &nbsp; AKBC 2021  &nbsp; | &nbsp;  Jun 18 2021     &nbsp; | &nbsp;  October 4-7, 2021, 2021   &nbsp; | &nbsp; Irvine, United States  &nbsp; |
+| &nbsp; LREC 2022  &nbsp; | &nbsp;  Jan 10 2022     &nbsp; | &nbsp;  June 20-25, 2022   &nbsp; | &nbsp; Marseille, France  &nbsp; |
+| &nbsp; ICLR 2022  &nbsp; | &nbsp;  Oct 05 2021     &nbsp; | &nbsp;  April 25-29, 2022   &nbsp; | &nbsp; Online  &nbsp; |
+| &nbsp; AAAI 2022 &nbsp; | &nbsp;  Sep 09 2021     &nbsp; | &nbsp;  February 22 - March 1, 2022   &nbsp; | &nbsp; Vancouver, Canada  &nbsp; |
+| &nbsp; AKBC 2021  &nbsp; | &nbsp;  Jun 18 2021     &nbsp; | &nbsp;  October 4-7, 2021   &nbsp; | &nbsp; Irvine, United States  &nbsp; |
 | &nbsp; NeurIPS 2021  &nbsp; | &nbsp;  May 26 2021     &nbsp; | &nbsp;  December 5-14, 2021   &nbsp; | &nbsp; Online  &nbsp; |
 | &nbsp; EMNLP 2021  &nbsp; | &nbsp;  May 18 2021     &nbsp; | &nbsp;  November 7-11, 2021   &nbsp; | &nbsp; Punta Cana, Dominican Republic  &nbsp; |
 | &nbsp; ICML 2021  &nbsp; | &nbsp;  Feb 05 2021     &nbsp; | &nbsp;  July 18-24, 2021   &nbsp; | &nbsp; Vienna, Austria   &nbsp; |
