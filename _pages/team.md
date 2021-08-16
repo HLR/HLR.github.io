@@ -32,7 +32,7 @@ Go to <a href="{{ site.url }}{{ site.baseurl }}/pictures/"> <b>Gallery</b> </a>
 {% endfor %}
 </div>
 
-## Postdocs
+<!-- ## Postdocs -->
 <!-- <div class="row">
 {% for member in site.data.postdocs %}
 <div class="col-sm-6 clearfix">
