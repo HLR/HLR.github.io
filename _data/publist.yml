@@ -3,6 +3,12 @@
   authors: Guangyue Xu, Parisa Kordjamshidi and Joyce Chai
   venue: ACL-2021 workshop on MetaNLP
   year: 2021
+  links:
+    - url: https://arxiv.org/abs/2107.05176
+      display: PDF
+#     - url: https://github.com/zhangyuejoslin/SpC-NAV
+#       display: Code
+  
 
 - title: Towards Navigation by Reasoning over Spatial Configurations
   authors: Yue Zhang, Quan Guo and Parisa Kordjamshidi
