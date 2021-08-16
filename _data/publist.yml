@@ -8,6 +8,11 @@
   authors: Yue Zhang, Quan Guo and Parisa Kordjamshidi
   venue: ACL-2021 workshop on SpLU-RoboNLP
   year: 2021
+  links:
+    - url: https://aclanthology.org/2021.splurobonlp-1.5/
+      display: PDF
+    - url: https://github.com/zhangyuejoslin/SpC-NAV
+      display: Code
 
 - title: "Relational Gating for ''What If'' Reasoning"
   authors: Chen Zheng and Parisa Kordjamshidi.
