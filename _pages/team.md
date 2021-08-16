@@ -33,7 +33,7 @@ Go to <a href="{{ site.url }}{{ site.baseurl }}/pictures/"> <b>Gallery</b> </a>
 </div>
 
 ## Postdocs
-<div class="row">
+<!-- <div class="row">
 {% for member in site.data.postdocs %}
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/profiles/{{ member.photo }}" class="img-responsive" width="25%" style="float: left"/>
@@ -41,7 +41,7 @@ Go to <a href="{{ site.url }}{{ site.baseurl }}/pictures/"> <b>Gallery</b> </a>
   <i><b>Research Interests</b>: {{ member.research_interest }}<br><b>Email</b>: <{{ member.email }}></i>
 </div>
 {% endfor %}
-</div>
+</div> -->
 
 ## PhD Students
 <div class="row">
