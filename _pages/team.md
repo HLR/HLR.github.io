@@ -79,4 +79,5 @@ Go to <a href="{{ site.url }}{{ site.baseurl }}/pictures/"> <b>Gallery</b> </a>
 
 ## Past Members
 
-- Quan Guo as Postdoc(Feb 2019 - Nov 2020). Currently a research associate at Sichuan University.
+- Quan Guo as Postdoc (Feb 2019 - Nov 2020). Currently a research associate at Sichuan University.
+- Elaheh Raisi as Postdoc (Nov 2020 - May 2021).
