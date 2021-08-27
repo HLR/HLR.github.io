@@ -1,5 +1,6 @@
 ## DomiKnowS Documentation Links
 [Home](/domiknows-nlp)
+- [Paper] (downloads/Domiknows_EMNLP_2021.pdf)
 - [Installation](/domiknows-nlp/install)
 - [Overview](/domiknows-nlp/overview)
 - [Pipeline](/domiknows-nlp/pipeline)
