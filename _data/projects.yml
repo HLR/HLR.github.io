@@ -41,12 +41,30 @@
   funding_resource: National Science Foundation (NSF).
   image: splang.png
   publications:
-    - title: "From Spatial Relations to Spatial Configurations"
-      authors: Soham Dan, Parisa Kordjamshidi, Julia Bonn, Archna Bhatia, Martha Palmer and Dan Roth
-      link: https://www.aclweb.org/anthology/2020.lrec-1.717.pdf
+    - title: Towards Navigation by Reasoning over Spatial Configurations
+      authors: Yue Zhang, Quan Guo and Parisa Kordjamshidi
+      link: https://aclanthology.org/2021.splurobonlp-1.5/
+      github: https://github.com/zhangyuejoslin/SpC-NAV
+    - title: "Relational Gating for ''What If'' Reasoning"
+      authors: Chen Zheng and Parisa Kordjamshidi.
+      link: https://arxiv.org/abs/2105.13449
+      github: https://github.com/HLR/RGN
+    - title: "SpartQA: A Textual Question Answering Benchmark for Spatial Reasoning"
+      authors: Roshanak Mirzaee, Hossein Rajaby Faghihi, Qiang Ning, and Parisa Kordjamshidi.
+      link: https://arxiv.org/pdf/2104.05832.pdf
+      github: https://github.com/HLR/SpartQA_generation
+    - title: title: "SRLGRN: Semantic Role Labeling Graph Reasoning Network"
+      authors: Chen Zheng and Parisa Kordjamshidi.
+      link: https://www.aclweb.org/anthology/2020.emnlp-main.714.pdf
+      github: https://github.com/HLR/SRLGRN
     - title: "Cross-Modality Relevance for Reasoning on Language and Vision"
       authors: Chen Zheng, Quan Guo and Parisa Kordjamshidi
       link: https://www.aclweb.org/anthology/2020.acl-main.683/
+    - title: "From Spatial Relations to Spatial Configurations"
+      authors: Soham Dan, Parisa Kordjamshidi, Julia Bonn, Archna Bhatia, Martha Palmer and Dan Roth
+      link: https://www.aclweb.org/anthology/2020.lrec-1.717.pdf
+      
+    
 
 
 
