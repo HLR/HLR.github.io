@@ -12,18 +12,24 @@
   image: domiknows.png
   webpage: https://domiknows.github.io
   publications:
+    - title: "DomiKnowS, A Library for Integration of Symbolic Domain Knowledge in Deep Learning"
+      authors: Hossein Rajaby Faghihi, Quan Guo, Andrzej Uszok, Aliakbar Nafar, Elaheh Raisi, Parisa Kordjamshidi
+      link: https://arxiv.org/abs/2108.12370
+      webpage: https://hlr.github.io/domiknows-nlp
+      github: https://github.com/HLR/DomiKnowS
+    - title: "Inference-Masked Loss for Structured Output Learning"
+      authors: Quan Guo, Hossein Rajaby Faghihi, Yue Zhang, Andrzej Uszok and Parisa Kordjamshidi
+      link: https://www.ijcai.org/Proceedings/2020/0382.pdf
+      webpage: /publications/Inference-Masked-Loss
+      github: https://github.com/HLR/Inference-Masked-Loss  
+    - title: "Latent Alignment of Procedural Concepts in Multimodal Recipes"
+      authors: Hossein Rajaby Faghihi, Roshanak Mirzaee, Sudarshan Paliwal and Parisa Kordjamshidi
     - title: "From Ontologies to Learning-Based Programs"
       authors: Quan Guo, Andrzej Uszok and Parisa Kordjamshidi.
       link: http://delbp.github.io/papers/DeLBP-2019_Accepted-3.pdf
       webpage: https://hlr.github.io/publications/Inference-Masked-Loss
       github: https://github.com/HLR/Inference-Masked-Loss
-    - title: "Latent Alignment of Procedural Concepts in Multimodal Recipes"
-      authors: Hossein Rajaby Faghihi, Roshanak Mirzaee, Sudarshan Paliwal and Parisa Kordjamshidi
-    - title: "Inference-Masked Loss for Structured Output Learning"
-      authors: Quan Guo, Hossein Rajaby Faghihi, Yue Zhang, Andrzej Uszok and Parisa Kordjamshidi
-      link: https://www.ijcai.org/Proceedings/2020/0382.pdf
-      webpage: /publications/Inference-Masked-Loss
-      github: https://github.com/HLR/Inference-Masked-Loss
+   
 
 - title: "SpLang"
   id: splang
