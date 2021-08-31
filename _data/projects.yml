@@ -12,7 +12,7 @@
   image: domiknows.png
   webpage: https://domiknows.github.io
   publications:
-    - title: "DomiKnowS, A Library for Integration of Symbolic Domain Knowledge in Deep Learning"
+    - title: "DomiKnowS: A Library for Integration of Symbolic Domain Knowledge in Deep Learning"
       authors: Hossein Rajaby Faghihi, Quan Guo, Andrzej Uszok, Aliakbar Nafar, Elaheh Raisi, Parisa Kordjamshidi
       link: https://arxiv.org/abs/2108.12370
       webpage: https://hlr.github.io/domiknows-nlp
@@ -41,7 +41,7 @@
   funding_resource: National Science Foundation (NSF).
   image: splang.png
   publications:
-    - title: Towards Navigation by Reasoning over Spatial Configurations
+    - title: "Towards Navigation by Reasoning over Spatial Configurations"
       authors: Yue Zhang, Quan Guo and Parisa Kordjamshidi
       link: https://aclanthology.org/2021.splurobonlp-1.5/
       github: https://github.com/zhangyuejoslin/SpC-NAV
@@ -53,7 +53,7 @@
       authors: Roshanak Mirzaee, Hossein Rajaby Faghihi, Qiang Ning, and Parisa Kordjamshidi.
       link: https://arxiv.org/pdf/2104.05832.pdf
       github: https://github.com/HLR/SpartQA_generation
-    - title: title: "SRLGRN: Semantic Role Labeling Graph Reasoning Network"
+    - title: "SRLGRN: Semantic Role Labeling Graph Reasoning Network"
       authors: Chen Zheng and Parisa Kordjamshidi.
       link: https://www.aclweb.org/anthology/2020.emnlp-main.714.pdf
       github: https://github.com/HLR/SRLGRN
