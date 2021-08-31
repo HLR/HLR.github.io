@@ -1,4 +1,15 @@
 #2021
+
+- title: DomiKnowS: A Library for Integration of Symbolic Domain Knowledge in Deep Learning
+  authors: Hossein Rajaby Faghihi, Quan Guo, Andrzej Uszok, Aliakbar Nafar, Elaheh Raisi, Parisa Kordjamshidi
+  venue: EMNLP Demo Track
+  year: 2021
+  links:
+    - url: https://arxiv.org/abs/2108.12370
+      display: PDF
+    - url: https://github.com/HLR/DomiKnowS
+      display: Code
+      
 - title: Zero-Shot Compositional Concept Learning
   authors: Guangyue Xu, Parisa Kordjamshidi and Joyce Chai
   venue: ACL-2021 workshop on MetaNLP
