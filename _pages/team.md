@@ -55,7 +55,7 @@ Go to <a href="{{ site.url }}{{ site.baseurl }}/pictures/"> <b>Gallery</b> </a>
 </div>
 
 
-## Master's Students
+<!-- ## Master's Students -->
 <div class="row">
 {% for member in site.data.master_students %}
 <div class="col-sm-6 clearfix">
@@ -82,3 +82,4 @@ Go to <a href="{{ site.url }}{{ site.baseurl }}/pictures/"> <b>Gallery</b> </a>
 - Quan Guo as Postdoc (Feb 2019 - Nov 2020). Currently a research associate at Sichuan University.
 - Elaheh Raisi as Postdoc (Nov 2020 - May 2021).
 - Sushanta K. Pani as Master student (Aug 2019 - Sep 2021)
+- Drew Hayward as researcher (Aug 2019 - May 2021)

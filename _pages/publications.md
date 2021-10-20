@@ -27,5 +27,19 @@ permalink: /publications/
   <a href="{{ link.url }}">[{{ link.display }}]</a>
   {%- endif-%}
   {%- endfor %}
+  {% if publi.bibtex %}
+  <a href="" id = "bibtex-button" > [BibTex]  </a> 
+  <p id = "bibtex"> {{ publi.bibtex }}</p> 
 
+  {% endif %}
+  
+  
 {% endfor %}
+
+
+$(document).ready(function(){
+  
+  $("#bibtex-button").click(function(){
+    $("#bibtex").toggle();
+  });
+});

@@ -7,7 +7,7 @@
   description: A Declarative Learning Based Programming Framework For Integration of <strong>Dom</strong>ain <strong>Know</strong>ledge in <strong>S</strong>tatistical Learning.
   info: We seek for abstractions that facilitate writing programs that can learn from data. We are interested in languages that can help in integration of learning and reasoning formalisms and the formulation of declarative and procedural domain knowledge for learners.
   members: Parisa Kordjamshidi, James Allen, Choh Man Teng, Quan Guo, Andrzej Uszok, Brent Kristen Venable
-  graduate_students: Hossein Faghihi, Drew Hayward.
+  graduate_students: Hossein Faghihi, Darius Nafar, Drew Hayward.
   funding_resource: Office of Naval Research (ONR).
   image: domiknows.png
   webpage: https://domiknows.github.io
