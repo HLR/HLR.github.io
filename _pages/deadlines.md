@@ -15,7 +15,8 @@ permalink: /deadlines/
 | Event  |  Deadline  | When  |  Where  |
 |:-:|:-:|:-:|:-:|
 | 2022 |  |  |  |
-| &nbsp; NAACL 2022  &nbsp; | &nbsp;  Jan 15 2022     &nbsp; | &nbsp;  July 10-15, 2022   &nbsp; | &nbsp;  Seattle, Washington, USA  &nbsp; |
+| &nbsp; NAACL 2022  &nbsp; | &nbsp;  Jan 16 2022     &nbsp; | &nbsp;  July 10-15, 2022   &nbsp; | &nbsp;  Seattle, Washington, USA  &nbsp; |
+| &nbsp; IJCAI 2022  &nbsp; | &nbsp;  Jan 15 2022     &nbsp; | &nbsp;  TBD   &nbsp; | &nbsp;  Vienna, Austria  &nbsp; |
 | &nbsp; LREC 2022  &nbsp; | &nbsp;  Jan 10 2022     &nbsp; | &nbsp;  June 20-25, 2022   &nbsp; | &nbsp; Marseille, France  &nbsp; |
 | 2021 |  |  |  |
 | &nbsp; ACL 2022  &nbsp; | &nbsp;  Nov 16 2021     &nbsp; | &nbsp;  May 22-27, 2022   &nbsp; | &nbsp; Dublin, Ireland  &nbsp; |
