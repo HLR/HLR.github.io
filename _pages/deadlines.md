@@ -15,6 +15,7 @@ permalink: /deadlines/
 | Event  |  Deadline  | When  |  Where  |
 |:-:|:-:|:-:|:-:|
 | 2022 |  |  |  |
+| &nbsp; ICML 2022  &nbsp; | &nbsp;  Jan 28 2022     &nbsp; | &nbsp;  July 17-23, 2022   &nbsp; | &nbsp;   Baltimore, Maryland USA  &nbsp; |
 | &nbsp; NAACL 2022  &nbsp; | &nbsp;  Jan 16 2022     &nbsp; | &nbsp;  July 10-15, 2022   &nbsp; | &nbsp;  Seattle, Washington, USA  &nbsp; |
 | &nbsp; IJCAI 2022  &nbsp; | &nbsp;  Jan 15 2022     &nbsp; | &nbsp;  TBD   &nbsp; | &nbsp;  Vienna, Austria  &nbsp; |
 | &nbsp; LREC 2022  &nbsp; | &nbsp;  Jan 10 2022     &nbsp; | &nbsp;  June 20-25, 2022   &nbsp; | &nbsp; Marseille, France  &nbsp; |
