@@ -1,5 +1,13 @@
 #2022
 
+- title: "Declarative Learning-Based Programming as an Interface to AI Systems"
+  authors: Parisa Kordjamshidi, Dan Roth and Kristian Kersting
+  venue: Frontiers in Artificial Intelligence
+  year: 2022
+  links:
+    - url: https://www.frontiersin.org/article/10.3389/frai.2022.755361
+      display: PDF
+
 - title: "Relevant CommonSense Subgraphs for \"What if...\" Procedural Reasoning"
   authors: Chen Zheng and Parisa Kordjamshidi.
   venue: 60th Annual Meeting of the Association for Computational Linguistics (ACL-2022 findings)
