@@ -16,6 +16,7 @@ permalink: /deadlines/
 |:-:|:-:|:-:|:-:|
 | 2022 |  |  |  |
 | &nbsp; AACL 2022  &nbsp; | &nbsp;  Jul 16 2022     &nbsp; | &nbsp;  November 21-24, 2022   &nbsp; | &nbsp; Taipei, Taiwan  &nbsp; |
+| &nbsp; NeurIPS 2022  &nbsp; | &nbsp;  May 19 2022      &nbsp; | &nbsp;  Dec 09, 2022   &nbsp; | &nbsp; New Orleans, Louisiana, USA  &nbsp; |
 | &nbsp; COLING 2022  &nbsp; | &nbsp;  May 18 2022     &nbsp; | &nbsp;  October 12-17, 2022   &nbsp; | &nbsp;   Gyeongju, Republic of Korea  &nbsp; |
 | &nbsp; ICML 2022  &nbsp; | &nbsp;  Jan 28 2022     &nbsp; | &nbsp;  July 17-23, 2022   &nbsp; | &nbsp;   Baltimore, Maryland USA  &nbsp; |
 | &nbsp; NAACL 2022  &nbsp; | &nbsp;  Jan 16 2022     &nbsp; | &nbsp;  July 10-15, 2022   &nbsp; | &nbsp;  Seattle, Washington, USA  &nbsp; |
