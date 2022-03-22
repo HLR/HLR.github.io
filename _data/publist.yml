@@ -12,6 +12,9 @@
   authors: Chen Zheng and Parisa Kordjamshidi.
   venue: 60th Annual Meeting of the Association for Computational Linguistics (ACL-2022 findings)
   year: 2022
+  links:
+    - url: https://arxiv.org/pdf/2203.11187.pdf
+      display: PDF
  
 - title: "PYLON: A PyTorch Framework for Learning with Constraints"
   authors: Kareem Ahmed, Tao Li, Thy Ton, Quan Guo, Kai-Wei Chang, Parisa Kordjamshidi, Vivek Srikumar, Guy Van den Broeck, Sameer Singh.
