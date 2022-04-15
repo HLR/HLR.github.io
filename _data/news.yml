@@ -1,3 +1,15 @@
+- date: <i>April 15th 2022</i>
+  headline: Our paper "Domiknows: A library for integration of symbolic domain knowledge in deep learning" won the "First place at Jackson award for computing and data impact" in 2022 Engineering Graduate Research Symposium, held in Michigan State University. Congratulations to Hossein et al.
+  top: 1
+
+- date: <i>Aprily 15th 2022</i>
+  headline: Our poster "Spatial Reasoning in Deep Learning" won the "Best poster award" in 2022 Engineering Graduate Research Symposium, held in Michigan State University. Congratulations to Roshanak et al.
+  top: 1
+
+- date: <i>April 8th 2022</i>
+  headline: Our paper on "Explicit Object Relation Alignment for Vision and Language Navigation" is accepted for ACL SRW. Congratulations to Joslin et al.!
+  top: 1
+
 - date: <i>February 24th 2022</i>
   headline: Our paper on "Relevant CommonSense Subgraphs for "What if..." Procedural Reasoning" is accepted for ACL-2022 findings. Congratulations to Chen et al.!
   top: 1
@@ -24,11 +36,11 @@
 
 - date: <i>March 10th 2021</i>
   headline: Our paper on "Time-Stamped Language Model, Teaching Language Models to Understand The Flow of Events" is accepted for NAACL-2021. Congratulations to Hossein et al.
-  top: 1
+  top: 0
   
 - date: <i>March 10th 2021</i>
   headline: Our paper on "SPARTQA, A Textual Question Answering Benchmark for Spatial Reasoning" is accepted for NAACL-2021. Congratulations to Roshanak et al.
-  top: 1
+  top: 0
   
 - date: <i>October 30th 2020</i>
   headline: Our poster "SPARTQA, A Textual Question Answering Benchmark for Spatial Reasoning" won the "best poster award" in 3rd Michigan AI Symposium, University of Michigan, Ann Arbor. Congratulations to Roshanak et al.
