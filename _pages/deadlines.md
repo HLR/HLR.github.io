@@ -15,7 +15,10 @@ permalink: /deadlines/
 | Event  |  Deadline  | When  |  Where  |
 |:-:|:-:|:-:|:-:|
 | 2022 |  |  |  |
+| &nbsp; ICLR 2023  &nbsp; | &nbsp;  Sep 29 2022     &nbsp; | &nbsp;  May 01-05, 2023   &nbsp; | &nbsp; Kigali, Rwanda  &nbsp; |
+| &nbsp; AAAI 2023  &nbsp; | &nbsp;  Aug 16 2022     &nbsp; | &nbsp;  February 7-14, 2023   &nbsp; | &nbsp; Washington, DC, USA  &nbsp; |
 | &nbsp; AACL 2022  &nbsp; | &nbsp;  Jul 16 2022     &nbsp; | &nbsp;  November 21-24, 2022   &nbsp; | &nbsp; Taipei, Taiwan  &nbsp; |
+| &nbsp; EMNLP 2022  &nbsp; | &nbsp;  Jun 25 2022     &nbsp; | &nbsp;  December 7-11, 2022   &nbsp; | &nbsp; Abu Dhabi, UAE  &nbsp; |
 | &nbsp; NeurIPS 2022  &nbsp; | &nbsp;  May 19 2022      &nbsp; | &nbsp;  Dec 09, 2022   &nbsp; | &nbsp; New Orleans, Louisiana, USA  &nbsp; |
 | &nbsp; COLING 2022  &nbsp; | &nbsp;  May 18 2022     &nbsp; | &nbsp;  October 12-17, 2022   &nbsp; | &nbsp;   Gyeongju, Republic of Korea  &nbsp; |
 | &nbsp; ICML 2022  &nbsp; | &nbsp;  Jan 28 2022     &nbsp; | &nbsp;  July 17-23, 2022   &nbsp; | &nbsp;   Baltimore, Maryland USA  &nbsp; |
