@@ -47,7 +47,7 @@ Go to <a href="{{ site.url }}{{ site.baseurl }}/pictures/"> <b>Gallery</b> </a>
 ## PhD Students
 <div class="row">
 {% for member in site.data.phd_students %}
-<div class="col-sm-6 clearfix" style="min-height: 180px;">
+<div class="col-sm-6 clearfix" style="min-height: 200px !important;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/profiles/{{ member.photo }}" class="img-responsive" width="25%" style="float: left;"/>
   <h4><a href="{{ member.webpage }}" style="color:inherit">{{ member.name }}</a></h4>
   <i><b>Joined</b>: {{ member.joined }}</i><br>
