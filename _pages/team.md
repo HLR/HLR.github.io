@@ -38,6 +38,7 @@ Go to <a href="{{ site.url }}{{ site.baseurl }}/pictures/"> <b>Gallery</b> </a>
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/profiles/{{ member.photo }}" class="img-responsive" width="25%" style="float: left"/>
   <h4><a href="{{ member.webpage }}" style="color:inherit">{{ member.name }}</a></h4>
+  <i><b>joined</b>: <{{ member.join }}>
   <i><b>Research Interests</b>: {{ member.research_interest }}<br><b>Email</b>: <{{ member.email }}></i>
 </div>
 {% endfor %}
@@ -49,6 +50,7 @@ Go to <a href="{{ site.url }}{{ site.baseurl }}/pictures/"> <b>Gallery</b> </a>
 <div class="col-sm-6 clearfix" style="min-height: 180px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/profiles/{{ member.photo }}" class="img-responsive" width="25%" style="float: left;"/>
   <h4><a href="{{ member.webpage }}" style="color:inherit">{{ member.name }}</a></h4>
+  <i><b>joined</b>: <{{ member.join }}>
   <i><b>Research Interests</b>: {{ member.research_interest }}<br><b>Email</b>: <{{ member.email }}></i>
 </div>
 {% endfor %}
@@ -61,6 +63,7 @@ Go to <a href="{{ site.url }}{{ site.baseurl }}/pictures/"> <b>Gallery</b> </a>
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/profiles/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4><a href="{{ member.webpage }}" style="color:inherit">{{ member.name }}</a></h4>
+  <i><b>joined</b>: <{{ member.join }}>
   <i><b>Email</b>: <{{ member.email }}></i>
 </div>
 {% endfor %}
@@ -72,7 +75,9 @@ Go to <a href="{{ site.url }}{{ site.baseurl }}/pictures/"> <b>Gallery</b> </a>
 <div class="col-sm-6 clearfix" style="min-height: 180px;">
   <img src="{{ site.url }}{{ site.baseurl }}/images/profiles/{{ member.photo }}" class="img-responsive" width="25%" style="float: left"/>
   <h4><a href="{{ member.webpage }}" style="color:inherit">{{ member.name }}</a></h4>
+  <i><b>joined</b>: <{{ member.join }}>
   <i><b>Email</b>: <{{ member.email }}>
+  
 </div>
 {% endfor %}
 </div>
@@ -83,4 +88,4 @@ Go to <a href="{{ site.url }}{{ site.baseurl }}/pictures/"> <b>Gallery</b> </a>
 - Elaheh Raisi as Postdoc (Nov 2020 - May 2021).
 - Sushanta K. Pani as Master student (Aug 2019 - Sep 2021)
 - Drew Hayward as researcher (Aug 2019 - May 2021)
-- Tim Moran as Undergraduate colaborator (August 2020 - May 2022)
+- Tim Moran as undergraduate professional assitant (Fall 2020 - Spring 2022)
