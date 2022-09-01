@@ -1,3 +1,12 @@
+- date: <i>August 31st 2022</i>
+  headline: Lady Ada (our new GPU machine) is going to make HLR even more intelligent :-)
+  top: 1
+  pictures:
+    - image: LabAndAda.jpg
+- date: <i>August 26th 2022</i>
+  headline: We got an Amazon research award for doing research on 'Natural Language Instruction Following in Realistic Visual Environments'. This was based on a proposal that we wrote last year with a great help of Joslin. Congratulations!
+  top: 1
+  
 - date: <i>August 16th 2022</i>
   headline: Our paper on 'Dynamic Relevance Graph Network for Knowledge-Aware Question Answering' is accepted for COLING-2022. Congratulations to Chen et al.!
   top: 1
