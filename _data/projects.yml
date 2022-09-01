@@ -65,10 +65,13 @@
       link: https://www.aclweb.org/anthology/2020.lrec-1.717.pdf
       
     
-
-
-
-
-
-
-
+- title: "Automatic Feedback to Promote Knowledge-In-Use"
+  id: eval
+#   logo: 33553312.gif
+  description: Evaluating Effects of Automatic Feedback Aligned to a Learning Progression to Promote Knowledge-In-Use
+#   info: Our goal is to investigate the generic domain-independent spatial meaning representation schemes that can help in tasks that involve spatial language understanding. We exploit domain knowledge including ontologies that convey common-sense, the axioms of spatial qualitative reasoning and external visual resources in an integrate learning and reasoning framework. We develop deep structured and relational learning techniques for this goal and investigate the interaction between learning and spatial reasoning. We evaluate the capabilities of deep structured models in learning qualitative representations and the impact of those representations on textual and visual question answering tasks, focusing on locative questions.
+  members: Parisa Kordjamshidi(Key personnel) in collaboration with Kevin Haudek (PI),
+#   graduate_students: Roshanak Mirzaee, Yue Zhang, Chen Zheng.
+  funding_resource: National Science Foundation (NSF).
+#   image: splang.png
+  
