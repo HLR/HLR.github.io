@@ -1,7 +1,7 @@
 - name: Chen Zheng
   photo: Zheng.png
 #  bio: He's currently working on Spatial Role Labelling and Reasoning tasks.
-  research_interest: Machine Learning, Natural Language Processing, Information Retrieval, Cross-Modality Question Answering, Document-level Question Answering, Causal Reasoning Question Aswering, Commonsense Question Answering.
+  research_interest: Language Processing, Information Retrieval, Cross-Modality Question Answering(QA), Document-level QA, Causal Reasoning QA, Commonsense QA.
   email: zhengc12@msu.edu
   webpage: https://cse.msu.edu/~zhengc12/
   joined: Fall 2018
@@ -23,7 +23,7 @@
 
 - name: Roshanak Mirzaee
   photo: roshanak.png
-  research_interest: Machine Learning, Natural Language processing, Question Answering in NLP, Reasoning in NLP, Knowledge and Information Retrieval and HCI.
+  research_interest: Natural Language processing, Question Answering(QA) in NLP, Spatial Reasoning, Spatial Information extraction, Model Interpretabilities.
   email: mirzaeem@msu.edu
   webpage: https://www.linkedin.com/in/roshanak-mirzaee-011604b1/
   joined: Fall 2019
