@@ -1,9 +1,3 @@
-- name: Guangyue Xu
-  photo: xugy.jpg
-  research_interest: Meta Compositional Learning, Low-Resource Multimodal Learning, Nautral Language Processing
-  email: xuguang3@msu.edu
-  joined: Fall 2019
-
 - name: Chen Zheng
   photo: Zheng.png
 #  bio: He's currently working on Spatial Role Labelling and Reasoning tasks.
@@ -11,6 +5,13 @@
   email: zhengc12@msu.edu
   webpage: https://cse.msu.edu/~zhengc12/
   joined: Fall 2018
+
+- name: Guangyue Xu
+  photo: xugy.jpg
+  research_interest: Meta Compositional Learning, Low-Resource Multimodal Learning, Nautral Language Processing
+  email: xuguang3@msu.edu
+  joined: Fall 2019
+
 
 - name: Hossein Faghihi
   photo: hossein.png
