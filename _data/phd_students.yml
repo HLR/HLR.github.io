@@ -10,6 +10,7 @@
   photo: xugy.jpg
   research_interest: Meta Compositional Learning, Low-Resource Multimodal Learning, Nautral Language Processing
   email: xuguang3@msu.edu
+  webpage: 
   joined: Fall 2019
   
 - name: Juan Castro-Garcia
@@ -49,3 +50,10 @@
   email: nafarali@msu.edu
   webpage: https://www.egr.msu.edu/~nafarali/
   joined: Winter 2021
+
+- name: Danial Kamali
+  photo: danialkamali.jpg
+  research_interest: Computer Vision and Linguistic, Compositional Learning.
+  email: kamalida@msu.edu
+  webpage: https://www.egr.msu.edu/~kamalida/
+  joined: Fall 2022
