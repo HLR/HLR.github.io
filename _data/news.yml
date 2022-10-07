@@ -1,3 +1,7 @@
+- date: <i>October 6th 2022</i>
+  headline: Our paper on 'Transfer Learning with Synthetic Corpora for Spatial Semantic Role Labeling and Reasoning' is accepted for EMNLP-2022. Congratulations to Roshanak et al.!
+  top: 1
+  
 - date: <i>August 31st 2022</i>
   headline: Lady Ada (our new GPU machine) is going to make HLR even more intelligent :-)
   top: 1
@@ -29,7 +33,7 @@
 
 - date: <i>February 24th 2022</i>
   headline: Our paper on 'Relevant CommonSense Subgraphs for "What if..." Procedural Reasoning' is accepted for ACL-2022 findings. Congratulations to Chen et al.!
-  top: 1
+  top: 0
 
 - date: <i>August 26th 2021</i>
   headline: Our paper on "DomiKnowS, A Library for Integration of Symbolic Domain Knowledge in Deep Learning" is accepted for EMNLP-2021 Demo track. Congratulations to Hossein Rajaby Faghihi et al.
