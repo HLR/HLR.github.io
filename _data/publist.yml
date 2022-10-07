@@ -1,19 +1,33 @@
 #2022
 
+- title: "Transfer Learning with Synthetic Corpora for Spatial Semantic Role Labeling and Reasoning"
+  authors: Roshanak Mirzaee and Parisa Kordjamshidi.
+  venue: The 2022 Conference on Empirical Methods in Natural Language Processing
+  year: 2022
+  
 - title: "Dynamic Relevance Graph Network for Knowledge-Aware Question Answering"
   authors: Chen Zheng and Parisa Kordjamshidi.
   venue: THE 29TH INTERNATIONAL CONFERENCE ON COMPUTATIONAL LINGUISTICS (COLING-2022)
   year: 2022
+  links:
+    - url: https://arxiv.org/pdf/2209.09947.pdf
+      display: PDF
 
 - title: "LOViS: Learning Orientation and Visual Signals for Vision and Language Navigation"
   authors: Yue Zhang and Parisa Kordjamshidi.
   venue: THE 29TH INTERNATIONAL CONFERENCE ON COMPUTATIONAL LINGUISTICS (COLING-2022)
   year: 2022
+  links:
+    - url: https://arxiv.org/pdf/2209.12723.pdf
+      display: PDF
 
 - title: "Explicit Object Relation Alignment for Vision and Language Navigation"
   authors: Yue Zhang and Parisa Kordjamshidi.
   venue: 60th Annual Meeting of the Association for Computational Linguistics Student Research Workshop (ACL SRW 2022)
   year: 2022
+  links:
+    - url: https://arxiv.org/pdf/2203.11187.pdf
+      display: PDF
 
 - title: "Declarative Learning-Based Programming as an Interface to AI Systems"
   authors: Parisa Kordjamshidi, Dan Roth and Kristian Kersting
