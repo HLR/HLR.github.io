@@ -15,6 +15,8 @@ permalink: /deadlines/
 | Event  |  Deadline  | When  |  Where  |
 |:-:|:-:|:-:|:-:|
 | 2022 |  |  |  |
+| &nbsp; ACL 2023  &nbsp; | &nbsp;  Jan 21 2023     &nbsp; | &nbsp;  July 9-14, 2023   &nbsp; | &nbsp; Toronto, Canada  &nbsp; |
+| &nbsp; EACL 2023  &nbsp; | &nbsp;  Oct 21 2022     &nbsp; | &nbsp;  May 02-06, 2023   &nbsp; | &nbsp; Dubrovnik, Croatia  &nbsp; |
 | &nbsp; ICLR 2023  &nbsp; | &nbsp;  Sep 29 2022     &nbsp; | &nbsp;  May 01-05, 2023   &nbsp; | &nbsp; Kigali, Rwanda  &nbsp; |
 | &nbsp; AAAI 2023  &nbsp; | &nbsp;  Aug 16 2022     &nbsp; | &nbsp;  February 7-14, 2023   &nbsp; | &nbsp; Washington, DC, USA  &nbsp; |
 | &nbsp; AACL 2022  &nbsp; | &nbsp;  Jul 16 2022     &nbsp; | &nbsp;  November 21-24, 2022   &nbsp; | &nbsp; Taipei, Taiwan  &nbsp; |
