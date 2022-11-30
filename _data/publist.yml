@@ -4,6 +4,9 @@
   authors: Roshanak Mirzaee and Parisa Kordjamshidi.
   venue: The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP-2022)
   year: 2022
+  links:
+    - url: https://arxiv.org/abs/2210.16952
+      display: PDF
   
 - title: "Dynamic Relevance Graph Network for Knowledge-Aware Question Answering"
   authors: Chen Zheng and Parisa Kordjamshidi.
@@ -26,7 +29,7 @@
   venue: 60th Annual Meeting of the Association for Computational Linguistics Student Research Workshop (ACL SRW 2022)
   year: 2022
   links:
-    - url: https://arxiv.org/pdf/2203.11187.pdf
+    - url: https://aclanthology.org/2022.acl-srw.24/
       display: PDF
 
 - title: "Declarative Learning-Based Programming as an Interface to AI Systems"
