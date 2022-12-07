@@ -1,3 +1,9 @@
+- date: <i>December 6th 2022</i>
+  headline: Congratulations to our great and kind member Dr. Chen Zheng who officially graduated today. We all wishes the best for the next phase of your life. 
+  top: 1
+  pictures:
+    - image: chen-grad.jpg
+  
 - date: <i>October 6th 2022</i>
   headline: Our paper on 'Transfer Learning with Synthetic Corpora for Spatial Semantic Role Labeling and Reasoning' is accepted for EMNLP-2022. Congratulations to Roshanak et al.!
   top: 1
