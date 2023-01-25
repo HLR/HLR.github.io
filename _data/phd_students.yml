@@ -1,3 +1,10 @@
+# - name: Chen Zheng
+#   photo: Zheng.png
+#   research_interest: Natural Language Processing, Information Retrieval, Cross-Modality Question Answering(QA), Document-level QA, Causal Reasoning QA, Commonsense QA.
+#   email: zhengc12@msu.edu
+#   webpage: https://cse.msu.edu/~zhengc12/
+#   joined: Fall 2018
+  
 - name: Guangyue Xu
   photo: xugy.jpg
   research_interest: Meta Compositional Learning, Low-Resource Multimodal Learning, Nautral Language Processing
@@ -49,3 +56,11 @@
   email: kamalida@msu.edu
   webpage: https://www.egr.msu.edu/~kamalida/
   joined: Fall 2022
+
+
+- name: Muhammad Talha 
+  photo: Talha.png
+  research_interest: Natural Language Processing, Question and Answering Problem, Computer Vision and Deep Learning.
+  email: talhamuh@msu.edu
+  webpage: https://cse.msu.edu/~zhengc12/
+  joined: Spring 2023
