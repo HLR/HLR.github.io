@@ -92,3 +92,5 @@ Go to <a href="{{ site.url }}{{ site.baseurl }}/pictures/"> <b>Gallery</b> </a>
 - Sushanta K. Pani as Master student (Aug 2019 - Sep 2021)
 - Drew Hayward as researcher (Aug 2019 - May 2021)
 - Tim Moran as undergraduate professional assitant (Fall 2020 - Spring 2022)
+- Chen Zheng as PhD Student (Sep 2018 - Dec 2022). Currently a research scientist at ByteDance.
+- Joseph Romain as undergraduate researcher (Aug 2022 - Dec 2022)
