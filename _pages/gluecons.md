@@ -12,10 +12,12 @@ permalink: /gluecons/
 [Video Link](https://mediaspace.msu.edu/media/ACL-Demo-Video+%282%29/1_umzqzdue)
 
 
-{% include documentation_contents.md %}
+{% include projects_links_gluecons.md %}
 
 ## Abstract
-Integrating domain knowledge in deep learning architectures has been effective in several recent research. Specifically, it helps in reducing the amount of required data, reasoning over complex tasks, and improving the interpretability of deep models. However, this research community is missing a convened benchmark for a systematic evaluation of knowledge integration methods. In this work, we create a collection of benchmarks that includes 10 tasks in the domains of natural language processing and computer vision. We specify the sources of constraints for each task and implement various models that use these constraints based on different algorithms. We report the results of these models with a new set of extended evaluation criteria in addition to the task performances for a more in-depth analysis. This effort provides a framework for a more comprehensive and systematic comparison of constraint integration techniques and identifying the related research challenges. It will facilitate further research for alleviating some serious problems of State-of-the-art neural models.
+Recent research has shown that integrating domain knowledge in deep learning architectures is effective -- it helps reduce the amount of required data, supports reasoning over complex tasks, thus improving the quality of the models' output, and improves the interpretability of models. However, the research community is missing a convened benchmark for systematically evaluating knowledge integration methods.
+In this work, we create a collection of benchmarks that includes nine tasks in the domains of natural language processing and computer vision. In all cases, we model external knowledge as {\it constraints}, specify the sources of the constraints for each task, and implement various models that use these constraints.
+We report the results of these models using a new set of extended evaluation criteria in addition to the task performances for a more in-depth analysis. This effort provides a framework for a more comprehensive and systematic comparison of constraint integration techniques and for identifying the related research challenges. It will facilitate further research for alleviating some problems of state-of-the-art neural models.
 
 ## Links
 - Project Code [[Repository](https://github.com/HLR/DomiKnowS)]
