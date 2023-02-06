@@ -22,3 +22,17 @@ We report the results of these models using a new set of extended evaluation cri
 ## Links
 - Paper [[Link]()]
 - Project Code [[Repository](https://github.com/HLR/DomiKnowS/tree/AAAI23)]
+
+
+## Images
+{% assign number_printed = 0 %}
+<div class="row">
+{% for pic in site.data.gluecons %}
+
+<div class="col-lg-4 col-md-6 col-sm-12 clearfix" style="float: left">
+<img src="{{ site.url }}{{ site.baseurl }}/gluecons/{{ pic.image }}" class="img-responsive" width="100%" />
+</div>
+
+{% endfor %}
+
+</div>
