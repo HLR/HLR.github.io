@@ -24,7 +24,7 @@ We report the results of these models using a new set of extended evaluation cri
 - Project Code [[Repository](https://github.com/HLR/DomiKnowS/tree/AAAI23)]
 
 
-## Images
+## Visual Summary
 {% assign number_printed = 0 %}
 <div class="row">
 {% for pic in site.data.gluecons %}
