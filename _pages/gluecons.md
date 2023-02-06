@@ -7,7 +7,7 @@ permalink: /gluecons/
 ---
 # GLUECons
 
-<iframe id="kaltura_player" src="https://youtu.be/DYpvxyQdIow" width="640" height="396" allowfullscreen webkitallowfullscreen mozAllowFullScreen allow="autoplay *; fullscreen *; encrypted-media *" sandbox="allow-forms allow-same-origin allow-scripts allow-top-navigation allow-pointer-lock allow-popups allow-modals allow-orientation-lock allow-popups-to-escape-sandbox allow-presentation allow-top-navigation-by-user-activation" frameborder="0" title="Kaltura Player"></iframe>
+<iframe  width="640" height="396" src="https://www.youtube.com/embed/DYpvxyQdIow" title="GLUECons: A Generic Benchmark for Learning Under Constraints" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 [Video Link](https://youtu.be/DYpvxyQdIow)
 
