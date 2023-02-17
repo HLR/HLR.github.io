@@ -8,7 +8,9 @@ permalink: /
 
 ## Welcome to the **Heterogeneous Learning and Reasoning** Lab
 
-//<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/AI_web.jpg" width="100%">
+[//]: # (<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/AI_web.jpg" width="100%">)
+
+
 <div class="row">
 {% for pic in site.data.home %}
 
