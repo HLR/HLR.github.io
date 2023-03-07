@@ -86,11 +86,11 @@ Go to <a href="{{ site.url }}{{ site.baseurl }}/pictures/"> <b>Gallery</b> </a>
 </div>
 
 ## Past Members
-
-- Quan Guo as Postdoc (Feb 2019 - Nov 2020). Currently a research associate at Sichuan University.
-- Elaheh Raisi as Postdoc (Nov 2020 - May 2021).
-- Sushanta K. Pani as Master student (Aug 2019 - Sep 2021)
-- Drew Hayward as researcher (Aug 2019 - May 2021)
-- Tim Moran as undergraduate professional assitant (Fall 2020 - Spring 2022)
 - Chen Zheng as PhD Student (Sep 2018 - Dec 2022). Currently a research scientist at ByteDance.
-- Joseph Romain as undergraduate researcher (Aug 2022 - Dec 2022)
+- Sushanta K. Pani as Master student (Aug 2019 - Sep 2021)
+- Quan Guo as Postdoc (Feb 2019 - Nov 2020). Currently an associate professor at Sichuan University.
+- Elaheh Raisi as Postdoc (Nov 2020 - May 2021).
+- Drew Hayward as graduate research assistant (Aug 2019 - May 2021)
+- Joseph Romain as undergraduate research intern (Aug 2022 - Dec 2022)
+- Tim Moran as undergraduate professional assistant (Fall 2020 - Spring 2022)
+
