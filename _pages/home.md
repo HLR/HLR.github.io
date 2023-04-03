@@ -14,7 +14,7 @@ permalink: /
 <div class="row">
 {% for pic in site.data.home %}
 
-<div class="col-lg-6 col-md-6 col-sm-12 clearfix" style="float: left">
+<div class="col-lg-12 col-md-12 col-sm-12 clearfix" style="float: left">
 <img src="{{ site.url }}{{ site.baseurl }}/images/home/{{ pic.image }}" class="img-responsive" width="100%" />
 </div>
 
