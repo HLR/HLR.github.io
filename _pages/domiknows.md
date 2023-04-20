@@ -36,7 +36,7 @@ permalink: /domiknows/
 
 <ul>
 <li> <a href="{{ site.url }}{{ site.baseurl }}/domiknows-nlp/">Demo</a> </li>
-<li> <a href="{{ site.url }}{{ site.baseurl }}/gluecons/">GLUECons</a> </li>
+<li> <a href="{{ site.url }}{{ site.baseurl }}/gluecons/">GLUECons: A generic benchmark for learning under constraints.</a> </li>
 <li> <a href="#members">Team</a> </li>
 <li> <a href="#fund">Funding</a> </li>
 <li> <a href="#pubs">Publications</a> </li>
