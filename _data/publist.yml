@@ -1,5 +1,9 @@
 #2023
-
+- title: "VLN-Trans: Translator for the Vision and Language Navigation Agent"
+  authors: Yue Zhang, Parisa Kordjamshidi
+  venue: The 61st Annual Meeting of the Association for Computational Linguistics (ACL-2023)
+  year: 2023
+  
 - title: "Investigating the Role of Semantic Parsing in Understanding Procedural Text"
   authors: Hossein Rajaby Faghihi, Parisa Kordjamshidi, Choh Man Teng and James Allen
   venue: The 2023 European conference in the field of computational linguistics (EACL-2023 findings)
