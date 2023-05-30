@@ -4,7 +4,7 @@
   venue: The 61st Annual Meeting of the Association for Computational Linguistics (ACL-2023)
   year: 2023
   links:
-    - url: https://arxiv.org/pdf/2302.09230.pdf
+    - url: https://arxiv.org/pdf/2302.09230
       display: PDF
     - url: https://github.com/HLR/VLN-trans
       display: Code
@@ -15,7 +15,7 @@
   venue: The 2023 European conference in the field of computational linguistics (EACL-2023 findings)
   year: 2023
   links:
-    - url: https://aclanthology.org/2023.findings-eacl.137.pdf
+    - url: https://aclanthology.org/2023.findings-eacl.137
       display: PDF
     - url: https://github.com/HLR/ProceduralSemanticParsing
       display: Code
@@ -25,7 +25,7 @@
   venue: The 37th Conference of Artificial Intelligence (AAAI-2023)
   year: 2023
   links:
-    - url: https://arxiv.org/pdf/2302.10914.pdf
+    - url: https://arxiv.org/pdf/2302.10914
       display: PDF
     - url: https://hlr.github.io/gluecons/
       display: Code
