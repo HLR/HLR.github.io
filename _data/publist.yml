@@ -1,5 +1,5 @@
 #2023
-- title: "VLN-Trans: Translator for the Vision and Language Navigation Agent"
+- title: "VLN-Trans, Translator for the Vision and Language Navigation Agent"
   authors: Yue Zhang, Parisa Kordjamshidi
   venue: The 61st Annual Meeting of the Association for Computational Linguistics (ACL-2023)
   year: 2023
@@ -20,7 +20,7 @@
     - url: https://github.com/HLR/ProceduralSemanticParsing
       display: Code
  
-- title: "GLUECons: A Generic Benchmark for Learning Under Constraints"
+- title: "GLUECons, A Generic Benchmark for Learning Under Constraints"
   authors: Hossein Rajaby Faghihi, Aliakbar Nafar, Chen Zheng, Roshanak Mirzaee, Yue Zhang, Andrzej Uszok, Alexander Wan, Tanawan Premsri, Dan Roth, and Parisa Kordjamshidi
   venue: The 37th Conference of Artificial Intelligence (AAAI-2023)
   year: 2023
