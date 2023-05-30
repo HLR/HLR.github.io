@@ -3,16 +3,32 @@
   authors: Yue Zhang, Parisa Kordjamshidi
   venue: The 61st Annual Meeting of the Association for Computational Linguistics (ACL-2023)
   year: 2023
+  links:
+    - url: https://arxiv.org/pdf/2302.09230.pdf
+      display: PDF
+    - url: https://github.com/HLR/VLN-trans
+      display: Code
+  
   
 - title: "Investigating the Role of Semantic Parsing in Understanding Procedural Text"
   authors: Hossein Rajaby Faghihi, Parisa Kordjamshidi, Choh Man Teng and James Allen
   venue: The 2023 European conference in the field of computational linguistics (EACL-2023 findings)
   year: 2023
+  links:
+    - url: https://aclanthology.org/2023.findings-eacl.137.pdf
+      display: PDF
+    - url: https://github.com/HLR/ProceduralSemanticParsing
+      display: Code
  
 - title: "GLUECons: A Generic Benchmark for Learning Under Constraints"
   authors: Hossein Rajaby Faghihi, Aliakbar Nafar, Chen Zheng, Roshanak Mirzaee, Yue Zhang, Andrzej Uszok, Alexander Wan, Tanawan Premsri, Dan Roth, and Parisa Kordjamshidi
   venue: The 37th Conference of Artificial Intelligence (AAAI-2023)
   year: 2023
+  links:
+    - url: https://arxiv.org/pdf/2302.10914.pdf
+      display: PDF
+    - url: https://hlr.github.io/gluecons/
+      display: Code
   
 #2022
 
