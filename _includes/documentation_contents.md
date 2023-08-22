@@ -1,14 +1,12 @@
-## DomiKnowS Documentation Links
-[Home](/domiknows-nlp)
-- [Paper](https://arxiv.org/abs/2108.12370)
-- [Installation](/domiknows-nlp/install)
-- [Overview](/domiknows-nlp/overview)
-- [Pipeline](/domiknows-nlp/pipeline)
-- [Interactive_online_demo](https://tinyurl.com/t9wr9n4)
-- Example Tutorials
-  - [CIFAR10](https://github.com/HLR/DomiKnowS/blob/main/tutorials/CIFAR10.md)
-  - [CoNLL](https://github.com/HLR/DomiKnowS/blob/main/tutorials/Conll.ipynb)
-  - [WIQA](https://github.com/HLR/DomiKnowS/blob/main/tutorials/question_answering.ipynb)
-  - [Email Spam](https://github.com/HLR/DomiKnowS/blob/main/tutorials/EmailSpam.ipynb)
-
-  ---
+- [Getting Started](https://github.com/HLR/DomiKnowS/blob/Doc/User%20API/GettingStarted.md): Provides detailed instructions on how to get started with DomiKnowS, including installation, setting up the environment, and basic usage.
+- [Documentation](https://github.com/HLR/DomiKnowS/tree/Doc/User%20API): Provides comprehensive documentation on the DomiKnowS, including classes, methods, and their usage.
+- [Walkthough Example](https://github.com/HLR/DomiKnowS/blob/Doc/User%20API/ExampleTask.md): Contains examples that demonstrate the usage of DomiKnowS for various tasks, such as image classification, sequence modeling, and reinforcement learning. ( For more example see [Examples Branch](https://github.com/HLR/DomiKnowS/tree/Tasks) )
+- [Tutorial Examples](https://github.com/HLR/DomiKnowS/tree/Doc/Run%20With%20Jupyter): Simple and diverse examples are outlined with detailed explanations in a Jupyter file to run.
+- [FAQ](https://github.com/HLR/DomiKnowS/blob/Doc/FAQ.md): Read our FAQ file if you have any questions.
+- [License](https://github.com/HLR/DomiKnowS/blob/Doc/Licence.md): Contains information about the license of DomiKnowS and its terms of use.
+- [DomiKnowS Website](https://hlr.github.io/domiknows-nlp/): Contains documentation, example links, and an introductory video to DomiKnowS
+- Report Issues: Encounter a problem? Let us know by [submitting an issue](https://github.com/HLR/DomiKnowS/blob/Doc/IssueReport.md).
+- Suggest Enhancements: Have an idea to make DomiKnowS better? [Share your suggestion](https://github.com/HLR/DomiKnowS/blob/Doc/Suggestions.md).
+- Submit Pull Requests: Ready to contribute code or features directly? [Create a pull request](https://github.com/HLR/DomiKnowS/blob/Doc/PullRequest.md).
+- [DomiKnowS: A Library for Integration of Symbolic Domain Knowledge in Deep Learning](https://arxiv.org/abs/2108.12370)
+- [GLUECons: A Generic Benchmark for Learning Under Constraints](https://arxiv.org/abs/2302.10914)
