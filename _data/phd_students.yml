@@ -19,7 +19,6 @@
   webpage: https://www.linkedin.com/mwlite/in/castrog4
   joined: Fall 2020
 
-
 - name: Hossein Faghihi
   photo: hossein.png
   research_interest: Natural Language processing, knowledge reasoning and representation, Intelligent HCI, Context-aware applications.
@@ -27,7 +26,6 @@
   webpage: https://www.linkedin.com/in/hosseinfaghihi/
   joined: Fall 2019
   
-
 - name: Roshanak Mirzaee
   photo: roshanak.png
   research_interest: Natural Language processing, Question Answering(QA), Spatial Reasoning, Spatial Information extraction, Model Interpretabilities.
@@ -35,7 +33,6 @@
   webpage: https://www.linkedin.com/in/roshanak-mirzaee-011604b1/
   joined: Fall 2019
   
-
 - name: Yue Zhang
   photo: yue.jpg
   research_interest: Natural Language Processing, Vision and Language Navigation, Spatial Reasoning, Spatial Role Labeling
@@ -57,10 +54,16 @@
   webpage: https://www.egr.msu.edu/~kamalida/
   joined: Fall 2022
 
-
 - name: Muhammad Talha 
   photo: talha.png
   research_interest: Natural Language Processing, Question and Answering Problem, Computer Vision and Deep Learning.
   email: talhamuh@msu.edu
   webpage: /
   joined: Spring 2023, co-advised, primary advisor in Biosystems and Agricultural Engineering
+
+- name: Tanawan Premsri 
+  photo: tanawan.jpg
+  research_interest: Natural Language Processing, Question Answering, Information Extraction, Logic Integration.
+  email: premsrit@msu.edu
+  webpage: /
+  joined: Summer 2022 (Intern)
