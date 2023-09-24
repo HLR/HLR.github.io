@@ -92,7 +92,6 @@ Go to <a href="{{ site.url }}{{ site.baseurl }}/pictures/"> <b>Gallery</b> </a>
 - Elaheh Raisi as Postdoc (Nov 2020 - May 2021).
 - Drew Hayward as graduate research assistant (Aug 2019 - May 2021)
 - Joseph Romain as undergraduate research intern (Aug 2022 - Dec 2022)
-- Tim Moran as undergraduate professional assistant (Fall 2020 - Spring 2022)
-- Lemuel Agur Mensah as undergraduate professional assistant (2022 - 2023)
-- Tolu Oshin as undergraduate professional assistant (2022 - 2023)
-
+- Tim Moran as undergraduate professorial assistant (Fall 2020 - Spring 2022)
+- Lemuel Agur Mensah as undergraduate professorial assistant (2022 - 2023)
+- Tolu Oshin as undergraduate professorial assistant (2022 - 2023)
