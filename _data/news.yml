@@ -1,6 +1,15 @@
 - date: <i>October 11th 2023</i>
+  headline: Our paper on ‘Syntax-Guided Transformers; Elevating Compositional Generalization and Grounding in Multimodal Environments’ is accepted for GenBench workshop at EMNLP. Congratulations to Danial et al.!
+  link: https://genbench.org/workshop/
+  top: 1
+
+- date: <i>October 11th 2023</i>
   headline: Our paper on 'MetaReVision; Meta-Learning with Retrieval for Visually Grounded Compositional Concept Acquisition' is accepted for EMNLP-2023 findings. Congratulations to Guangyue et al.!
   top: 1
+
+ - date: <i>October 2nd 2023</i>
+  headline: Parisa got an accepted Tutorial on “Spatial and Temporal Language Understanding; Representation, Reasoning, and Grounding” at NAACL-2024. This will be presented with James Pustejovsky, Qiang Ning, and Marie-Francine Moens. Congratulations Parisa!
+  top: 1 
 
 - date: <i>October 2nd 2023</i>
   headline: Congratulations for the Nuclear workshop proposal accepted! Elham Barezi will be co-organizing this workshop with IBM folks! Parisa Kordjamshidi will give a Keynote talk! This will be co-located with AAAI-2024.
