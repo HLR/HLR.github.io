@@ -1,4 +1,26 @@
 #2023
+- title: "MetaReVision: Meta-Learning with Retrieval for Visually Grounded Compositional Concept Acquisition"
+  authors: Guangyue Xu
+  venue: Empirical Methods in Natural Language Processing (EMNLP-2023)
+  year: 2023
+  links:
+    - url:
+      display: PDF
+    - url: 
+      display: Code
+
+
+- title: "GIPCOL: Graph-Injected Soft Prompting for Compositional Zero-Shot Learning"
+  authors: Guangyue Xu, Parisa Kordjamshidi, Joyce Chai
+  venue: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV-2024)
+  year: 2023
+  links:
+    - url: 
+      display: PDF
+    - url: 
+      display: Code
+
+
 - title: "VLN-Trans, Translator for the Vision and Language Navigation Agent"
   authors: Yue Zhang, Parisa Kordjamshidi
   venue: The 61st Annual Meeting of the Association for Computational Linguistics (ACL-2023)
