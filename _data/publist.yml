@@ -1,3 +1,15 @@
+#2024
+- title: "GIPCOL: Graph-Injected Soft Prompting for Compositional Zero-Shot Learning"
+  authors: Guangyue Xu, Parisa Kordjamshidi, Joyce Chai
+  venue: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV-2024)
+  year: 2024
+  links:
+    - url: 
+      display: PDF
+    - url: 
+      display: Code
+
+
 #2023
 - title: "Disentangling Extraction and Reasoning in Multi-hop Spatial Reasoning"
   authors: Roshanak Mirzaee, Parisa Kordjamshidi
@@ -16,17 +28,6 @@
   year: 2023
   links:
     - url:
-      display: PDF
-    - url: 
-      display: Code
-
-
-- title: "GIPCOL: Graph-Injected Soft Prompting for Compositional Zero-Shot Learning"
-  authors: Guangyue Xu, Parisa Kordjamshidi, Joyce Chai
-  venue: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV-2024)
-  year: 2023
-  links:
-    - url: 
       display: PDF
     - url: 
       display: Code
