@@ -100,7 +100,7 @@
 #   logo: 33553312.gif
   description: Evaluating Effects of Automatic Feedback Aligned to a Learning Progression to Promote Knowledge-In-Use
 #   info: Our goal is to investigate the generic domain-independent spatial meaning representation schemes that can help in tasks that involve spatial language understanding. We exploit domain knowledge including ontologies that convey common-sense, the axioms of spatial qualitative reasoning and external visual resources in an integrate learning and reasoning framework. We develop deep structured and relational learning techniques for this goal and investigate the interaction between learning and spatial reasoning. We evaluate the capabilities of deep structured models in learning qualitative representations and the impact of those representations on textual and visual question answering tasks, focusing on locative questions.
-  members: Parisa Kordjamshidi(Key personnel) in collaboration with Kevin Haudek (PI),
+  members: Parisa Kordjamshidi(Key personnel) in collaboration with Kevin Haudek (PI)
 #   graduate_students: Roshanak Mirzaee, Yue Zhang, Chen Zheng.
   funding_resource: National Science Foundation (NSF)(2022-2026).
 #   image: splang.png
@@ -110,7 +110,7 @@
 #   logo: 33553312.gif
   description: "SCH:AI Supported Health Misinformation Management"
 #   info: Our goal is to investigate the generic domain-independent spatial meaning representation schemes that can help in tasks that involve spatial language understanding. We exploit domain knowledge including ontologies that convey common-sense, the axioms of spatial qualitative reasoning and external visual resources in an integrate learning and reasoning framework. We develop deep structured and relational learning techniques for this goal and investigate the interaction between learning and spatial reasoning. We evaluate the capabilities of deep structured models in learning qualitative representations and the impact of those representations on textual and visual question answering tasks, focusing on locative questions.
-  members: Parisa Kordjamshidi (co-PI), Joe Romain (Research assistant ) in collaboration with Wei Peng (PI),
+  members: Parisa Kordjamshidi (co-PI), Joe Romain (Research assistant ) in collaboration with Wei Peng (PI)
 #   graduate_students: Roshanak Mirzaee, Yue Zhang, Chen Zheng.
   funding_resource: Trifecta Initiative Facilitating Funds Award, in collaboration with the Department of Media and Information (2022-2023).
 #   image: splang.png
@@ -120,7 +120,7 @@
 #   logo: 33553312.gif
   description: Integration of Expert Knowledge into Prediction Models for Supply Chain,
 #   info: Our goal is to investigate the generic domain-independent spatial meaning representation schemes that can help in tasks that involve spatial language understanding. We exploit domain knowledge including ontologies that convey common-sense, the axioms of spatial qualitative reasoning and external visual resources in an integrate learning and reasoning framework. We develop deep structured and relational learning techniques for this goal and investigate the interaction between learning and spatial reasoning. We evaluate the capabilities of deep structured models in learning qualitative representations and the impact of those representations on textual and visual question answering tasks, focusing on locative questions.
-  members: Parisa Kordjamshidi (PI), Darius Nafar (Graduate Research Assistant),
+  members: Parisa Kordjamshidi (PI), Darius Nafar (Graduate Research Assistant)
 #   graduate_students: Roshanak Mirzaee, Yue Zhang, Chen Zheng.
   funding_resource: in collaboration with the Axia institute and the Dow Chemical Company (2021-2021).
 #   image: splang.png
