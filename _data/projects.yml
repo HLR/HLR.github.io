@@ -3,7 +3,7 @@
 
 - title: "NesyCola"
   id: nesycola
-  logo: NesyCola.jpg
+  logo: NesyCola.jpeg
   description: Neuro-Symbolic Compositional Generalization for Language and Vision Comprehension and Grounding
   info: The goal of this research is to develop a Neuro-symbolic framework to address compositional generalization in a principled way inspired by human cross-situational learning of basic concepts and their compositions and study the formal and functional properties of concept composition. We exploit the current gigantic transformer-based vision and language architectures that convey implicit world knowledge and equip them with symbolic and explicit knowledge to improve their generalization and reasoning for interactive language comprehension and grounding in vision. We further equip our existing framework for integrating knowledge in deep learning (DomiKnowS) with the techniques developed in this proposed research.
   members: Elham Barezi, Danial Kamali, Yue Zhang and Parisa Kordjamshidi, in collaboration with Vishnu Boddeti, Yu Kong, Hamid Karimian and Dan Roth
