@@ -6,8 +6,8 @@
   logo: NesyCola.jpg
   description: Neuro-Symbolic Compositional Generalization for Language and Vision Comprehension and Grounding
   info: The goal of this research is to develop a Neuro-symbolic framework to address compositional generalization in a principled way inspired by human cross-situational learning of basic concepts and their compositions and study the formal and functional properties of concept composition. We exploit the current gigantic transformer-based vision and language architectures that convey implicit world knowledge and equip them with symbolic and explicit knowledge to improve their generalization and reasoning for interactive language comprehension and grounding in vision. We further equip our existing framework for integrating knowledge in deep learning (DomiKnowS) with the techniques developed in this proposed research.
-  members: Elham Barezi, Danial Kamali, Yue Zhang and Parisa Kordjamshidi, in collaboration with Vishnu Boddeti, Yu Kong, Hamid Karimian and Dan Roth
-  graduate_students: 
+  members: Elham Barezi, Danial Kamali, Yue Zhang and Parisa Kordjamshidi, in collaboration with Vishnu Boddeti, Yu Kong, Hamid Karimian
+  graduate_students: and Dan Roth.
   funding_resource: Office of Naval Research (ONR).
   image: nesycola.png
   webpage: 
@@ -36,7 +36,7 @@
   logo: DomiKnows.jpg
   description: A Declarative Learning Based Programming Framework For Integration of <strong>Dom</strong>ain <strong>Know</strong>ledge in <strong>S</strong>tatistical Learning.
   info: We seek for abstractions that facilitate writing programs that can learn from data. We are interested in languages that can help in integration of learning and reasoning formalisms and the formulation of declarative and procedural domain knowledge for learners.
-  members: Parisa Kordjamshidi, James Allen, Choh Man Teng, Andrzej Uszok, Brent Kristen Venable, Alex Wan, Tanawan Premsri, 
+  members: Parisa Kordjamshidi, James Allen, Choh Man Teng, Andrzej Uszok, Brent Kristen Venable, Alex Wan, Tanawan Premsri 
   graduate_students: Hossein Faghihi, Darius Nafar, Chen Zheng, Yue Zhang, Roshanak Mirzaee.
   funding_resource: Office of Naval Research (ONR).
   image: domiknows.png
