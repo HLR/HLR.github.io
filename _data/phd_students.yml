@@ -26,13 +26,6 @@
   webpage: https://hfaghihi.com/
   joined: Fall 2019
   
-- name: Roshanak Mirzaee
-  photo: roshanak.png
-  research_interest: Natural Language processing, Question Answering(QA), Spatial Reasoning, Spatial Information extraction, Model Interpretabilities.
-  email: mirzaeem@msu.edu
-  webpage: https://roshanakmirzaee.com/
-  joined: Fall 2019
-  
 - name: Yue Zhang
   photo: yue.jpg
   research_interest: Natural Language Processing, Vision and Language Navigation, Spatial Reasoning, Spatial Role Labeling
@@ -60,3 +53,10 @@
   email: premsrit@msu.edu
   webpage: /
   joined: Fall 2023
+
+  - name: Josue Kpodo 
+  photo: /
+  research_interest: Natural Language Processing Application in Agriculture
+  email: kpodojos@msu.edu
+  webpage: /
+  joined: Fall 2021
