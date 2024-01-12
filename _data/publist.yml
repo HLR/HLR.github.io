@@ -1,15 +1,4 @@
 #2024
-- title: "Syntax-Guided Transformers: Elevating Compositional Generalization and Grounding in Multimodal Environments"
-  authors: Danial Kamali, Parisa Kordjamshidi
-  venue: GenBench:The first workshop on generalisation (benchmarking) in NLP
-  year: 2024
-  links:
-    - url: https://arxiv.org/abs/2311.04364
-      display: PDF
-    - url: https://github.com/HLR/Syntax-Guided-Transformers
-      display: Code
-
-
 - title: "GIPCOL: Graph-Injected Soft Prompting for Compositional Zero-Shot Learning"
   authors: Guangyue Xu, Joyce Chai, Parisa Kordjamshidi
   venue: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV-2024)
@@ -22,6 +11,17 @@
 
 
 #2023
+- title: "Syntax-Guided Transformers: Elevating Compositional Generalization and Grounding in Multimodal Environments"
+  authors: Danial Kamali, Parisa Kordjamshidi
+  venue: GenBench:The first workshop on generalisation (benchmarking) in NLP
+  year: 2024
+  links:
+    - url: https://arxiv.org/abs/2311.04364
+      display: PDF
+    - url: https://github.com/HLR/Syntax-Guided-Transformers
+      display: Code
+
+
 - title: "Disentangling Extraction and Reasoning in Multi-hop Spatial Reasoning"
   authors: Roshanak Mirzaee, Parisa Kordjamshidi
   venue: Empirical Methods in Natural Language Processing (EMNLP-2023, Findings)
