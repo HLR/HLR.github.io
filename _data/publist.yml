@@ -14,7 +14,7 @@
 - title: "Syntax-Guided Transformers: Elevating Compositional Generalization and Grounding in Multimodal Environments"
   authors: Danial Kamali, Parisa Kordjamshidi
   venue: GenBench:The first workshop on generalisation (benchmarking) in NLP
-  year: 2024
+  year: 2023
   links:
     - url: https://arxiv.org/abs/2311.04364
       display: PDF
