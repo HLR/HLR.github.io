@@ -14,7 +14,8 @@ permalink: /deadlines/
 
 | Event  |  Deadline  | When  |  Where  |
 |:-:|:-:|:-:|:-:|
-| 2022 |  |  |  |
+| &nbsp; COLM 2024  &nbsp; | &nbsp;  March 29 2024     &nbsp; | &nbsp;  October 7, 2024   &nbsp; | &nbsp; Thailand  &nbsp; |
+| &nbsp; ACL 2024  &nbsp; | &nbsp;  Feb 15 2024     &nbsp; | &nbsp;  August 12, 2024   &nbsp; | &nbsp; TBD  &nbsp; |
 | &nbsp; ACL 2023  &nbsp; | &nbsp;  Jan 21 2023     &nbsp; | &nbsp;  July 9-14, 2023   &nbsp; | &nbsp; Toronto, Canada  &nbsp; |
 | &nbsp; EACL 2023  &nbsp; | &nbsp;  Oct 21 2022     &nbsp; | &nbsp;  May 02-06, 2023   &nbsp; | &nbsp; Dubrovnik, Croatia  &nbsp; |
 | &nbsp; ICLR 2023  &nbsp; | &nbsp;  Sep 29 2022     &nbsp; | &nbsp;  May 01-05, 2023   &nbsp; | &nbsp; Kigali, Rwanda  &nbsp; |

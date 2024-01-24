@@ -1,4 +1,37 @@
 #2024
+- title: 'Consistent Joint Decision-Making with Heterogeneous Learning Models'
+  authors: Hossein Rajaby Faghihi, Parisa Kordjamshidi
+  venue: The 2024 European conference in the field of computational linguistics (EACL-2024 findings)
+  year: 2024
+  links:
+    - url:
+      display: PDF
+    - url: 
+      display: Code
+
+
+- title: 'NavHint: Vision and Language Navigation Agent with a Hint Generator'
+  authors: Yue Zhang, Quan Guo, Parisa Kordjamshidi
+  venue: The 2024 European conference in the field of computational linguistics (EACL-2024 findings)
+  year: 2024
+  links:
+    - url:
+      display: PDF
+    - url: 
+      display: Code
+
+
+- title: 'Teaching Probabilistic Logical Reasoning to Transformers'
+  authors: Aliakbar Nafar, Kristen Brent Venable, Parisa Kordjamshidi
+  venue: The 2024 European conference in the field of computational linguistics (EACL-2024 findings)
+  year: 2024
+  links:
+    - url:
+      display: PDF
+    - url: 
+      display: Code
+
+
 - title: 'GIPCOL: Graph-Injected Soft Prompting for Compositional Zero-Shot Learning'
   authors: Guangyue Xu, Joyce Chai, Parisa Kordjamshidi
   venue: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV-2024)
