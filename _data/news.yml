@@ -1,8 +1,8 @@
 - date: <i>February 15th 2024</i>
-  headline: Congratulations to our great member Dr. Guangyue Xu who officially graduated today. We all wish the best for the next phase of his life!
+  headline: Congratulations to our great member Dr. Guangyue Xu who officially graduated today! We all wish the best for the next phase of his life!
   top: 1
   pictures:
-    - image: Guangyue_grad.jpg
+    - image: Guangyue__grad.jpg
 
 - date: <i>Janurary 15th 2024</i>
   headline: Three papers accepted at EACL 2024 Findings; "Teaching Probabilistic Logical Reasoning to Transformers", "Consistent Joint Decision-Making with Heterogeneous Learning Models", and "NavHint; Vision and Language Navigation Agent with a Hint Generator". Congratulations Darius, Hossein, Joslin, et al.!
