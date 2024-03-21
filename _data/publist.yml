@@ -1,4 +1,15 @@
 #2024
+- title: 'Using Persuasive Writing Strategies to Explain and Detect Health Misinformation'
+  authors: Danial Kamali, Joseph Romain, Huiyi Liu, Wei Peng, Jingbo Meng, Parisa Kordjamshidi
+  venue: LREC-COLING 2024
+  year: 2024
+  links:
+    - url: https://arxiv.org/pdf/2211.05985.pdf
+      display: PDF
+    - url:
+      display: Code
+
+
 - title: 'Consistent Joint Decision-Making with Heterogeneous Learning Models'
   authors: Hossein Rajaby Faghihi, Parisa Kordjamshidi
   venue: The 2024 European conference in the field of computational linguistics (EACL-2024 findings)
