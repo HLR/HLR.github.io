@@ -65,6 +65,7 @@ permalink: /nesycola/
 <ul>
 <h5><em> {{ project.news }}. </em></h5>
 <h6><em> {{ project.news_link }}. </em></h6>
+
 <h5><em> {{ project.news_2 }}. </em></h5>
 <h6><em> {{ project.news_2_link }}. </em></h6>
 </ul>
