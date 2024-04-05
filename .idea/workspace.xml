@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f78eb857-52a9-42de-8195-0ceb647302c1" name="Changes" comment="add news section">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/projects.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/projects.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_pages/nesycola.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/nesycola.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +62,7 @@
       <updated>1711051812445</updated>
       <workItem from="1711051814079" duration="48000" />
       <workItem from="1711051889224" duration="625000" />
-      <workItem from="1712344289838" duration="3077000" />
+      <workItem from="1712344289838" duration="3381000" />
     </task>
     <task id="LOCAL-00001" summary="page updates">
       <option name="closed" value="true" />
@@ -106,7 +104,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712357061717</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add news section">
+      <option name="closed" value="true" />
+      <created>1712357396481</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1712357396481</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
