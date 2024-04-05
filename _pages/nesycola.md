@@ -39,7 +39,7 @@ permalink: /nesycola/
 <li> <a href="{{ site.url }}{{ site.baseurl }}/gluecons/">GLUECons: A generic benchmark for learning under constraints.</a> </li>
 <li> <a href="#members">Team</a> </li>
 <li> <a href="#fund">Funding</a> </li>
-<li> <a href="#news">News</a> </li>
+<li> <a href="#newssection">News</a> </li>
 <li> <a href="#pubs">Publications</a> </li>
 </ul>
 <br><br>
@@ -58,6 +58,12 @@ permalink: /nesycola/
 <h4 id="fund"><b>Source of funding</b></h4>
 <ul>
 <li><i>{{ project.funding_resource }}</i> </li>
+</ul>
+
+<br>
+<h4 id="newssection"><b>News</b></h4>
+<ul>
+<li><em> {{ project.news }}. </em></li>
 </ul>
 
 <br>
