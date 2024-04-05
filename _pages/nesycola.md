@@ -21,7 +21,7 @@ permalink: /nesycola/
 
 
 
-<!-- ([Members](#members), [Funding](#funding), [Publications](#pubs)) -->
+<!-- ([Members](#members), [Funding](#funding), [Publications](#pubs), [News](#news)) -->
 
 
 
@@ -39,6 +39,7 @@ permalink: /nesycola/
 <li> <a href="{{ site.url }}{{ site.baseurl }}/gluecons/">GLUECons: A generic benchmark for learning under constraints.</a> </li>
 <li> <a href="#members">Team</a> </li>
 <li> <a href="#fund">Funding</a> </li>
+<li> <a href="#news">News</a> </li>
 <li> <a href="#pubs">Publications</a> </li>
 </ul>
 <br><br>
