@@ -64,10 +64,10 @@ permalink: /nesycola/
 <h4 id="newssection"><b>News</b></h4>
 <ul>
 <h5><em> {{ project.news }}. </em></h5>
-<h6><em> {{ project.news_link }}. </em></h6>
+<h6><em><a href="https://msutoday.msu.edu/news/2023/making-ai-more-reliable">link</a></em></h6>
 
 <h5><em> {{ project.news_2 }}. </em></h5>
-<h6><em> {{ project.news_2_link }}. </em></h6>
+<h6><em><a href="https://www.youtube.com/watch?v=EiH6kXfdG6Q">link</a></em></h6>
 </ul>
 
 <br>

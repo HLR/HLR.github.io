@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f78eb857-52a9-42de-8195-0ceb647302c1" name="Changes" comment="add news section">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_data/projects.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/projects.yml" afterDir="false" />
-    </list>
+    <list default="true" id="f78eb857-52a9-42de-8195-0ceb647302c1" name="Changes" comment="add news section" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,6 +62,7 @@
       <workItem from="1711051889224" duration="625000" />
       <workItem from="1712344289838" duration="3381000" />
       <workItem from="1712932969033" duration="1529000" />
+      <workItem from="1714158083771" duration="104000" />
     </task>
     <task id="LOCAL-00001" summary="page updates">
       <option name="closed" value="true" />
