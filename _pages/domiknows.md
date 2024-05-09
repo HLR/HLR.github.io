@@ -35,9 +35,9 @@ permalink: /domiknows/
 ### Menu
 
 <ul>
-<li> <a href="{{ site.url }}{{ site.baseurl }}/domiknows-nlp/">Demo</a> </li>
-<li> <a href="{{ site.url }}{{ site.baseurl }}/gluecons/">GLUECons</a> </li>
-<li> <a href="{{ site.url }}{{ site.baseurl }}/DomiKnowSNLUI/">Prompt2DeModel</a> </li>
+<li> <a href="{{ site.url }}{{ site.baseurl }}/domiknows-nlp/">Demo DomiKnowS</a> </li>
+<li> <a href="{{ site.url }}{{ site.baseurl }}/gluecons/">GLUECons Benchmark</a> </li>
+<li> <a href="{{ site.url }}{{ site.baseurl }}/DomiKnowSNLUI/">Natural Language UI to DomiKnowS Programming</a> </li>
 <li> <a href="#members">Team</a> </li>
 <li> <a href="#fund">Funding</a> </li>
 <li> <a href="#pubs">Publications</a> </li>
