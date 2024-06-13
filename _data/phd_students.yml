@@ -5,12 +5,12 @@
 #   webpage: https://cse.msu.edu/~zhengc12/
 #   joined: Fall 2018
   
-- name: Guangyue Xu
-  photo: xugy.jpg
-  research_interest: Meta Compositional Learning, Low-Resource Multimodal Learning, Nautral Language Processing
-  email: xuguang3@msu.edu
-  webpage: /
-  joined: Fall 2019
+# - name: Guangyue Xu
+#   photo: xugy.jpg
+#   research_interest: Meta Compositional Learning, Low-Resource Multimodal Learning, Nautral Language Processing
+#   email: xuguang3@msu.edu
+#   webpage: /
+#   joined: Fall 2019
   
 - name: Juan Castro-Garcia
   photo: Juan_profile.JPG
@@ -19,12 +19,12 @@
   webpage: https://www.linkedin.com/mwlite/in/castrog4
   joined: Fall 2020
 
-- name: Hossein Faghihi
-  photo: hossein.png
-  research_interest: Natural Language processing, knowledge reasoning and representation, Intelligent HCI, Context-aware applications.
-  email: rajabyfa@msu.edu
-  webpage: https://hfaghihi.com/
-  joined: Fall 2019
+# - name: Hossein Faghihi
+#   photo: hossein.png
+#   research_interest: Natural Language processing, knowledge reasoning and representation, Intelligent HCI, Context-aware applications.
+#   email: rajabyfa@msu.edu
+#   webpage: https://hfaghihi.com/
+#   joined: Fall 2019
   
 - name: Yue Zhang
   photo: yue.jpg
@@ -53,6 +53,7 @@
   email: premsrit@msu.edu
   webpage: /
   joined: Fall 2023
+  
 
 - name: Josue Kpodo, coadvised 
   photo: josue_kpodo_360.png

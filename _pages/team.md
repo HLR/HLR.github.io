@@ -86,7 +86,10 @@ Go to <a href="{{ site.url }}{{ site.baseurl }}/pictures/"> <b>Gallery</b> </a>
 </div>
 
 ## Past Members
-- Chen Zheng as PhD Student (Sep 2018 - Dec 2022). Currently a research scientist at ByteDance.
+- Hossein Faghihi, PhD Graduate (2019-2024)
+- Guangyue Xu, PhD Graduate (2019-2024)
+- Roshanak Mirzaee, PhD Graduate (2019-2024)
+- Chen Zheng, PhD Graduate (Sep 2018 - Dec 2022). Currently a research scientist at ByteDance.
 - Sushanta K. Pani as Master student (Aug 2019 - Sep 2021)
 - Quan Guo as Postdoc (Feb 2019 - Nov 2020). Currently an associate professor at Sichuan University.
 - Elaheh Raisi as Postdoc (Nov 2020 - May 2021).
