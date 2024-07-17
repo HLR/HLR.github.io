@@ -6,6 +6,9 @@ sitemap: false
 permalink: /deadlines/
 ---
 
+<iframe src="https://aideadlin.es/?sub=ML,NLP" class="iframe-width" height="415px">
+</iframe>
+
 
 ## Relevant Conference Deadlines
 
@@ -14,13 +17,19 @@ permalink: /deadlines/
 
 |              Event               |             Deadline             |                     When                     |                       Where                        |
 |:--------------------------------:|:--------------------------------:|:--------------------------------------------:|:--------------------------------------------------:|
+|     &nbsp; ICLR 2025  &nbsp;     |  &nbsp;  Oct 02 2024     &nbsp;  |       &nbsp;  April 24, 2025   &nbsp;        |               &nbsp; Singapore &nbsp;               |
+|    &nbsp; COLING 2025  &nbsp;    |  &nbsp;  Sep 16 2024     &nbsp;  |     &nbsp;  January 19-24, 2025   &nbsp;     |               &nbsp; Abu Dhabi, UAE &nbsp;               |
+|     &nbsp; AAAI 2025  &nbsp;     |  &nbsp;  Aug 16 2024     &nbsp;  |    &nbsp;  Feb 25 – Mar 4, 2025   &nbsp;     |          &nbsp; Philadelphia, USA  &nbsp;          |
+|               2024               |                                  |                                              |
 |   &nbsp; NerulPS 2024  &nbsp;    |  &nbsp;  May 22 2024     &nbsp;  |      &nbsp;  December 9, 2024   &nbsp;       |              &nbsp; Vancouver  &nbsp;              |
-|     &nbsp; COLM 2024  &nbsp;     | &nbsp;  March 29 2024     &nbsp; |       &nbsp;  October 7, 2024   &nbsp;       |            &nbsp; Philadelphia  &nbsp;             |
-|     &nbsp; ACL 2024  &nbsp;      |  &nbsp;  Feb 15 2024     &nbsp;  |       &nbsp;  August 12, 2024   &nbsp;       |              &nbsp; Thailand  &nbsp;               |
+|     &nbsp; COLM 2024  &nbsp;     | &nbsp;  March 29 2024     &nbsp; |       &nbsp;  October 7, 2024   &nbsp;       |          &nbsp; Philadelphia, USA  &nbsp;          |
+|     &nbsp; ACL 2024  &nbsp;      |  &nbsp;  Feb 15 2024     &nbsp;  |       &nbsp;  August 12, 2024   &nbsp;       |          &nbsp; Bangkok, Thailand  &nbsp;          |
+|               2023               |                                  |                                              |
 |     &nbsp; ACL 2023  &nbsp;      |  &nbsp;  Jan 21 2023     &nbsp;  |       &nbsp;  July 9-14, 2023   &nbsp;       |           &nbsp; Toronto, Canada  &nbsp;           |
 |     &nbsp; EACL 2023  &nbsp;     |  &nbsp;  Oct 21 2022     &nbsp;  |       &nbsp;  May 02-06, 2023   &nbsp;       |         &nbsp; Dubrovnik, Croatia  &nbsp;          |
 |     &nbsp; ICLR 2023  &nbsp;     |  &nbsp;  Sep 29 2022     &nbsp;  |       &nbsp;  May 01-05, 2023   &nbsp;       |           &nbsp; Kigali, Rwanda  &nbsp;            |
 |     &nbsp; AAAI 2023  &nbsp;     |  &nbsp;  Aug 16 2022     &nbsp;  |     &nbsp;  February 7-14, 2023   &nbsp;     |         &nbsp; Washington, DC, USA  &nbsp;         |
+|               2022               |                                  |                                              |
 |     &nbsp; AACL 2022  &nbsp;     |  &nbsp;  Jul 16 2022     &nbsp;  |    &nbsp;  November 21-24, 2022   &nbsp;     |           &nbsp; Taipei, Taiwan  &nbsp;            |
 |    &nbsp; EMNLP 2022  &nbsp;     |  &nbsp;  Jun 25 2022     &nbsp;  |     &nbsp;  December 7-11, 2022   &nbsp;     |           &nbsp; Abu Dhabi, UAE  &nbsp;            |
 |   &nbsp; NeurIPS 2022  &nbsp;    | &nbsp;  May 19 2022      &nbsp;  |        &nbsp;  Dec 09, 2022   &nbsp;         |     &nbsp; New Orleans, Louisiana, USA  &nbsp;     |
