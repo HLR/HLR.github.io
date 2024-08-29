@@ -1,4 +1,4 @@
----
+git---
 title: "HLR - Publications"
 layout: gridlay
 excerpt: "Heterogeneous Learning and Reasoning at Michigan State University."

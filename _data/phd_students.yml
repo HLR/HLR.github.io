@@ -54,11 +54,17 @@
   webpage: /
   joined: Fall 2023
   
-
 - name: Josue Kpodo, coadvised 
   photo: josue_kpodo_360.png
   research_interest: Natural Language Processing Application in Agriculture
   email: kpodojos@msu.edu
   webpage: /
   joined: Fall 2021
+
+- name: Tianyi Ma
+  photo: Tianyi.jpg
+  research_interest: Natural Language Processing, Vision and Language
+  email: matiany3@msu.edu
+  webpage: https://suemarsr.github.io/
+  joined: Fall 2024
 
