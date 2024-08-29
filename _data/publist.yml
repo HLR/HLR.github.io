@@ -1,4 +1,14 @@
 #2024
+- title: 'Narrowing the Gap between Vision and Action in Navigation'
+  authors: Yue Zhang, Parisa Kordjamshidi
+  venue: ACM Multimedia
+  year: 2024
+  links:
+    - url: https://www.arxiv.org/pdf/2408.10388
+      display: PDF
+    - url:
+      display: Code
+
 - title: 'Using Persuasive Writing Strategies to Explain and Detect Health Misinformation'
   authors: Danial Kamali, Joseph Romain, Huiyi Liu, Wei Peng, Jingbo Meng, Parisa Kordjamshidi
   venue: LREC-COLING 2024
