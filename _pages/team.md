@@ -58,6 +58,20 @@ Go to <a href="{{ site.url }}{{ site.baseurl }}/pictures/"> <b>Gallery</b> </a>
 {% endfor %}
 </div>
 
+## Visiting Scholars
+<div class="row">
+{% for member in site.data.visiting_scholars %}
+<div class="col-sm-6 clearfix" style="min-height: 250px;">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/profiles/{{ member.photo }}" class="img-responsive" width="25%" style="float: left;"/>
+  <h4><a href="{{ member.webpage }}" style="color:inherit">{{ member.name }}</a></h4>
+  <i><b>Joined</b>: {{ member.joined }}</i><br>
+  <i><b>Email</b>: <{{ member.email }}></i><br>
+  <i><b>Research Interests</b>: {{ member.research_interest }}</i>
+</div>
+{% endfor %}
+</div>
+
+</div>
 
 <!-- ## Master's Students -->
 <!--<div class="row">
