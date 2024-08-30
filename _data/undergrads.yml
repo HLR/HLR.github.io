@@ -25,12 +25,13 @@
 #   joined: Summer 2022
 #   research_interest: Natural language processing and misinformation detection
 #   webpage: /
-- name: Ailin Patimar 
-  photo: ailinpatimar.jpg
-  email: patimara@msu.edu
-  joined: Fall 2023
-  research_interest: Machine Learning, Generative AI, NLP
-  webpage: / 
+
+# - name: Ailin Patimar 
+#   photo: ailinpatimar.jpg
+#   email: patimara@msu.edu
+#   joined: Fall 2023
+#   research_interest: Machine Learning, Generative AI, NLP
+#   webpage: / 
 
 # - name: Divyalakshmi Varadha Rajan Prem Sudha
 #   photo: divya.png

@@ -96,13 +96,13 @@ Go to <a href="{{ site.url }}{{ site.baseurl }}/pictures/"> <b>Gallery</b> </a>
   <i><b>Joined</b>: {{ member.joined }}</i><br>
   <i><b>Email</b>: <{{ member.email }}></i><br>
   <i><b>Research Interests</b>: {{ member.research_interest }}</i>
-  
 </div>
 {% endfor %}
 </div>
 
 ## Past Members
-- Elham Barezi, Postdocs (2022-2024)
+- Elham Barezi, Postdoc (2022-2024). Currently a research associate at University of Purdue.
+- Ailin Patimar, Undergrads (2023-2024)
 - Hossein Faghihi, PhD Graduate (2019-2024)
 - Guangyue Xu, PhD Graduate (2019-2024)
 - Roshanak Mirzaee, PhD Graduate (2019-2024)
