@@ -10,7 +10,7 @@ permalink: /team/
 
 <!-- Jump to: [Faculty](#faculty), [Postdocs](#postdocs), [Phd Students](#phd-students), [Master Students](#master-students) -->
 
-Jump to: [Faculty](#faculty), [Phd Students](#phd-students), [Visiting Scholars](#visiting-scholars),[Undergrads](#undergrads)
+Jump to: [Faculty](#faculty), [Phd Students](#phd-students), [Visiting Scholars](#visiting-scholars), [Undergrads](#undergrads)
 
 <div class="row">
 <div class="col-lg-5 col-md-6 col-sm-12">
