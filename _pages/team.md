@@ -8,7 +8,10 @@ permalink: /team/
 
 # Group Members
 
-Jump to: [Faculty](#faculty), [Postdocs](#postdocs), [Phd Students](#phd-students), [Master Students](#master-students)
+<!-- Jump to: [Faculty](#faculty), [Postdocs](#postdocs), [Phd Students](#phd-students), [Master Students](#master-students) -->
+
+Jump to: [Faculty](#faculty), [Phd Students](#phd-students), [Visiting Scholars](#visiting-scholars),[Undergrads](#undergrads)
+
 <div class="row">
 <div class="col-lg-5 col-md-6 col-sm-12">
 <a href="{{ site.url }}{{ site.baseurl }}/pictures/" >
@@ -32,7 +35,7 @@ Go to <a href="{{ site.url }}{{ site.baseurl }}/pictures/"> <b>Gallery</b> </a>
 {% endfor %}
 </div>
 
-## Postdocs
+<!-- ## Postdocs
 <div class="row">
 {% for member in site.data.postdocs %}
 <div class="col-sm-6 clearfix">
@@ -43,7 +46,7 @@ Go to <a href="{{ site.url }}{{ site.baseurl }}/pictures/"> <b>Gallery</b> </a>
   <i><b>Research Interests</b>: {{ member.research_interest }}<br></i>
 </div>
 {% endfor %}
-</div>
+</div> -->
 
 ## PhD Students
 <div class="row">
@@ -71,7 +74,6 @@ Go to <a href="{{ site.url }}{{ site.baseurl }}/pictures/"> <b>Gallery</b> </a>
 {% endfor %}
 </div>
 
-</div>
 
 <!-- ## Master's Students -->
 <!--<div class="row">
@@ -100,6 +102,7 @@ Go to <a href="{{ site.url }}{{ site.baseurl }}/pictures/"> <b>Gallery</b> </a>
 </div>
 
 ## Past Members
+- Elham Barezi, Postdocs (2022-2024)
 - Hossein Faghihi, PhD Graduate (2019-2024)
 - Guangyue Xu, PhD Graduate (2019-2024)
 - Roshanak Mirzaee, PhD Graduate (2019-2024)
