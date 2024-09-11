@@ -18,7 +18,35 @@ permalink: /
 <img src="{{ site.url }}{{ site.baseurl }}/images/home/{{ pic.image }}" class="img-responsive" width="100%" />
 </div>
 
-{% endfor %}
+<!-- <div id="photoGallery" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    {% for image in site.data.home.gallery_images %}
+      <li data-target="#photoGallery" data-slide-to="{{ forloop.index0 }}" {% if forloop.first %}class="active"{% endif %}></li>
+    {% endfor %}
+  </ol>
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner">
+    {% for image in site.data.home.gallery_images %}
+    <div class="item {% if forloop.first %}active{% endif %}">
+      <img src="{{ site.url }}{{ site.baseurl }}/images/gallery/{{ pic.image }}" alt="{{ image.alt }}" class="img-responsive" width="100%">
+    </div>
+    {% endfor %}
+  </div>
+
+  <!-- Controls -->
+  <a class="left carousel-control" href="#photoGallery" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#photoGallery" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
+{% endfor %} -->
 
 </div>
 
