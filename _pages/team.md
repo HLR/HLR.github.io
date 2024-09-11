@@ -15,7 +15,7 @@ Jump to: [Faculty](#faculty), [Phd Students](#phd-students), [Visiting Scholars]
 <div class="row">
 <div class="col-lg-5 col-md-6 col-sm-12">
 <a href="{{ site.url }}{{ site.baseurl }}/pictures/" >
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/LabAndAda.jpg" width="100%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/gathering_2024.jpg" width="100%">
 </a>
 </div>
 </div>
