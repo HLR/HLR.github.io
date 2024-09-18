@@ -1,4 +1,9 @@
---- --- @import "bootstrap";
+---
+---
+
+// 重要的是确保 main.scss 文件中的 --- 前端配置能够正确保留在两行，而不是被合并为一行，否则 Jekyll 可能无法正确处理该文件。
+
+@import "bootstrap";
 
 img {
 	margin-bottom: 24px;
