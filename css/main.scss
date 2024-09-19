@@ -1,9 +1,11 @@
+--- 
 ---
----
+
+@import "bootstrap";
 
 // 重要的是确保 main.scss 文件中的 --- 前端配置能够正确保留在两行，而不是被合并为一行，否则 Jekyll 可能无法正确处理该文件。
 
-@import "bootstrap";
+
 
 img {
 	margin-bottom: 24px;
@@ -167,3 +169,31 @@ table tr td :last-child {
 .iframe-width {
 	width: 85%;
 }
+
+/* 限制 swiper 容器的宽度和高度 */
+.swiper-container {
+	width: 60%;
+	height: 400px;
+	margin: 0 auto;
+	overflow: hidden; /* 隐藏溢出的内容 */
+	display: flex;
+	justify-content: center;
+	align-items: center;
+  }
+  
+/* 确保图片保持比例，自动调整为适合容器的大小 */
+.gallery-image {
+width: 100%;
+height: 400px;
+object-fit: cover; /* 保持图片比例，裁剪以适应容器 */
+display: block;
+margin: 0 auto;
+object-fit: contain;
+}
+
+/* 对大屏幕设备使用 contain */
+@media (min-width: 768px) {
+	.gallery-image {
+	  object-fit: contain; /* 大屏幕时确保图片不会被裁剪 */
+	}
+  }

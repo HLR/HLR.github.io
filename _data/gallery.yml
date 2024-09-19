@@ -1,12 +1,14 @@
-- image: LabAndAda.jpg
-
-- image: main.jpg
-
-- image: 2.jpg
-
-- image: news-1.jpg
-
 - imgae: gathering_2024.jpg
+#   # - caption: gathering_2024
+- image: LabAndAda.jpg
+  # - caption: LabAndAda
+- image: main.jpg
+  # - caption: main
+- image: 2.jpg
+  # - caption: 2
+- image: news-1.jpg
+  # - caption: news-1
+
 
 
 

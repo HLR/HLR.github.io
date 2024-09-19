@@ -12,13 +12,13 @@ permalink: /team/
 
 Jump to: [Faculty](#faculty), [Phd Students](#phd-students), [Visiting Scholars](#visiting-scholars), [Undergrads](#undergrads)
 
-<!-- <div class="row">
+<div class="row">
 <div class="col-lg-5 col-md-6 col-sm-12">
 <a href="{{ site.url }}{{ site.baseurl }}/pictures/" >
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/gathering_2024.jpg" width="100%">
 </a>
 </div>
-</div> -->
+</div>
 
 Go to <a href="{{ site.url }}{{ site.baseurl }}/pictures/"> <b>Gallery</b> </a>
 
