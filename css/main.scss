@@ -196,7 +196,7 @@ object-fit: contain;
 
 /* 限制 Splide 容器的宽度和高度 */
 .splide {
-	width: 60%;
+	width: 80%;
 	max-height: 400px;
 	margin: 0 auto;
 	overflow: hidden;
@@ -211,8 +211,24 @@ object-fit: contain;
 	justify-content: center;
 	align-items: center;
 	height: 400px; /* 设置滑块的固定高度 */
+	text-align: center; /* 确保图片和标题居中 */
 }
 
+.splide__slide img {
+	display: block;
+	margin: 0 auto; /* 让图片水平居中 */
+}
+
+.splide__slide figcaption {
+	display: block;
+	text-align: center;
+	font-size: 14px;
+	margin-top: 10px; /* 与图片保持适当的间距 */
+	white-space: nowrap; /* 保持一行显示 */
+	overflow: hidden;
+	text-overflow: ellipsis; /* 如果内容太长，显示省略号 */
+}
+  
 /* 对大屏幕设备使用 contain */
 @media (min-width: 768px) {
 	.gallery-image {
