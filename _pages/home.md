@@ -9,18 +9,20 @@ permalink: /
 # Welcome to the **Heterogeneous Learning and Reasoning** Lab
 
 <div class="row">
-<div class="col-lg-12 col-md-12 col-sm-12 clearfix" style="float: left">
-<div class="swiper-container">
-<div class="swiper-wrapper">
+<!-- <div class="col-lg-12 col-md-12 col-sm-12 clearfix" style="float: left"> -->
+<div class="splide" id="splide01">
+<div class="splide__track">
+<ul class="splide__list">
 {% for pic in site.data.home%}
-<div class="swiper-slide">
+<li class="splide__slide">
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/{{ pic.image}}" class="img-fluid gallery-image">
-</div>
+</li>
 {% endfor %}
+</ul>
 </div>
 </div>
 </div>
-</div>
+<!-- </div> -->
 
 We do research on natural language processing, machine learning and combining vision and language. We work on information and semantic extraction from language. We investigate methodologies to interplay between learning and reasoning and develop techniques to include declarative and procedural world knowledge in statistical/neural learning. We develop research software and build prototypes to facilitate designing AI systems. We also aim to apply our techniques and tools on real world-problems and conduct multi-disciplinary research to impact the society for making the world a better place to live.
 
@@ -46,5 +48,18 @@ We do research on natural language processing, machine learning and combining vi
       slidesPerView: 1,         // 每页展示一个
       spaceBetween: 30          // 每个幻灯片之间的间距
     });
+  });
+</script>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    new Splide('#splide01', {
+      type   : 'loop',
+      perPage: 1,
+      autoplay: true,
+      pagination: true,
+      arrows: true,
+      height: '400px',  // 确保轮播容器高度不超过 400px
+    }).mount();
   });
 </script>
