@@ -1,5 +1,45 @@
 #2024
 
+## Template
+# - title:
+#   authors:
+#   venue:
+#   year: 
+#   links: 
+#     - url: 
+#       display: PDF
+#     - url:
+#       display: Code
+
+- title: 'AgXQA: A benchmark for advanced Agricultural Extension question answering'
+  authors: Josu Kpodoa, Parisa Kordjamshidi, A. Pouyan Nejadhashemi
+  venue: Computers and Electronics in Agriculture
+  year: 2024
+  links: 
+    - url: https://www.sciencedirect.com/science/article/pii/S0168169924007403
+      display: PDF
+    - url:
+      display: Code
+
+- title: 'SHINE: Saliency-aware HIerarchical NEgative Ranking for Compositional Temporal Grounding'
+  authors: Zixu Cheng, Yujiang Pu, Shaogang Gong, Parisa Kordjamshidi, Yu Kong
+  venue: European Conference on Computer Vision (ECCV)
+  year: 2024
+  links: 
+    - url: https://arxiv.org/abs/2407.05118
+      display: PDF
+    - url: https://github.com/zxccade/SHINE
+      display: Code
+
+- title: 'Prompt2DeModel: Declarative Neuro-Symbolic Modeling with Natural Language'
+  authors: Hossein Rajaby Faghihi, Aliakbar Nafar, Andrzej Uszok, Hamid Karimian, Parisa Kordjamshidi
+  venue: International Conference on Neural-Symbolic Learning and Reasoning
+  year: 2024
+  links:
+    - url: https://dl.acm.org/doi/10.1007/978-3-031-71170-1_25
+      display: PDF
+    - url:
+      display: Code
 
 - title: 'Narrowing the Gap between Vision and Action in Navigation'
   authors: Yue Zhang, Parisa Kordjamshidi
