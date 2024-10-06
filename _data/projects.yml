@@ -44,6 +44,16 @@
   image: domiknows.png
   webpage: https://domiknows.github.io
   publications:
+    - title: "Prompt2DeModel: Declarative Neuro-Symbolic Modeling with Natural Language"
+      authors: Hossein Rajaby Faghihi, Aliakbar Nafar, Andrzej Uszok, Hamid Karimian, Parisa Kordjamshidi
+      link: https://dl.acm.org/doi/10.1007/978-3-031-71170-1_25
+      webpage: /DomiKnowSNLUI/
+      github: https://github.com/HLR/DomiKnowS
+    - title: "GLUECons, A Generic Benchmark for Learning Under Constraints"
+      authors: Hossein Rajaby Faghihi, Aliakbar Nafar, Chen Zheng, Roshanak Mirzaee, Yue Zhang, Andrzej Uszok, Alexander Wan, Tanawan Premsri, Dan Roth, and Parisa Kordjamshidi
+      link: https://arxiv.org/pdf/2302.10914
+      webpage: /gluecons/
+      github: https://github.com/HLR/DomiKnowS/tree/AAAI23
     - title: "DomiKnowS: A Library for Integration of Symbolic Domain Knowledge in Deep Learning"
       authors: Hossein Rajaby Faghihi, Quan Guo, Andrzej Uszok, Aliakbar Nafar, Elaheh Raisi, Parisa Kordjamshidi
       link: https://arxiv.org/abs/2108.12370
@@ -66,7 +76,7 @@
 - title: "SpLang"
   id: splang
   logo: 33553312.gif
-  description: Combining Learning and Reasoning for <strong>Sp</strong>atial <strong>Lan</strong>guage Understandin<strong>g</strong>
+  description: Combining Learning and Reasoning for <stro  bundle exec jekyll serveng>Sp</strong>atial <strong>Lan</strong>guage Understandin<strong>g</strong>
   info: Our goal is to investigate the generic domain-independent spatial meaning representation schemes that can help in tasks that involve spatial language understanding. We exploit domain knowledge including ontologies that convey common-sense, the axioms of spatial qualitative reasoning and external visual resources in an integrate learning and reasoning framework. We develop deep structured and relational learning techniques for this goal and investigate the interaction between learning and spatial reasoning. We evaluate the capabilities of deep structured models in learning qualitative representations and the impact of those representations on textual and visual question answering tasks, focusing on locative questions.
   members: Parisa Kordjamshidi
   graduate_students: Roshanak Mirzaee, Yue Zhang, Chen Zheng.
