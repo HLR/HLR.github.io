@@ -37,9 +37,8 @@ permalink: /publications/
 {% endfor %}
 
 
-$(document).ready(function(){
-  
+<!-- $(document).ready(function(){
   $("#bibtex-button").click(function(){
     $("#bibtex").toggle();
   });
-});
+}); -->
