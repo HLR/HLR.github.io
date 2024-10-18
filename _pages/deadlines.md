@@ -17,7 +17,7 @@ permalink: /deadlines/
 
 |              Event               |             Deadline             |                     When                     |                       Where                        |
 |:--------------------------------:|:--------------------------------:|:--------------------------------------------:|:--------------------------------------------------:|
-|     &nbsp; ACL 2025  &nbsp;     |  &nbsp;  July 27  2025    &nbsp;  |       &nbsp;  February 15, 2025   &nbsp;        |               &nbsp;  Vienna, Austria &nbsp;  
+|     &nbsp; ACL 2025  &nbsp;     |  &nbsp;  July 27 to August 1, 2025    &nbsp;  |       &nbsp;  February 15, 2025   &nbsp;        |               &nbsp;  Vienna, Austria &nbsp;  
 |     &nbsp; ICLR 2025  &nbsp;     |  &nbsp;  Oct 02 2024     &nbsp;  |       &nbsp;  April 24, 2025   &nbsp;        |               &nbsp; Singapore &nbsp;               |
 |    &nbsp; COLING 2025  &nbsp;    |  &nbsp;  Sep 16 2024     &nbsp;  |     &nbsp;  January 19-24, 2025   &nbsp;     |               &nbsp; Abu Dhabi, UAE &nbsp;               |
 |     &nbsp; AAAI 2025  &nbsp;     |  &nbsp;  Aug 16 2024     &nbsp;  |    &nbsp;  Feb 25 – Mar 4, 2025   &nbsp;     |          &nbsp; Philadelphia, USA  &nbsp;          |
