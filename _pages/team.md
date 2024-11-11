@@ -104,9 +104,9 @@ Go to <a href="{{ site.url }}{{ site.baseurl }}/pictures/"> <b>Gallery</b> </a>
 - Elham Barezi, Postdoc (2022-2024). Currently a research associate at University of Purdue.
 - Ailin Patimar, Undergrads (2023-2024)
 - Hossein Faghihi, PhD Graduate (2019-2024)
-- Guangyue Xu, PhD Graduate (2019-2024)
+- Guangyue Xu, PhD Graduate (2019-2024). Currently a Senior Data Scientist at Target.
 - Roshanak Mirzaee, PhD Graduate (2019-2024)
-- Chen Zheng, PhD Graduate (Sep 2018 - Dec 2022). Currently a research scientist at ByteDance.
+- Chen Zheng, PhD Graduate (Sep 2018 - Dec 2022). Promoted to Senior Research Scientist at Byte Dance.
 - Sushanta K. Pani as Master student (Aug 2019 - Sep 2021)
 - Quan Guo as Postdoc (Feb 2019 - Nov 2020). Currently an associate professor at Sichuan University.
 - Elaheh Raisi as Postdoc (Nov 2020 - May 2021).

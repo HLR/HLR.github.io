@@ -67,7 +67,7 @@
   venue: The 2024 European conference in the field of computational linguistics (EACL-2024 findings)
   year: 2024
   links:
-    - url:
+    - url: https://aclanthology.org/2024.findings-eacl.53.pdf
       display: PDF
     - url: 
       display: Code
