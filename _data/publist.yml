@@ -60,6 +60,8 @@
       display: PDF
     - url:
       display: Code
+    - url: https://iamdanialkamali.github.io//publication/misinformation-detection
+      display: Project
 
 
 - title: 'Consistent Joint Decision-Making with Heterogeneous Learning Models'
@@ -116,6 +118,8 @@
       display: PDF
     - url: https://github.com/HLR/Syntax-Guided-Transformers
       display: Code
+    - url: https://iamdanialkamali.github.io//publication/syntax-guided-transformer
+      display: Project
 
 
 - title: "Disentangling Extraction and Reasoning in Multi-hop Spatial Reasoning"
