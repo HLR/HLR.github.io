@@ -78,7 +78,7 @@
   links:
     - url: https://arxiv.org/pdf/2211.05985.pdf
       display: PDF
-    - url:
+    - url: https://github.com/HLR/Misinformation-Detection
       display: Code
     - url: https://iamdanialkamali.github.io//publication/misinformation-detection
       display: Project
