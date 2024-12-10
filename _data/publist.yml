@@ -38,7 +38,7 @@
   links: 
     - url: https://www.sciencedirect.com/science/article/pii/S0168169924007403
       display: PDF
-    - url:  https://github.com/MSU-CECO/agxqa_benchmark_v1
+    - url:  https://github.com/MSU-CECO/agxqa_benchmark_v1 
       display: Code
 
 - title: 'SHINE: Saliency-aware HIerarchical NEgative Ranking for Compositional Temporal Grounding'
