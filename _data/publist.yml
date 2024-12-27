@@ -78,8 +78,8 @@
   links:
     - url: https://dl.acm.org/doi/10.1007/978-3-031-71170-1_25
       display: PDF
-    - url:
-      display: Code
+    - url: https://hlr-demo.egr.msu.edu/
+      display: demo
 
 - title: 'Narrowing the Gap between Vision and Action in Navigation'
   authors: Yue Zhang, Parisa Kordjamshidi
@@ -133,7 +133,7 @@
   links:
     - url: https://arxiv.org/abs/2305.13179
       display: PDF
-    - url: 
+    - url: https://github.com/HLR/Probabilistic_Logical_Reasoning
       display: Code
 
 
