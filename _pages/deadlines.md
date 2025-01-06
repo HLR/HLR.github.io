@@ -18,6 +18,7 @@ permalink: /deadlines/
 |              Event               |             Deadline             |                     When                     |                       Where                        |
 |:--------------------------------:|:--------------------------------:|:--------------------------------------------:|:--------------------------------------------------:|
 |               2025               |                                  |                                              |                                                     
+|     &nbsp; COLM 2025  &nbsp;     |  &nbsp;    Mar 20 2025      &nbsp;|       &nbsp;  Oct 7-10, 2025   &nbsp;        |               &nbsp;   Montreal, Canada &nbsp;              |
 |     &nbsp; NeurlPS Datasets and Benchmarks 2025  &nbsp;     |  &nbsp;    TBD      &nbsp;|       &nbsp;  TBD   &nbsp;        |               &nbsp;  TBD &nbsp;              |
 |     &nbsp; NeurlPS 2025  &nbsp;     |  &nbsp;    TBD      &nbsp;|       &nbsp;  TBD   &nbsp;        |               &nbsp;  San Diego, USA &nbsp;              |
 |     &nbsp; IJCAI 2025  &nbsp;     |  &nbsp;  Jan 16 2025      &nbsp;|       &nbsp;  Aug 16-22, 2025   &nbsp;        |               &nbsp;  Montreal, Canada &nbsp;           | 
