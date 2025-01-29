@@ -1,3 +1,16 @@
+#2025
+
+- title: SPARTUN3D: Situated Spatial Understanding of 3D World in Large Language Models
+  authors: Yue Zhang, Zhiyang Xu, Ying Shen, Parisa Kordjamshidi, Lifu Huang
+  venue: The Thirteenth International Conference on Learning Representations (ICLR 2025)
+  year: 2025
+  links: 
+    - url: https://arxiv.org/abs/2410.03878
+      display: PDF
+    - url:
+      display: Code
+
+
 #2024
 
 ## Template
@@ -11,9 +24,10 @@
 #     - url:
 #       display: Code
 
+
 - title: Reasoning over Uncertain Text by Generative Large Language Models
   authors: Aliakbar Nafar, Kristen Brent Venable, Parisa Kordjamshidi
-  venue: AAAI Conference on Artificial Intelligence
+  venue: AAAI Conference on Artificial Intelligence (AAAI 2024)
   year: 2025
   links: 
     - url: https://arxiv.org/abs/2402.09614
@@ -23,7 +37,7 @@
 
 - title: 'NeSyCoCo: A Neuro-Symbolic Concept Composer for Compositional Generalization'
   authors: Danial Kamali, Elham J. Barezi, Parisa Kordjamshidi
-  venue: AAAI Conference on Artificial Intelligence
+  venue: AAAI Conference on Artificial Intelligence  (AAAI 2024)
   year: 2025
   links: 
     - url: https://arxiv.org/abs/2412.15588
