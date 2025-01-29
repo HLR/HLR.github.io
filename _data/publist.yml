@@ -18,7 +18,7 @@
   links: 
     - url: https://arxiv.org/abs/2409.04318
       display: PDF
-    - url:
+    - url: https://github.com/HLR/LvsR-LLM
       display: Code
 
 - title: 'SPARTUN3D: Situated Spatial Understanding of 3D World in Large Language Models'
@@ -28,7 +28,7 @@
   links: 
     - url: https://arxiv.org/abs/2410.03878
       display: PDF
-    - url: https://github.com/HLR/LvsR-LLM
+    - url: 
       display: Code
 
 
