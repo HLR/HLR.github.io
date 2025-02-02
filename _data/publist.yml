@@ -10,7 +10,15 @@
 #       display: PDF
 #     - url:
 #       display: Code
-
+- title: 'Neuro-symbolic Training for Reasoning over Spatial Language'
+  authors: Tanawan Premsri, Parisa Kordjamshidi
+  venue: The 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2025 Finding)
+  year: 2025
+  links:
+    - url: https://arxiv.org/abs/2406.13828
+      display: PDF
+    - url: https://github.com/premsrit/SPARTUNQChain.git
+      display: Code
 
 - title: Do Vision-Language Models Represent Space and How? Evaluating Spatial Frame of Reference under Ambiguities
   authors: Zheyuan Zhang, Fengyuan Hu, Jayjun Lee, Freda Shi, Parisa Kordjamshidi, Joyce Chai, Ziqiao Ma
