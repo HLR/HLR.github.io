@@ -11,6 +11,19 @@
 #     - url:
 #       display: Code
 
+
+- title: Do Vision-Language Models Represent Space and How? Evaluating Spatial Frame of Reference under Ambiguities
+  authors: Zheyuan Zhang, Fengyuan Hu, Jayjun Lee, Freda Shi, Parisa Kordjamshidi, Joyce Chai, Ziqiao Ma
+  venue:  The Thirteenth International Conference on Learning Representations (ICLR 2025)
+  year: 2025
+  links: 
+    - url: https://arxiv.org/abs/2410.17385
+      display: PDF
+    - url: https://github.com/sled-group/COMFORT
+      display: Code
+    - url: https://spatial-comfort.github.io
+      display: Project
+
 - title: 'Learning vs Retrieval: The Role of In-Context Examples in Regression with LLMs'
   authors: Aliakbar Nafar, Kristen Brent Venable, Parisa Kordjamshidi
   venue: The 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2025)
