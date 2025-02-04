@@ -17,7 +17,7 @@
   links:
     - url: https://arxiv.org/abs/2406.13828
       display: PDF
-    - url: https://github.com/premsrit/SPARTUNQChain.git
+    - url: https://github.com/HLR/SpaRTUNQChain
       display: Code
 
 - title: Do Vision-Language Models Represent Space and How? Evaluating Spatial Frame of Reference under Ambiguities
