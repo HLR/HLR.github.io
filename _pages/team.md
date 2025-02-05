@@ -61,7 +61,7 @@ Go to <a href="{{ site.url }}{{ site.baseurl }}/pictures/"> <b>Gallery</b> </a>
 {% endfor %}
 </div>
 
-## Visiting Scholars
+<!-- ## Visiting Scholars
 <div class="row">
 {% for member in site.data.visiting_scholars %}
 <div class="col-sm-6 clearfix" style="min-height: 250px;">
@@ -72,7 +72,7 @@ Go to <a href="{{ site.url }}{{ site.baseurl }}/pictures/"> <b>Gallery</b> </a>
   <i><b>Research Interests</b>: {{ member.research_interest }}</i>
 </div>
 {% endfor %}
-</div>
+</div> -->
 
 
 <!-- ## Master's Students -->
@@ -101,6 +101,7 @@ Go to <a href="{{ site.url }}{{ site.baseurl }}/pictures/"> <b>Gallery</b> </a>
 </div>
 
 ## Past Members
+- Luan Thanh Nguyen, Visiting Scholar (Aug 2024 - Nov 2024)
 - Elham Barezi, Postdoc (2022-2024). Currently a research associate at University of Purdue.
 - Ailin Patimar, Undergrads (2023-2024)
 - Hossein Faghihi, PhD Graduate (2019-2024)
