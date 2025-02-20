@@ -17,10 +17,10 @@ permalink: /deadlines/
 
 |              Event               |             Deadline             |                     When                     |                       Where                        |
 |:--------------------------------:|:--------------------------------:|:--------------------------------------------:|:--------------------------------------------------:|
-|               2025               |                                  |                                              |                                                     
+|               2025               |                                  |                                              |                                        |     &nbsp; EMNLP 2025  &nbsp;     |  &nbsp;    May 19 2025      &nbsp;|       &nbsp;  Nov 5-9, 2025   &nbsp;        |               &nbsp;   Suzhou, China &nbsp;              |             
 |     &nbsp; COLM 2025  &nbsp;     |  &nbsp;    Mar 20 2025      &nbsp;|       &nbsp;  Oct 7-10, 2025   &nbsp;        |               &nbsp;   Montreal, Canada &nbsp;              |
 |     &nbsp; NeurlPS Datasets and Benchmarks 2025  &nbsp;     |  &nbsp;    TBD      &nbsp;|       &nbsp;  TBD   &nbsp;        |               &nbsp;  TBD &nbsp;              |
-|     &nbsp; NeurlPS 2025  &nbsp;     |  &nbsp;    TBD      &nbsp;|       &nbsp;  TBD   &nbsp;        |               &nbsp;  San Diego, USA &nbsp;              |
+|     &nbsp; NeurlPS 2025  &nbsp;     |  &nbsp;    May 1 2025      &nbsp;|       &nbsp;  Dec 9-15, 2025   &nbsp;        |               &nbsp;  San Diego, USA &nbsp;              |
 |     &nbsp; IJCAI 2025  &nbsp;     |  &nbsp;  Jan 16 2025      &nbsp;|       &nbsp;  Aug 16-22, 2025   &nbsp;        |               &nbsp;  Montreal, Canada &nbsp;           | 
 |     &nbsp; NeSy 2025  &nbsp;     |  &nbsp;    Feb 28 2025      &nbsp;|       &nbsp;  Sep 8-10, 2025   &nbsp;        |               &nbsp;  Santa Cruz, USA &nbsp;              | 
 |     &nbsp; ACL 2025  &nbsp;      |  &nbsp;  Feb 15 2025     &nbsp;  |     &nbsp;  July 27 to August 1, 2025  &nbsp;|               &nbsp;  Vienna, Austria &nbsp;       |
