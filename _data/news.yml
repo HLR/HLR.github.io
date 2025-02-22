@@ -1,8 +1,8 @@
 - date: <i>February 21st 2025</i>
   headline: "Congratulations to our great member Dr. Yue Zhang (Joslin) who officially graduated today! We all wish the best for the next phase of her life!"
   top: 1
-  # pictures:
-  # - image: Joslin_PhD_Graduation.jpg
+  pictures:
+    - image: Joslin_PhD_Graduation.jpg
 
 - date: <i>January 29th 2025</i>
   headline: "Dr. Parisa has been selected for a Fulbright award to Vietnam!"
