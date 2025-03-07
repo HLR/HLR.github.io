@@ -4,28 +4,27 @@
   joined: Fall 2021
   research_interest: Spatial role labeling, Data visualization and Creative art using AI, compositional learning.
   webpage: /
-  
+
 - name: Alexander Wan
   photo: Alex Wan Picture.jpeg
   email: alexwan@berkeley.edu
   joined: June 2021 (Summer Intern)
   research_interest: NLP, Language Models.
   webpage: /
+# - name: Trevor Stevens
+#   photo: Trevor Stevens.jpg
+#   email: steve899@msu.edu
+#   joined: Fall 2024
+#   research_interest: The use of transformer architectures in the identification of enhancer sequences of DNA in the human genome
+#   webpage: /
 
-- name: Trevor Stevens
-  photo: Trevor Stevens.jpg
-  email: steve899@msu.edu
-  joined: Fall 2024
-  research_interest: The use of transformer architectures in the identification of enhancer sequences of DNA in the human genome
-  webpage: /
-  
 # - name: Tolu Oshin
 #   photo: toluoshin.jpg
 #   email: oshintol@msu.edu
 #   joined: Fall 2022
 #   research_interest: Still exploring
 #   webpage: /
-  
+
 # - name: Joseph Romain
 #   photo: Joseph Romain Picture.jpg
 #   email: romainj2@msu.edu
@@ -33,16 +32,16 @@
 #   research_interest: Natural language processing and misinformation detection
 #   webpage: /
 
-# - name: Ailin Patimar 
+# - name: Ailin Patimar
 #   photo: ailinpatimar.jpg
 #   email: patimara@msu.edu
 #   joined: Fall 2023
 #   research_interest: Machine Learning, Generative AI, NLP
-#   webpage: / 
+#   webpage: /
 
 # - name: Divyalakshmi Varadha Rajan Prem Sudha
 #   photo: divya.png
 #   email: varadhad@msu.edu
 #   joined: Fall 2023
 #   research_interest: Data Science, NLP, Generative AI, Deep Learning, AI for Education and Accessibility
-#   webpage: /   
+#   webpage: /

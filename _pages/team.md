@@ -101,6 +101,7 @@ Go to <a href="{{ site.url }}{{ site.baseurl }}/pictures/"> <b>Gallery</b> </a>
 </div>
 
 ## Past Members
+- Trevor Stevens, Undergrads (2024-2025)
 - Luan Thanh Nguyen, Visiting Scholar (Aug 2024 - Nov 2024)
 - Elham Barezi, Postdoc (2022-2024). Currently a research associate at University of Purdue.
 - Ailin Patimar, Undergrads (2023-2024)
