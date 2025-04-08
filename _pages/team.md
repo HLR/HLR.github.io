@@ -100,7 +100,7 @@ Go to <a href="{{ site.url }}{{ site.baseurl }}/pictures/"> <b>Gallery</b> </a>
 {% endfor %}
 </div>
 
-## Past Members
+## Alumni & Past Members
 - Ph.D. graduates: 
 - Yue Zhang (Joslin), PhD Graduate (2020-2025). Post-doctoral researcher at North Carolina at Chapel Hill.
 - Hossein Faghihi, PhD Graduate (2019-2024).
