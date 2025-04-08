@@ -102,18 +102,20 @@ Go to <a href="{{ site.url }}{{ site.baseurl }}/pictures/"> <b>Gallery</b> </a>
 
 ## Past Members
 - Yue Zhang (Joslin), PhD Graduate (2020-2025). Currently Post-doctoral researcher at North Carolina at Chapel Hill.
-- Trevor Stevens, Undergrads (2024-2025)
-- Luan Thanh Nguyen, Visiting Scholar (Aug 2024 - Nov 2024)
-- Elham Barezi, Postdoc (2022-2024). Currently a research associate at University of Purdue.
-- Ailin Patimar, Undergrads (2023-2024)
-- Hossein Faghihi, PhD Graduate (2019-2024)
+- Hossein Faghihi, PhD Graduate (2019-2024).
 - Guangyue Xu, PhD Graduate (2019-2024). Currently a Senior Data Scientist at Target.
-- Roshanak Mirzaee, PhD Graduate (2019-2024)
-- Chen Zheng, PhD Graduate (Sep 2018 - Dec 2022). Promoted to Senior Research Scientist at Byte Dance.
+- Roshanak Mirzaee, PhD Graduate (2019-2024).
+- Chen Zheng, PhD Graduate (2018-2022). Senior Research Scientist at Byte Dance.
+
+- Elham Barezi, Postdoc (2022-2024). Currently a research associate at University of Purdue.
+- Quan Guo, Postdoc (Feb 2019 - Nov 2020). Currently an Associate Professor at Sichuan University.
+- Elaheh Raisi, Postdoc (Nov 2020 - May 2021). Currently Applied Researcher, eBay.
+
 - Sushanta K. Pani as Master student (Aug 2019 - Sep 2021)
-- Quan Guo as Postdoc (Feb 2019 - Nov 2020). Currently an associate professor at Sichuan University.
-- Elaheh Raisi as Postdoc (Nov 2020 - May 2021).
+- Luan Thanh Nguyen, Visiting Scholar (Aug 2024 - Nov 2024)
 - Drew Hayward as graduate research assistant (Aug 2019 - May 2021)
+- Ailin Patimar, Undergraduate (2023-2024)
+- Trevor Stevens, Undergrads (2024-2025)
 - Divyalakshmi Varadha Rajan Prem Sudha as undergraduate professorial assistant (Fall 2023)
 - Joseph Romain as undergraduate research intern (Aug 2022 - Dec 2022)
 - Tim Moran as undergraduate professorial assistant (Fall 2020 - Spring 2022)
