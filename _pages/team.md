@@ -103,9 +103,9 @@ Go to <a href="{{ site.url }}{{ site.baseurl }}/pictures/"> <b>Gallery</b> </a>
 ## Alumni & Past Members
 - Ph.D. graduates: 
 - Yue Zhang (Joslin), PhD Graduate (2020-2025). Post-doctoral researcher at North Carolina at Chapel Hill.
-- Hossein Faghihi, PhD Graduate (2019-2024).
+- Hossein Faghihi, PhD Graduate (2019-2024). ML Engineer at Google.
 - Guangyue Xu, PhD Graduate (2019-2024). Senior Data Scientist at Target.
-- Roshanak Mirzaee, PhD Graduate (2019-2024).
+- Roshanak Mirzaee, PhD Graduate (2019-2024). Applied Scientist at Qualtrics.
 - Chen Zheng, PhD Graduate (2018-2022). Senior Research Scientist at Byte Dance.
 
 - Post-doctoral researchers:
