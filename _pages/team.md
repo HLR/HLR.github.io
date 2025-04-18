@@ -102,6 +102,7 @@ Go to <a href="{{ site.url }}{{ site.baseurl }}/pictures/"> <b>Gallery</b> </a>
 
 ## Alumni & Past Members
 <h4>Ph.D. graduates: </h4>
+
 - Yue Zhang (Joslin), PhD Graduate (2020-2025). Post-doctoral researcher at North Carolina at Chapel Hill.
 - Hossein Faghihi, PhD Graduate (2019-2024). ML Engineer at Google.
 - Guangyue Xu, PhD Graduate (2019-2024). Senior Data Scientist at Target.
@@ -109,11 +110,13 @@ Go to <a href="{{ site.url }}{{ site.baseurl }}/pictures/"> <b>Gallery</b> </a>
 - Chen Zheng, PhD Graduate (2018-2022). Senior Research Scientist at Byte Dance.
 
 <h4>Post-doctoral researchers:</h4>
+
 - Elham Barezi, Postdoc (2022-2024). Research associate at University of Purdue.
 - Quan Guo, Postdoc (Feb 2019 - Nov 2020). Associate Professor at Sichuan University.
 - Elaheh Raisi, Postdoc (Nov 2020 - May 2021). Applied Researcher, eBay.
 
 <h4>Masters, Undergraduates, Visiting scholars: </h4>
+
 - Sushanta K. Pani, Master student (Aug 2019 - Sep 2021)
 - Luan Thanh Nguyen, Visiting Scholar (Aug 2024 - Nov 2024)
 - Drew Hayward, Research assistant (Aug 2019 - May 2021)
