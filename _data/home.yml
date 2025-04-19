@@ -1,16 +1,19 @@
 - image: MSLD_2025_talk_Danial.jpg
   name: ""
 
-# - image: MSLD_2025_poster_Tianyi.jpg
-#   name: ""
-
-- image: NLP_DAY_speak.jpg
+- image: MSLD_2025_poster_Darius.jpg
   name: ""
 
-- image: NLP_DAY_Parisa.jpg
+- image: MSLD_2025_poster_Tianyi.jpg
   name: ""
 
-- image: NLP_DAY_Juan.jpg
+- image: NLP_DAY_speak_compressed.jpg
+  name: ""
+
+- image: NLP_DAY_Parisa_compressed.jpg
+  name: ""
+
+- image: NLP_DAY_Juan_compressed.jpg
   name: ""
 
 - image: Danial_EMNLP_2024.jpg
