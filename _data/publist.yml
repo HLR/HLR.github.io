@@ -15,7 +15,7 @@
   venue: The 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2025 Finding)
   year: 2025
   links:
-    - url: https://arxiv.org/abs/2406.13828
+    - url: https://aclanthology.org/2025.findings-naacl.128.pdf
       display: PDF
     - url: https://github.com/HLR/SpaRTUNQChain
       display: Code
