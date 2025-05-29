@@ -37,7 +37,7 @@
   venue: The 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2025)
   year: 2025
   links: 
-    - url: https://arxiv.org/abs/2409.04318
+    - url: https://aclanthology.org/2025.naacl-long.417/
       display: PDF
     - url: https://github.com/HLR/LvsR-LLM
       display: Code
@@ -58,7 +58,7 @@
   venue: AAAI Conference on Artificial Intelligence (AAAI 2025)
   year: 2025
   links: 
-    - url: https://arxiv.org/abs/2402.09614
+    - url: https://ojs.aaai.org/index.php/AAAI/article/view/34674
       display: PDF
     - url: https://github.com/HLR/BLInD/
       display: Code
