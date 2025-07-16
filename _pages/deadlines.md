@@ -17,7 +17,11 @@ permalink: /deadlines/
 
 |              Event               |             Deadline             |                     When                     |                       Where                        |
 |:--------------------------------:|:--------------------------------:|:--------------------------------------------:|:--------------------------------------------------:|
-|            2025               |                                  |                                              |                  
+|            2026               |                                  |                                              |
+|     &nbsp; CVPR 2026  &nbsp;     |  &nbsp;    TBD      &nbsp;|       &nbsp;  TBD   &nbsp;        |       &nbsp;   TBD   &nbsp;              |   
+|     &nbsp; ICLR 2026  &nbsp;     |  &nbsp;    Sep 24 2025      &nbsp;|       &nbsp;  TBD   &nbsp;        |       &nbsp;   TBD   &nbsp;              | 
+|     &nbsp; AAAI 2026  &nbsp;     |  &nbsp;    Aug 1 2025      &nbsp;|       &nbsp;  Jan 20-27, 2026   &nbsp;        |       &nbsp;   Singapore   &nbsp;              | 
+|            2025               |                                  |                                              |                 
 |     &nbsp; EMNLP 2025  &nbsp;     |  &nbsp;    May 19 2025      &nbsp;|       &nbsp;  Nov 5-9, 2025   &nbsp;        |       &nbsp;   Suzhou, China   &nbsp;              |      
 |     &nbsp; COLM 2025  &nbsp;     |  &nbsp;    Mar 20 2025      &nbsp;|       &nbsp;  Oct 7-10, 2025   &nbsp;        |               &nbsp;   Montreal, Canada &nbsp;              |
 |     &nbsp; NeurlPS Datasets and Benchmarks 2025  &nbsp;     |  &nbsp;    TBD      &nbsp;|       &nbsp;  TBD   &nbsp;        |               &nbsp;  TBD &nbsp;              |
