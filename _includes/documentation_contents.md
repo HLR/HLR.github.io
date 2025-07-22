@@ -1,10 +1,7 @@
 - [CONLL Example In the Video](https://colab.research.google.com/drive/1FvdePHv3h3NDSTkBw1VKwAmaZFWuGgTi): Run the example shown in the video in google colab.
-- [Getting Started](https://github.com/HLR/DomiKnowS/blob/Doc/User%20API/GettingStarted.md): Provides detailed instructions on how to get started with DomiKnowS, including installation, setting up the environment, and basic usage.
-- [Documentation](https://github.com/HLR/DomiKnowS/tree/Doc/User%20API): Provides comprehensive documentation on the DomiKnowS, including classes, methods, and their usage.
-- [Walkthough Example](https://github.com/HLR/DomiKnowS/blob/Doc/User%20API/ExampleTask.md): Contains examples that demonstrate the usage of DomiKnowS for various tasks, such as image classification, sequence modeling, and reinforcement learning. ( For more example see [Examples Branch](https://github.com/HLR/DomiKnowS/tree/Tasks) )
-- [Tutorial Examples](https://github.com/HLR/DomiKnowS/tree/Doc/Run%20With%20Jupyter): Simple and diverse examples are outlined with detailed explanations in a Jupyter file to run.
+- [Getting Started](https://github.com/HLR/DomiKnowS/blob/Doc/Getting%20Started.md): Provides detailed instructions on how to get started with DomiKnowS, including installation, setting up the environment, and basic usage.
+- [Documentation](https://github.com/HLR/DomiKnowS/tree/Doc): Provides comprehensive documentation on the DomiKnowS, including classes, methods, and their usage.
+- [Walkthough Example](https://github.com/HLR/DomiKnowS/tree/Doc/Walkthrough%20Examples): Contains examples that demonstrate the usage of DomiKnowS for various tasks, such as image classification, sequence modeling, and reinforcement learning. ( For more example see [Examples Branch](https://github.com/HLR/DomiKnowS/tree/Tasks) )
+- [Tutorial Examples](https://github.com/HLR/DomiKnowS/tree/Doc/Tutorial%20Examples): Simple and diverse examples are outlined with detailed explanations in a Jupyter file to run.
 - [FAQ](https://github.com/HLR/DomiKnowS/blob/Doc/FAQ.md): Read our FAQ file if you have any questions.
-- [License](https://github.com/HLR/DomiKnowS/blob/Doc/Licence.md): Contains information about the license of DomiKnowS and its terms of use.
-- Report Issues: Encounter a problem? Let us know by [submitting an issue](https://github.com/HLR/DomiKnowS/blob/Doc/IssueReport.md).
-- Suggest Enhancements: Have an idea to make DomiKnowS better? [Share your suggestion](https://github.com/HLR/DomiKnowS/blob/Doc/Suggestions.md).
-- Submit Pull Requests: Ready to contribute code or features directly? [Create a pull request](https://github.com/HLR/DomiKnowS/blob/Doc/PullRequest.md).
+- [License](https://github.com/HLR/DomiKnowS/blob/Doc/LICENSE.md): Contains information about the license of DomiKnowS and its terms of use.
