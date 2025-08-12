@@ -63,7 +63,14 @@
 
 - name: Tianyi Ma
   photo: Tianyi_Vertical.jpg
-  research_interest: Natural Language Processing, Vision and Language
+  research_interest: Natural Language Processing, Multimodal Agents, Embodied AI
   email: matiany3@msu.edu
   webpage: https://www.egr.msu.edu/~matiany3/
   joined: Fall 2024
+
+- name: Shreya Rajpal
+  photo: Shreya_Rajpal.png
+  research_interest: Natural Language Processing, Multimodal Learning, Question Answering, Responsible AI.
+  email: rajpalsh@msu.edu
+  webpage: /
+  joined: Fall 2025
