@@ -4,13 +4,46 @@
 # - title:
 #   authors:
 #   venue:
-#   year: 
-#   links: 
-#     - url: 
+#   year:
+#   links:
+#     - url:
 #       display: PDF
 #     - url:
 #       display: Code
-- title: 'Neuro-symbolic Training for Reasoning over Spatial Language'
+
+- title: "Breaking Down and Building Up: Mixture of Skill-Based Vision-and-Language Navigation Agents"
+  authors: Tianyi Ma, Yue Zhang, Zehao Wang, Parisa Kordjamshidi
+  venue: arXiv
+  year: 2025
+  links:
+    - url: https://arxiv.org/pdf/2508.07642.pdf
+      display: PDF
+    - url: https://github.com/HLR/SkillNav
+      display: Code
+    - url: https://hlr.github.io/SkillNav/
+      display: Project
+
+- title: "FoREST: Frame of Reference Evaluation in Spatial Reasoning Tasks"
+  authors: Tanawan Premsri, Parisa Kordjamshidi
+  venue: EMNLP Main Conference
+  year: 2025
+  links:
+    - url: https://arxiv.org/abs/2502.17775
+      display: PDF
+    - url: https://github.com/HLR/FoREST
+      display: Code
+
+- title: "Vision-and-Language Navigation with Analogical Textual Descriptions in LLMs"
+  authors: Yue Zhang, Tianyi Ma, Zun Wang, Yanyuan Qiao, Parisa Kordjamshidi
+  venue: EMNLP Main Confernece
+  year: 2025
+  # links:
+  #   - url:
+  #     display: PDF
+  #   - url:
+  #     display: Code
+
+- title: "Neuro-symbolic Training for Reasoning over Spatial Language"
   authors: Tanawan Premsri, Parisa Kordjamshidi
   venue: The 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2025 Finding)
   year: 2025
@@ -22,9 +55,9 @@
 
 - title: Do Vision-Language Models Represent Space and How? Evaluating Spatial Frame of Reference under Ambiguities
   authors: Zheyuan Zhang, Fengyuan Hu, Jayjun Lee, Freda Shi, Parisa Kordjamshidi, Joyce Chai, Ziqiao Ma
-  venue:  The Thirteenth International Conference on Learning Representations (ICLR 2025)
+  venue: The Thirteenth International Conference on Learning Representations (ICLR 2025)
   year: 2025
-  links: 
+  links:
     - url: https://arxiv.org/abs/2410.17385
       display: PDF
     - url: https://github.com/sled-group/COMFORT
@@ -32,91 +65,89 @@
     - url: https://spatial-comfort.github.io
       display: Project
 
-- title: 'Learning vs Retrieval: The Role of In-Context Examples in Regression with LLMs'
+- title: "Learning vs Retrieval: The Role of In-Context Examples in Regression with LLMs"
   authors: Aliakbar Nafar, Kristen Brent Venable, Parisa Kordjamshidi
   venue: The 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2025)
   year: 2025
-  links: 
+  links:
     - url: https://aclanthology.org/2025.naacl-long.417/
       display: PDF
     - url: https://github.com/HLR/LvsR-LLM
       display: Code
 
-- title: 'SPARTUN3D: Situated Spatial Understanding of 3D World in Large Language Models'
+- title: "SPARTUN3D: Situated Spatial Understanding of 3D World in Large Language Models"
   authors: Yue Zhang, Zhiyang Xu, Ying Shen, Parisa Kordjamshidi, Lifu Huang
   venue: The Thirteenth International Conference on Learning Representations (ICLR 2025)
   year: 2025
-  links: 
+  links:
     - url: https://arxiv.org/abs/2410.03878
       display: PDF
-    - url: 
+    - url:
       display: Code
-
 
 - title: Reasoning over Uncertain Text by Generative Large Language Models
   authors: Aliakbar Nafar, Kristen Brent Venable, Parisa Kordjamshidi
   venue: AAAI Conference on Artificial Intelligence (AAAI 2025)
   year: 2025
-  links: 
+  links:
     - url: https://ojs.aaai.org/index.php/AAAI/article/view/34674
       display: PDF
     - url: https://github.com/HLR/BLInD/
       display: Code
 
-- title: 'NeSyCoCo: A Neuro-Symbolic Concept Composer for Compositional Generalization'
+- title: "NeSyCoCo: A Neuro-Symbolic Concept Composer for Compositional Generalization"
   authors: Danial Kamali, Elham J. Barezi, Parisa Kordjamshidi
   venue: AAAI Conference on Artificial Intelligence  (AAAI 2025)
   year: 2025
-  links: 
+  links:
     - url: https://arxiv.org/abs/2412.15588
       display: PDF
     - url: https://github.com/HLR/NeSyCoCo
       display: Code
 
-
 #2024
 
-- title: 'Vision-and-Language Navigation Today and Tomorrow: A Survey in the Era of Foundation Models'
+- title: "Vision-and-Language Navigation Today and Tomorrow: A Survey in the Era of Foundation Models"
   authors: Yue Zhang, Ziqiao Ma, Jialu Li, Yanyuan Qiao, Zun Wang, Joyce Chai, Qi Wu, Mohit Bansal, Parisa Kordjamshidi
   venue: Transactions on Machine Learning Research
   year: 2024
-  links: 
+  links:
     - url: https://arxiv.org/abs/2407.07035
       display: PDF
     - url:
       display: Code
 
-- title: 'A Survey on Compositional Learning of AI Models: Theoretical and Experimental Practices'
+- title: "A Survey on Compositional Learning of AI Models: Theoretical and Experimental Practices"
   authors: Sania Sinha, Tanawan Premsri, Parisa Kordjamshidi
   venue: Transactions on Machine Learning Research
   year: 2024
-  links: 
+  links:
     - url: https://arxiv.org/abs/2406.08787
       display: PDF
     - url:
       display: Code
 
-- title: 'AgXQA: A benchmark for advanced Agricultural Extension question answering'
+- title: "AgXQA: A benchmark for advanced Agricultural Extension question answering"
   authors: Josué Kpodoa, Parisa Kordjamshidi, A. Pouyan Nejadhashemi
   venue: Computers and Electronics in Agriculture
   year: 2024
-  links: 
+  links:
     - url: https://www.sciencedirect.com/science/article/pii/S0168169924007403
       display: PDF
-    - url:  https://github.com/MSU-CECO/agxqa_benchmark_v1 
+    - url: https://github.com/MSU-CECO/agxqa_benchmark_v1
       display: Code
 
-- title: 'SHINE: Saliency-aware HIerarchical NEgative Ranking for Compositional Temporal Grounding'
+- title: "SHINE: Saliency-aware HIerarchical NEgative Ranking for Compositional Temporal Grounding"
   authors: Zixu Cheng, Yujiang Pu, Shaogang Gong, Parisa Kordjamshidi, Yu Kong
   venue: The 18th European Conference on Computer Vision (ECCV 2024)
   year: 2024
-  links: 
+  links:
     - url: https://arxiv.org/abs/2407.05118
       display: PDF
     - url: https://github.com/zxccade/SHINE
       display: Code
 
-- title: 'Prompt2DeModel: Declarative Neuro-Symbolic Modeling with Natural Language'
+- title: "Prompt2DeModel: Declarative Neuro-Symbolic Modeling with Natural Language"
   authors: Hossein Rajaby Faghihi, Aliakbar Nafar, Andrzej Uszok, Hamid Karimian, Parisa Kordjamshidi
   venue: 18th International Conference on Neural-Symbolic Learning and Reasoning (NeSy 2024)
   year: 2024
@@ -126,7 +157,7 @@
     - url: https://hlr-demo.egr.msu.edu/
       display: demo
 
-- title: 'Narrowing the Gap between Vision and Action in Navigation'
+- title: "Narrowing the Gap between Vision and Action in Navigation"
   authors: Yue Zhang, Parisa Kordjamshidi
   venue: ACM Multimedia
   year: 2024
@@ -136,7 +167,7 @@
     - url:
       display: Code
 
-- title: 'Using Persuasive Writing Strategies to Explain and Detect Health Misinformation'
+- title: "Using Persuasive Writing Strategies to Explain and Detect Health Misinformation"
   authors: Danial Kamali, Joseph Romain, Huiyi Liu, Wei Peng, Jingbo Meng, Parisa Kordjamshidi
   venue: LREC-COLING 2024
   year: 2024
@@ -148,28 +179,25 @@
     - url: https://iamdanialkamali.github.io//publication/misinformation-detection
       display: Project
 
-
-- title: 'Consistent Joint Decision-Making with Heterogeneous Learning Models'
+- title: "Consistent Joint Decision-Making with Heterogeneous Learning Models"
   authors: Hossein Rajaby Faghihi, Parisa Kordjamshidi
   venue: The 2024 European conference in the field of computational linguistics (EACL-2024 findings)
   year: 2024
   links:
     - url: https://aclanthology.org/2024.findings-eacl.53.pdf
       display: PDF
-    - url: 
+    - url:
       display: Code
 
-
-- title: 'NavHint: Vision and Language Navigation Agent with a Hint Generator'
+- title: "NavHint: Vision and Language Navigation Agent with a Hint Generator"
   authors: Yue Zhang, Quan Guo, Parisa Kordjamshidi
   venue: The 2024 European conference in the field of computational linguistics (EACL-2024 findings)
   year: 2024
   links:
     - url: https://arxiv.org/abs/2402.02559
       display: PDF
-    - url: 
+    - url:
       display: Code
-
 
 - title: "Teaching Probabilistic Logical Reasoning to Transformers"
   authors: Aliakbar Nafar, Kristen Brent Venable, Parisa Kordjamshidi
@@ -181,17 +209,15 @@
     - url: https://github.com/HLR/Probabilistic_Logical_Reasoning
       display: Code
 
-
-- title: 'GIPCOL: Graph-Injected Soft Prompting for Compositional Zero-Shot Learning'
+- title: "GIPCOL: Graph-Injected Soft Prompting for Compositional Zero-Shot Learning"
   authors: Guangyue Xu, Joyce Chai, Parisa Kordjamshidi
   venue: IEEE/CVF Winter Conference on Applications of Computer Vision (WACV-2024)
   year: 2024
   links:
     - url: https://arxiv.org/abs/2311.05729
       display: PDF
-    - url: 
+    - url:
       display: Code
-
 
 #2023
 - title: "Syntax-Guided Transformers: Elevating Compositional Generalization and Grounding in Multimodal Environments"
@@ -206,7 +232,6 @@
     - url: https://iamdanialkamali.github.io//publication/syntax-guided-transformer
       display: Project
 
-
 - title: "Disentangling Extraction and Reasoning in Multi-hop Spatial Reasoning"
   authors: Roshanak Mirzaee, Parisa Kordjamshidi
   venue: Empirical Methods in Natural Language Processing (EMNLP-2023, Findings)
@@ -214,9 +239,8 @@
   links:
     - url: https://arxiv.org/abs/2310.16731
       display: PDF
-    - url: 
+    - url:
       display: Code
-
 
 - title: "MetaReVision: Meta-Learning with Retrieval for Visually Grounded Compositional Concept Acquisition"
   authors: Guangyue Xu, Parisa Kordjamshidi, Joyce Chai
@@ -225,9 +249,8 @@
   links:
     - url: https://arxiv.org/abs/2311.01580
       display: PDF
-    - url: 
+    - url:
       display: Code
-
 
 - title: "VLN-Trans, Translator for the Vision and Language Navigation Agent"
   authors: Yue Zhang, Parisa Kordjamshidi
@@ -238,8 +261,7 @@
       display: PDF
     - url: https://github.com/HLR/VLN-trans
       display: Code
-  
-  
+
 - title: "Investigating the Role of Semantic Parsing in Understanding Procedural Text"
   authors: Hossein Rajaby Faghihi, Parisa Kordjamshidi, Choh Man Teng and James Allen
   venue: The 2023 European conference in the field of computational linguistics (EACL-2023 findings)
@@ -249,7 +271,7 @@
       display: PDF
     - url: https://github.com/HLR/ProceduralSemanticParsing
       display: Code
- 
+
 - title: "GLUECons, A Generic Benchmark for Learning Under Constraints"
   authors: Hossein Rajaby Faghihi, Aliakbar Nafar, Chen Zheng, Roshanak Mirzaee, Yue Zhang, Andrzej Uszok, Alexander Wan, Tanawan Premsri, Dan Roth, and Parisa Kordjamshidi
   venue: The 37th Conference of Artificial Intelligence (AAAI-2023)
@@ -259,7 +281,7 @@
       display: PDF
     - url: https://hlr.github.io/gluecons/
       display: Code
-  
+
 #2022
 
 - title: "Transfer Learning with Synthetic Corpora for Spatial Semantic Role Labeling and Reasoning"
@@ -269,7 +291,7 @@
   links:
     - url: https://arxiv.org/abs/2210.16952
       display: PDF
-  
+
 - title: "Dynamic Relevance Graph Network for Knowledge-Aware Question Answering"
   authors: Chen Zheng and Parisa Kordjamshidi.
   venue: THE 29TH INTERNATIONAL CONFERENCE ON COMPUTATIONAL LINGUISTICS (COLING-2022)
@@ -302,19 +324,18 @@
     - url: https://www.frontiersin.org/article/10.3389/frai.2022.755361
       display: PDF
 
-- title: "Relevant CommonSense Subgraphs for \"What if...\" Procedural Reasoning"
+- title: 'Relevant CommonSense Subgraphs for "What if..." Procedural Reasoning'
   authors: Chen Zheng and Parisa Kordjamshidi.
   venue: 60th Annual Meeting of the Association for Computational Linguistics (ACL-2022 findings)
   year: 2022
   links:
     - url: https://arxiv.org/pdf/2203.11187.pdf
       display: PDF
- 
+
 - title: "PYLON: A PyTorch Framework for Learning with Constraints"
   authors: Kareem Ahmed, Tao Li, Thy Ton, Quan Guo, Kai-Wei Chang, Parisa Kordjamshidi, Vivek Srikumar, Guy Van den Broeck, Sameer Singh.
   venue: 36th Conference of Artificial Intelligence (AAAI-2022 demo track)
   year: 2022
-
 
 #2021
 
@@ -327,7 +348,7 @@
       display: PDF
     - url: https://github.com/HLR/DomiKnowS
       display: Code
-      
+
 - title: Zero-Shot Compositional Concept Learning
   authors: Guangyue Xu, Parisa Kordjamshidi and Joyce Chai
   venue: ACL-2021 workshop on MetaNLP
@@ -337,7 +358,6 @@
       display: PDF
 #     - url: https://github.com/zhangyuejoslin/SpC-NAV
 #       display: Code
-  
 
 - title: Towards Navigation by Reasoning over Spatial Configurations
   authors: Yue Zhang, Quan Guo and Parisa Kordjamshidi
@@ -370,7 +390,7 @@
       display: Code_data
     - url: https://github.com/HLR/SpartQA-baselines
       display: Code_baseline
-  
+
 - title: "Time-Stamped Language Model: Teaching Language Models to Understand The Flow of Events"
   authors: Hossein Rajaby Faghihi and Parisa Kordjamshidi.
   venue: The 2021 Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL-2021)
@@ -381,8 +401,7 @@
     - url: https://github.com/HLR/TSLM
       display: Code
 
-  
-#2020 
+#2020
 
 - title: "SRLGRN: Semantic Role Labeling Graph Reasoning Network"
   authors: Chen Zheng and Parisa Kordjamshidi.
@@ -445,7 +464,7 @@
   authors: Hamid R. Karimian, Kevin J. Pollard, Michael J. Moore and Parisa Kordjamshidi
   venue: AAAI-2020 workshop on Health Intelligence
   year: 2020
-  
+
 #2019
 
 - title: "From Ontologies to Learning-Based Programs"
@@ -472,7 +491,7 @@
     - url: https://ieeexplore.ieee.org/document/8856378
       display: IEEE
 
-- title: "Rapid in-vitro detection of drug-induced peripheral neuropathy through electrophysiological and histological analysis of 3D microphysiological \"nerve-on-a-chip\" cultures"
+- title: 'Rapid in-vitro detection of drug-induced peripheral neuropathy through electrophysiological and histological analysis of 3D microphysiological "nerve-on-a-chip" cultures'
   authors: Pollard KJ, Karimian HR, Curley LJ, Kordjamshidi P, and Moore MJ.
   venue: Society for Neuroscience Conference, Chicago, IL, October 19-23, 2019.
   year: 2019
@@ -485,7 +504,6 @@
     - url: https://pdfs.semanticscholar.org/087b/091505cc801c2506acdbfab63219688f2016.pdf
       display: PDF
 
-
 #2018
 - title: "Systems AI: A Declarative Learning Based Programming Perspective"
   authors: Parisa Kordjamshidi, Dan Roth, Kristian Kersting.
@@ -493,7 +511,7 @@
   year: 2018
   links:
     - url: https://hlr.github.io/papers/IJCAI-2018-survey.pdf
-      display:  PDF
+      display: PDF
 
 - title: "Neural Machine Translation Advised by Statistical Machine Translation: The Case of Farsi-Spanish Bilingually Low-Resource Scenario"
   authors: Benyamin Ahmadnia, Parisa Kordjamshidi, Reza Haffari
@@ -509,7 +527,7 @@
   year: 2018
   links:
     - url: https://hlr.github.io/papers/SpatialCoreferenceResolution-7.pdf
-      display:  PDF
+      display: PDF
 
 - title: "Visually Guided Spatial Relation Extraction from Text"
   authors: Taher Rahgooy, Umar Manzoor, Parisa Kordjamshidi
