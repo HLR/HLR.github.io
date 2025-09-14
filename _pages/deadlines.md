@@ -11,7 +11,7 @@ permalink: /deadlines/
 
 <div class="container" style="padding:0 1rem;">
   <iframe
-    src="https://huggingface-ai-deadlines.hf.space/calendar"
+    src="https://huggingface-ai-deadlines.hf.space"
     title="AI Conference Deadlines"
     style="width:100%;height:80vh;border:0;"
     loading="lazy"
@@ -20,8 +20,8 @@ permalink: /deadlines/
 
   <p style="margin-top:0.5rem;">
     If the embed doesn’t load, open it here:
-    <a href="https://huggingface-ai-deadlines.hf.space/calendar" target="_blank" rel="noopener">
-      AI Deadlines Calendar
+    <a href="https://huggingface-ai-deadlines.hf.space" target="_blank" rel="noopener">
+      AI Deadline
     </a>
   </p>
 </div>
