@@ -6,8 +6,25 @@ sitemap: false
 permalink: /deadlines/
 ---
 
-<iframe src="https://aideadlin.es/?sub=ML,NLP" class="iframe-width" height="415px">
-</iframe>
+<!-- <iframe src="https://aideadlin.es/?sub=ML,NLP" class="iframe-width" height="415px">
+</iframe> -->
+
+<div class="container" style="padding:0 1rem;">
+  <iframe
+    src="https://huggingface-ai-deadlines.hf.space/calendar"
+    title="AI Conference Deadlines"
+    style="width:100%;height:80vh;border:0;"
+    loading="lazy"
+    referrerpolicy="no-referrer"
+  ></iframe>
+
+  <p style="margin-top:0.5rem;">
+    If the embed doesn’t load, open it here:
+    <a href="https://huggingface-ai-deadlines.hf.space/calendar" target="_blank" rel="noopener">
+      AI Deadlines Calendar
+    </a>
+  </p>
+</div>
 
 
 ## Relevant Conference Deadlines
