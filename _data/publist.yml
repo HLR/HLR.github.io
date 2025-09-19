@@ -11,21 +11,21 @@
 #     - url:
 #       display: Code
 
-- title: "Breaking Down and Building Up: Mixture of Skill-Based Vision-and-Language Navigation Agents"
-  authors: Tianyi Ma, Yue Zhang, Zehao Wang, Parisa Kordjamshidi
-  venue: arXiv
-  year: 2025
-  links:
-    - url: https://arxiv.org/pdf/2508.07642.pdf
-      display: PDF
-    - url: https://github.com/HLR/SkillNav
-      display: Code
-    - url: https://hlr.github.io/SkillNav/
-      display: Project
+# - title: "Breaking Down and Building Up: Mixture of Skill-Based Vision-and-Language Navigation Agents"
+#   authors: Tianyi Ma, Yue Zhang, Zehao Wang, Parisa Kordjamshidi
+#   venue: arXiv
+#   year: 2025
+#   links:
+#     - url: https://arxiv.org/pdf/2508.07642.pdf
+#       display: PDF
+#     - url: https://github.com/HLR/SkillNav
+#       display: Code
+#     - url: https://hlr.github.io/SkillNav/
+#       display: Project
 
 - title: "FoREST: Frame of Reference Evaluation in Spatial Reasoning Tasks"
   authors: Tanawan Premsri, Parisa Kordjamshidi
-  venue: The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP) Main Conference
+  venue: The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP) Main Conference (Oral)
   year: 2025
   links:
     - url: https://arxiv.org/abs/2502.17775
@@ -35,7 +35,7 @@
 
 - title: "Vision-and-Language Navigation with Analogical Textual Descriptions in LLMs"
   authors: Yue Zhang, Tianyi Ma, Zun Wang, Yanyuan Qiao, Parisa Kordjamshidi
-  venue: The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP) Main Confernece
+  venue: The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP) Main Conference
   year: 2025
   # links:
   #   - url:
