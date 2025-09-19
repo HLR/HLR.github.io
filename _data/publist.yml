@@ -11,6 +11,16 @@
 #     - url:
 #       display: Code
 
+- title: "FoREST: Frame of Reference Evaluation in Spatial Reasoning Tasks"
+  authors: Sania Sinha, Tanawan Premsri, Parisa Kordjamshidi
+  venue: 19th Conference on Neurosymbolic Learning and Reasoning (NeSy-2025)
+  year: 2025
+  links:
+    - url: https://openreview.net/pdf?id=psXDX4Q8E5
+      display: PDF
+    - url: https://github.com/HLR/nesy-examples
+      display: Code
+
 # - title: "Breaking Down and Building Up: Mixture of Skill-Based Vision-and-Language Navigation Agents"
 #   authors: Tianyi Ma, Yue Zhang, Zehao Wang, Parisa Kordjamshidi
 #   venue: arXiv
