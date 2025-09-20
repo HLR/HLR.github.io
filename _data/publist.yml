@@ -11,7 +11,7 @@
 #     - url:
 #       display: Code
 
-- title: "FoREST: Frame of Reference Evaluation in Spatial Reasoning Tasks"
+- title: "Toward a Clearer Characterization of Neuro-Symbolic Frameworks: A Brief Comparative Analysis"
   authors: Sania Sinha, Tanawan Premsri, Parisa Kordjamshidi
   venue: 19th Conference on Neurosymbolic Learning and Reasoning (NeSy-2025)
   year: 2025
@@ -35,7 +35,7 @@
 
 - title: "FoREST: Frame of Reference Evaluation in Spatial Reasoning Tasks"
   authors: Tanawan Premsri, Parisa Kordjamshidi
-  venue: The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025 Main Conference Oral)
+  venue: The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP-2025 Main Conference Oral)
   year: 2025
   links:
     - url: https://arxiv.org/abs/2502.17775
@@ -45,7 +45,7 @@
 
 - title: "Vision-and-Language Navigation with Analogical Textual Descriptions in LLMs"
   authors: Yue Zhang, Tianyi Ma, Zun Wang, Yanyuan Qiao, Parisa Kordjamshidi
-  venue: The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP 2025 Main Conference)
+  venue: The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP-2025 Main Conference)
   year: 2025
   # links:
   #   - url:
@@ -55,7 +55,7 @@
 
 - title: "Neuro-symbolic Training for Reasoning over Spatial Language"
   authors: Tanawan Premsri, Parisa Kordjamshidi
-  venue: The 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2025 Finding)
+  venue: The 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL-2025 Finding)
   year: 2025
   links:
     - url: https://aclanthology.org/2025.findings-naacl.128.pdf
@@ -65,7 +65,7 @@
 
 - title: Do Vision-Language Models Represent Space and How? Evaluating Spatial Frame of Reference under Ambiguities
   authors: Zheyuan Zhang, Fengyuan Hu, Jayjun Lee, Freda Shi, Parisa Kordjamshidi, Joyce Chai, Ziqiao Ma
-  venue: The Thirteenth International Conference on Learning Representations (ICLR 2025)
+  venue: The Thirteenth International Conference on Learning Representations (ICLR-2025)
   year: 2025
   links:
     - url: https://arxiv.org/abs/2410.17385
@@ -77,7 +77,7 @@
 
 - title: "Learning vs Retrieval: The Role of In-Context Examples in Regression with LLMs"
   authors: Aliakbar Nafar, Kristen Brent Venable, Parisa Kordjamshidi
-  venue: The 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL 2025)
+  venue: The 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL-2025)
   year: 2025
   links:
     - url: https://aclanthology.org/2025.naacl-long.417/
@@ -87,7 +87,7 @@
 
 - title: "SPARTUN3D: Situated Spatial Understanding of 3D World in Large Language Models"
   authors: Yue Zhang, Zhiyang Xu, Ying Shen, Parisa Kordjamshidi, Lifu Huang
-  venue: The Thirteenth International Conference on Learning Representations (ICLR 2025)
+  venue: The Thirteenth International Conference on Learning Representations (ICLR-2025)
   year: 2025
   links:
     - url: https://arxiv.org/abs/2410.03878
@@ -149,7 +149,7 @@
 
 - title: "SHINE: Saliency-aware HIerarchical NEgative Ranking for Compositional Temporal Grounding"
   authors: Zixu Cheng, Yujiang Pu, Shaogang Gong, Parisa Kordjamshidi, Yu Kong
-  venue: The 18th European Conference on Computer Vision (ECCV 2024)
+  venue: The 18th European Conference on Computer Vision (ECCV-2024)
   year: 2024
   links:
     - url: https://arxiv.org/abs/2407.05118
@@ -159,7 +159,7 @@
 
 - title: "Prompt2DeModel: Declarative Neuro-Symbolic Modeling with Natural Language"
   authors: Hossein Rajaby Faghihi, Aliakbar Nafar, Andrzej Uszok, Hamid Karimian, Parisa Kordjamshidi
-  venue: 18th International Conference on Neural-Symbolic Learning and Reasoning (NeSy 2024)
+  venue: 18th International Conference on Neural-Symbolic Learning and Reasoning (NeSy-2024)
   year: 2024
   links:
     - url: https://dl.acm.org/doi/10.1007/978-3-031-71170-1_25
@@ -169,7 +169,7 @@
 
 - title: "Narrowing the Gap between Vision and Action in Navigation"
   authors: Yue Zhang, Parisa Kordjamshidi
-  venue: ACM Multimedia
+  venue: ACM Multimedia (ACMMM 2024)
   year: 2024
   links:
     - url: https://www.arxiv.org/pdf/2408.10388
@@ -179,7 +179,7 @@
 
 - title: "Using Persuasive Writing Strategies to Explain and Detect Health Misinformation"
   authors: Danial Kamali, Joseph Romain, Huiyi Liu, Wei Peng, Jingbo Meng, Parisa Kordjamshidi
-  venue: LREC-COLING 2024
+  venue: The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)
   year: 2024
   links:
     - url: https://arxiv.org/pdf/2211.05985.pdf
@@ -244,7 +244,7 @@
 
 - title: "Disentangling Extraction and Reasoning in Multi-hop Spatial Reasoning"
   authors: Roshanak Mirzaee, Parisa Kordjamshidi
-  venue: Empirical Methods in Natural Language Processing (EMNLP-2023, Findings)
+  venue: Empirical Methods in Natural Language Processing (EMNLP-2023 Findings)
   year: 2023
   links:
     - url: https://arxiv.org/abs/2310.16731
@@ -254,7 +254,7 @@
 
 - title: "MetaReVision: Meta-Learning with Retrieval for Visually Grounded Compositional Concept Acquisition"
   authors: Guangyue Xu, Parisa Kordjamshidi, Joyce Chai
-  venue: Empirical Methods in Natural Language Processing (EMNLP-2023, Findings)
+  venue: Empirical Methods in Natural Language Processing (EMNLP-2023 Findings)
   year: 2023
   links:
     - url: https://arxiv.org/abs/2311.01580
@@ -264,7 +264,7 @@
 
 - title: "VLN-Trans, Translator for the Vision and Language Navigation Agent"
   authors: Yue Zhang, Parisa Kordjamshidi
-  venue: The 61st Annual Meeting of the Association for Computational Linguistics (ACL-2023)
+  venue: The 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023)
   year: 2023
   links:
     - url: https://arxiv.org/pdf/2302.09230
@@ -415,7 +415,7 @@
 
 - title: "SRLGRN: Semantic Role Labeling Graph Reasoning Network"
   authors: Chen Zheng and Parisa Kordjamshidi.
-  venue: The 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP-2020)
+  venue: The 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP 2020)
   year: 2020
   links:
     - url: https://www.aclweb.org/anthology/2020.emnlp-main.714.pdf
@@ -425,7 +425,7 @@
 
 - title: "Inference-Masked Loss for Structured Output Learning"
   authors: Quan Guo, Hossein Rajaby Faghihi, Yue Zhang, Andrzej Uszok and Parisa Kordjamshidi
-  venue: Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence, IJCAI-20.
+  venue: Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence  (IJCAI-2020)
   year: 2020
   links:
     - url: https://www.ijcai.org/Proceedings/2020/0382.pdf
@@ -437,7 +437,7 @@
 
 - title: "Cross-Modality Relevance for Reasoning on Language and Vision"
   authors: Chen Zheng, Quan Guo and Parisa Kordjamshidi.
-  venue: 2020 Annual Conference of the Association for Computational Linguistics (ACL-2020)
+  venue: 2020 Annual Conference of the Association for Computational Linguistics (ACL2020)
   year: 2020
   links:
     - url: https://www.aclweb.org/anthology/2020.acl-main.683/
