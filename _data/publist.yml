@@ -11,6 +11,16 @@
 #     - url:
 #       display: Code
 
+- title: Modeling Language Learning in Corrective Feedback Interactions
+  authors:
+  venue: The 14th Joint Conference on Lexical and Computational Semantics (*SEM2025)
+  year: 2025
+  links:
+    - url:
+      display: PDF
+    - url:
+      display: Code
+
 - title: "Toward a Clearer Characterization of Neuro-Symbolic Frameworks: A Brief Comparative Analysis"
   authors: Sania Sinha, Tanawan Premsri, Parisa Kordjamshidi
   venue: 19th Conference on Neurosymbolic Learning and Reasoning (NeSy-2025)
