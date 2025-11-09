@@ -1,5 +1,11 @@
 # Put the images in the folder: /HLR.github.io/images/newspic
 
+- date: <i>November 8th 2025</i>
+  headline: "Congratulations to Tanawan Premsri! His paper 'FoREST: Frame of Reference Evaluation in Spatial Reasoning Tasks' won the Senior Area Chair Highlight award, at EMNLP2025! "
+  top: 1
+  pictures:
+    - image: Tanawan_EMNLP2025_SAC.jpg
+
 - date: <i>October 25th 2025</i>
   headline: "Excited to share that Dr. Parisa’s talk, 'Complex Reasoning over Vision and Language — Leveraging Neurosymbolic AI', has been accepted for the Senior Member Presentation Track at AAAI 2026."
   top: 1
