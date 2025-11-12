@@ -13,7 +13,7 @@ permalink: /deadlines/
   <iframe
     src="https://huggingface-ai-deadlines.hf.space"
     title="AI Conference Deadlines"
-    style="width:100%;height:80vh;border:0;"****
+    style="width:100%;height:80vh;border:0;"
     loading="lazy"
     referrerpolicy="no-referrer"
   ></iframe>
@@ -34,8 +34,7 @@ permalink: /deadlines/
 
 |              Event               |             Deadline             |                     When                     |                       Where                        |
 |:--------------------------------:|:--------------------------------:|:--------------------------------------------:|:--------------------------------------------------:|
-|            2026               |                                  |      
-                                        |
+|        2026               |                                  |               |                  |
 |     &nbsp; NeuS 2026  &nbsp;     |  &nbsp;    Feb 1, 2026      &nbsp;|       &nbsp;  Jun 16-18, 2026   &nbsp;        |       &nbsp;   Los Angeles, USA   &nbsp;              |  
 |     &nbsp; CVPR 2026  &nbsp;     |  &nbsp;    Nov 13, 2026      &nbsp;|       &nbsp;  Jun 3-7, 2026   &nbsp;        |       &nbsp;   Denver,  USA   &nbsp;              |   
 |     &nbsp; ICLR 2026  &nbsp;     |  &nbsp;    Sep 24 2025      &nbsp;|       &nbsp;  Apr 23-27, 2026   &nbsp;        |       &nbsp;   Rio de Janeiro, Brazil   &nbsp;              | 
@@ -109,5 +108,4 @@ permalink: /deadlines/
 &nbsp;
 &nbsp;
 &nbsp;
-
 
