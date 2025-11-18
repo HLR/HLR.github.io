@@ -89,7 +89,7 @@ Go to <a href="{{ site.url }}{{ site.baseurl }}/pictures/"> <b>Gallery</b> </a>
 </div> -->
 
 
-<!-- ## Master's Students -->
+## Master's Students
 <div class="row">
 {% for member in site.data.master_students %}
 <div class="col-sm-6 clearfix">
