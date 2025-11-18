@@ -97,6 +97,7 @@ Go to <a href="{{ site.url }}{{ site.baseurl }}/pictures/"> <b>Gallery</b> </a>
   <h4><a href="{{ member.webpage }}" style="color:inherit">{{ member.name }}</a></h4>
   <i><b>Joined</b>: {{ member.joined }}</i><br>
   <i><b>Email</b>: <{{ member.email }}></i>
+  <i><b>Research Interests</b>: {{ member.research_interest }}</i>
 </div>
 {% endfor %}
 </div>
