@@ -90,7 +90,7 @@ Go to <a href="{{ site.url }}{{ site.baseurl }}/pictures/"> <b>Gallery</b> </a>
 
 
 <!-- ## Master's Students -->
-<!--<div class="row">
+<div class="row">
 {% for member in site.data.master_students %}
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/profiles/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
@@ -99,7 +99,7 @@ Go to <a href="{{ site.url }}{{ site.baseurl }}/pictures/"> <b>Gallery</b> </a>
   <i><b>Email</b>: <{{ member.email }}></i>
 </div>
 {% endfor %}
-</div>-->
+</div>
 
 ## Undergrads
 <div class="row">
