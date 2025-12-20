@@ -11,15 +11,35 @@
 #     - url:
 #       display: Code
 
+- title: "Referring Expressions as a Lens into Spatial Language Grounding in Vision-Language Models"
+  authors: Akshar Tumu, Varad Shinde, Parisa Kordjamshidi
+  venue: The 4th Asia-Pacific Chapter of the Association for Computational Linguistics (AACL-2025)
+  year: 2025
+  links:
+    - url: https://www.arxiv.org/abs/2511.06146
+      display: PDF
+    # - url:
+    #   display: Code
+
+- title: "Don't Take it Literally! Idiom-aware Vietnamese Translation via In-context Learning"
+  authors: Luan Thanh Nguyen, Parisa Kordjamshidi
+  venue: The 4th Asia-Pacific Chapter of the Association for Computational Linguistics (AACL-2025)
+  year: 2025
+  links:
+    - url: https://openreview.net/forum?id=LuLo4FxLLw
+      display: PDF
+    # - url:
+    #   display: Code
+
 - title: Modeling Language Learning in Corrective Feedback Interactions
   authors: Juan Luis Castro-Garcia, Parisa Kordjamshidi
   venue: The 14th Joint Conference on Lexical and Computational Semantics (*SEM2025)
   year: 2025
-  links:
-    - url:
-      display: PDF
-    - url:
-      display: Code
+  # links:
+  #   - url:
+  #     display: PDF
+  #   - url:
+  #     display: Code
 
 - title: "Toward a Clearer Characterization of Neuro-Symbolic Frameworks: A Brief Comparative Analysis"
   authors: Sania Sinha, Tanawan Premsri, Parisa Kordjamshidi
@@ -57,9 +77,9 @@
   authors: Yue Zhang, Tianyi Ma, Zun Wang, Yanyuan Qiao, Parisa Kordjamshidi
   venue: The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP-2025 Main Conference)
   year: 2025
-  # links:
-  #   - url:
-  #     display: PDF
+  links:
+    - url: https://aclanthology.org/2025.emnlp-main.759/
+      display: PDF
   #   - url:
   #     display: Code
 
