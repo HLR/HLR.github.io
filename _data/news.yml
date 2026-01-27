@@ -1,7 +1,12 @@
 # Put the images in the folder: /HLR.github.io/images/newspic
 
+### Template
+# - date: <i>[Month Day, Year]</i>
+#   headline: "[Announcement Verb] that [Name/Team]'s paper, '[Full Paper Title]', has been accepted for [Conference Name]! Many congratulations to [Name]!"
+#   top: 1
+
 - date: <i>January 26th 2026</i>
-  headline: "Danial’s paper has been accepted for ICLR-2026! 'NePTune: A Neuro-Pythonic Framework for Tunable Compositional Reasoning on Vision-Language', many congratulations, Danial! This was a very nice piece of work!"
+  headline: "Congratulations to Danial for his paper, 'NePTune: A Neuro-Pythonic Framework for Tunable Compositional Reasoning on Vision-Language', accepted at ICLR 2026! This was a very nice piece of work!"
   top: 1
 
 - date: <i>November 8th 2025</i>
