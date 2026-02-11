@@ -1,4 +1,4 @@
-#2025
+#2026
 
 ## Template
 # - title:
@@ -10,6 +10,18 @@
 #       display: PDF
 #     - url:
 #       display: Code
+
+- title: "NePTune: A Neuro-Pythonic Framework for Tunable Compositional Reasoning on Vision-Language"
+  authors: Danial Kamali, Parisa Kordjamshidi
+  venue: The Fourteenth International Conference on Learning Representations (ICLR-2026)
+  year: 2026
+  links:
+    - url: https://openreview.net/forum?id=8H0TkSusWI
+      display: PDF
+    # - url:
+    #   display: Code
+
+#2025
 
 - title: "Referring Expressions as a Lens into Spatial Language Grounding in Vision-Language Models"
   authors: Akshar Tumu, Varad Shinde, Parisa Kordjamshidi
