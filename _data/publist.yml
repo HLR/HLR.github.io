@@ -23,6 +23,16 @@
 
 #2025
 
+- title: "Neuro-Symbolic Frameworks: Conceptual Characterization and Empirical Comparative Analysis"
+  authors: Sania Sinha, Tanawan Premsri, Danial Kamali, Parisa Kordjamshidi
+  venue: Neurosymbolic Artificial Intelligence
+  year: 2025
+  links:
+    - url: https://neurosymbolic-ai-journal.com/system/files/nai-paper-924.pdf
+      display: PDF
+    # - url:
+    #   display: Code
+
 - title: "Referring Expressions as a Lens into Spatial Language Grounding in Vision-Language Models"
   authors: Akshar Tumu, Varad Shinde, Parisa Kordjamshidi
   venue: The 4th Asia-Pacific Chapter of the Association for Computational Linguistics (AACL-2025)
