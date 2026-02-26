@@ -11,6 +11,16 @@
 #     - url:
 #       display: Code
 
+- title: "Bayesian Network Structure Discovery Using Large Language Models"
+  authors: Yinghuan Zhang, Yufei Zhang, Parisa Kordjamshidi, Zijun Cui
+  venue: Transactions on Machine Learning Research (TMLR)
+  year: 2026
+  links:
+    - url: https://arxiv.org/abs/2511.00574
+      display: PDF
+    - url: https://github.com/sherryzyh/llmbn
+      display: Code
+
 - title: "NePTune: A Neuro-Pythonic Framework for Tunable Compositional Reasoning on Vision-Language"
   authors: Danial Kamali, Parisa Kordjamshidi
   venue: The Fourteenth International Conference on Learning Representations (ICLR-2026)
@@ -171,7 +181,7 @@
 
 - title: "Vision-and-Language Navigation Today and Tomorrow: A Survey in the Era of Foundation Models"
   authors: Yue Zhang, Ziqiao Ma, Jialu Li, Yanyuan Qiao, Zun Wang, Joyce Chai, Qi Wu, Mohit Bansal, Parisa Kordjamshidi
-  venue: Transactions on Machine Learning Research
+  venue: Transactions on Machine Learning Research (TMLR)
   year: 2024
   links:
     - url: https://arxiv.org/abs/2407.07035
