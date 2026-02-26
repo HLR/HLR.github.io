@@ -11,6 +11,16 @@
 #     - url:
 #       display: Code
 
+- title: Complex Reasoning over Vision and Language –Leveraging Neurosymbolic AI
+  authors: Parisa Kordjamshidi
+  venue: The 40th Annual AAAI Conference on Artificial Intelligence (AAAI-2026 Senior Member Track)
+  year: 2026
+  links:
+    - url: https://www.cse.msu.edu/~kordjams/papers/Parisa__AAAI_Senior_Member_Track.pdf
+      display: PDF
+    - url:
+      display: Code
+
 - title: "Bayesian Network Structure Discovery Using Large Language Models"
   authors: Yinghuan Zhang, Yufei Zhang, Parisa Kordjamshidi, Zijun Cui
   venue: Transactions on Machine Learning Research (TMLR)
