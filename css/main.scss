@@ -235,3 +235,32 @@ object-fit: contain;
 	  object-fit: contain; /* 大屏幕时确保图片不会被裁剪 */
 	}
   }
+
+.funders-grid {
+	margin: 32px 0;
+}
+
+.funder-card {
+	margin-bottom: 24px;
+}
+
+.funder-logo-wrap {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 120px;
+}
+
+.funder-logo {
+	width: 100%;
+	max-height: 100px;
+	object-fit: contain;
+	margin: 0 auto 8px auto;
+	border-radius: 0;
+}
+
+.funder-name {
+	font-weight: 600;
+	font-size: 14px;
+	line-height: 1.3;
+}

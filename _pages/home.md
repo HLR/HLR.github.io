@@ -25,6 +25,19 @@ permalink: /
 
 We do research on natural language processing, machine learning and combining vision and language. We work on information and semantic extraction from language. We investigate methodologies to interplay between learning and reasoning and develop techniques to include declarative and procedural world knowledge in statistical/neural learning. We develop research software and build prototypes to facilitate designing AI systems. We also aim to apply our techniques and tools on real world-problems and conduct multi-disciplinary research to impact the society for making the world a better place to live.
 
+## Funders
+
+<div class="row funders-grid" markdown="0">
+{% for funder in site.data.funders %}
+  <div class="col-xs-6 col-md-3 text-center funder-card">
+    <div class="funder-logo-wrap">
+      <img src="{{ '/images/funder_logos/' | append: funder.logo | relative_url }}" alt="{{ funder.name }}" class="img-fluid funder-logo">
+    </div>
+    <div class="funder-name">{{ funder.name }}</div>
+  </div>
+{% endfor %}
+</div>
+
 #### Check out our research code and developed models, frameworks in Github. <a href="https://github.com/HLR/">https://github.com/HLR/</a>    
 
 
