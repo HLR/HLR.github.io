@@ -5,6 +5,11 @@
 #   headline: "[Announcement Verb] that [Name/Team]'s paper, '[Full Paper Title]', has been accepted for [Conference Name]! Many congratulations to [Name]!"
 #   top: 1
 
+- date: <i>March 16th 2026</i>
+  headline: "Dr. Parisa was speaking at a South by Southwest (SXSW) 2026 panel, 'Who Predicts Better and Why? Humans, AI, and the Anatomy of a Forecast,' discussing how humans and AI compare in prediction and why hybrid approaches can work best."
+  link: https://schedule.sxsw.com/2026/contributors/2242488
+  top: 1
+
 - date: <i>January 26th 2026</i>
   headline: "Congratulations to Danial for his paper, 'NePTune: A Neuro-Pythonic Framework for Tunable Compositional Reasoning on Vision-Language', accepted at ICLR 2026! This was a very nice piece of work!"
   top: 1
