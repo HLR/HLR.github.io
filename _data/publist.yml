@@ -11,6 +11,14 @@
 #     - url:
 #       display: Code
 
+- title: "Closing the Gap Between Crop Simulation and Practical Decision-Making"
+  authors: Josué Kpodo, A. Pouyan Nejadhashemi, Parisa Kordjamshidi, Rasu Eeswaran, Younsuk Dong
+  venue: Computers and Electronics in Agriculture, Volume 247
+  year: 2026
+  # links:
+  #   - url:
+  #     display: PDF
+
 - title: Complex Reasoning over Vision and Language –Leveraging Neurosymbolic AI
   authors: Parisa Kordjamshidi
   venue: The 40th Annual AAAI Conference on Artificial Intelligence (AAAI-2026 Senior Member Track)
