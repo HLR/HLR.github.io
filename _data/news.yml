@@ -5,6 +5,10 @@
 #   headline: "[Announcement Verb] that [Name/Team]'s paper, '[Full Paper Title]', has been accepted for [Conference Name]! Many congratulations to [Name]!"
 #   top: 1
 
+- date: <i>April 6th 2026</i>
+  headline: "Congratulations to Tianyi for his paper, 'Breaking Down and Building Up: Mixture of Skill-Based Vision-and-Language Navigation Agents,' accepted at ACL 2026 main conference. Thanks to Joslin and Zehao for coauthoring this paper."
+  top: 1
+
 - date: <i>April 3rd 2026</i>
   headline: "Congratulations to Danial for his paper, 'NePTune: A Neuro-Pythonic Framework for Tunable Compositional Reasoning on Vision-Language,' being selected for a Best Paper Award at Midwest Speech and Language Days (MSLD)!"
   top: 1
