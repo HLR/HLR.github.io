@@ -5,8 +5,12 @@
 #   headline: "[Announcement Verb] that [Name/Team]'s paper, '[Full Paper Title]', has been accepted for [Conference Name]! Many congratulations to [Name]!"
 #   top: 1
 
+- date: <i>June 16th 2026</i>
+  headline: "We are excited to announce that Darius's paper, 'Extracting Probabilistic Knowledge from Large Language Models for Bayesian Network Parameterization', has been accepted for Transactions on Machine Learning Research (TMLR)! Many congratulations to Darius!"
+  top: 1
+
 - date: <i>April 15th 2026</i>
-  headline: "Congratulations to Josué for winning third place in the Fitch Beach competition!"
+  headline: "Congratulations to Josué for winning Third Place in the Fitch Beach competition!"
   top: 1
 
 - date: <i>April 15th 2026</i>

@@ -11,6 +11,14 @@
 #     - url:
 #       display: Code
 
+- title: "Extracting Probabilistic Knowledge from Large Language Models for Bayesian Network Parameterization"
+  authors: Aliakbar Nafar, K. Brent Venable, Zijun Cui, Parisa Kordjamshidi
+  venue: Transactions on Machine Learning Research (TMLR)
+  year: 2026
+  links:
+    - url: https://openreview.net/forum?id=Fy3Byg3CVo
+      display: PDF
+
 - title: "Breaking Down and Building Up: Mixture of Skill-Based Vision-and-Language Navigation Agents"
   authors: Tianyi Ma, Yue Zhang, Zehao Wang, Parisa Kordjamshidi
   venue: The 64th Annual Meeting of the Association for Computational Linguistics (ACL 2026 Main Conference)
