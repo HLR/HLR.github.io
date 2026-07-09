@@ -11,6 +11,14 @@
 #     - url:
 #       display: Code
 
+- title: "FoR-SALE: Frame of Reference-guided Spatial Adjustment in LLM-based Diffusion Editing"
+  authors: Tanawan Premsri, Parisa Kordjamshidi
+  venue: The Conference on Language Modeling (COLM)
+  year: 2026
+  links:
+    - url: https://arxiv.org/abs/2509.23452
+      display: PDF
+
 - title: "Extracting Probabilistic Knowledge from Large Language Models for Bayesian Network Parameterization"
   authors: Aliakbar Nafar, K. Brent Venable, Zijun Cui, Parisa Kordjamshidi
   venue: Transactions on Machine Learning Research (TMLR)
