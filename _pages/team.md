@@ -132,6 +132,7 @@ Go to <a href="{{ site.url }}{{ site.baseurl }}/pictures/"> <b>Gallery</b> </a>
 
 <h4>Masters, Undergraduates, Visiting scholars: </h4>
 
+- Juan Castro-Garcia, Research Assistant (2021-2025)
 - Sushanta K. Pani, Master student (Aug 2019 - Sep 2021)
 - Luan Thanh Nguyen, Visiting Scholar (Aug 2024 - Nov 2024)
 - Drew Hayward, Research assistant (Aug 2019 - May 2021)
