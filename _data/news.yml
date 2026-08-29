@@ -5,6 +5,10 @@
 #   headline: "[Announcement Verb] that [Name/Team]'s paper, '[Full Paper Title]', has been accepted for [Conference Name]! Many congratulations to [Name]!"
 #   top: 1
 
+- date: <i>August 28th 2026</i>
+  headline: "We are excited to announce that six papers from our HLR team have been accepted for EMNLP 2026! Main Conference: 'MMGR: Multi-Modal Generative Reasoning Benchmark and Evaluation' and 'SATURN: Symbolic Spatial Reasoning for Multi-Perspective Grounding'. Findings: 'PercepLog-0: LLM-Augmented Backward Chaining for Legal Reasoning', 'CLAMP: Constrained Decoding for Vision-Language Embodied Planning', and 'Spatial Reasoning via Modality Switching Between Language and Symbolic Representations'. BabyLM Workshop: 'Modeling the Developmental Shift in Telicity Acquisition'. Many congratulations to the HLR team!"
+  top: 1
+
 - date: <i>July 9th 2026</i>
   headline: "We are excited to announce that Tanawan's paper, 'FoR-SALE: Frame of Reference-guided Spatial Adjustment in LLM-based Diffusion Editing', has been accepted for COLM! Many congratulations to Tanawan!"
   link: https://arxiv.org/abs/2509.23452
