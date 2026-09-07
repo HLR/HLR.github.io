@@ -51,12 +51,14 @@ Go to <a href="{{ site.url }}{{ site.baseurl }}/pictures/"> <b>Gallery</b> </a>
 ## PhD Students
 <div class="row">
 {% for member in site.data.phd_students %}
-<div class="col-sm-6 clearfix" style="min-height: 250px;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/profiles/{{ member.photo }}" class="img-responsive" width="25%" style="float: left;"/>
-  <h4><a href="{{ member.webpage }}" style="color:inherit">{{ member.name }}</a></h4>
-  <i><b>Joined</b>: {{ member.joined }}</i><br>
-  <i><b>Email</b>: <{{ member.email }}></i><br>
-  <i><b>Research Interests</b>: {{ member.research_interest }}</i>
+<div class="col-sm-6 clearfix phd-student-card" style="min-height: 250px;" markdown="0">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/profiles/{{ member.photo }}" class="img-responsive" width="25%"/>
+  <div class="phd-student-details">
+    <h4><a href="{{ member.webpage }}" style="color:inherit">{{ member.name }}</a></h4>
+    <p><i><b>Joined</b>: {{ member.joined }}</i><br>
+    <i><b>Email</b>: <a href="mailto:{{ member.email }}">{{ member.email }}</a></i><br>
+    <i><b>Research Interests</b>: {{ member.research_interest }}</i></p>
+  </div>
 </div>
 {% endfor %}
 </div>
