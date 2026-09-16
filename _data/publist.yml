@@ -11,6 +11,53 @@
 #     - url:
 #       display: Code
 
+- title: "MMGR: Multi-Modal Generative Reasoning Benchmark and Evaluation"
+  authors: Zefan Cai, Haoyi Qiu, Tianyi Ma, Haozhe Zhao, Gengze Zhou, Tingting Liao, Xinyan Velocity Yu, Kung-Hsiang Huang, Ke Wan, Shawn Lin, Parisa Kordjamshidi, Minjia Zhang, Wen Xiao, Jiuxiang Gu, Nanyun Peng, Junjie Hu
+  venue: The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026 Main Conference)
+  year: 2026
+  links:
+    - url: https://arxiv.org/abs/2512.14691
+      display: PDF
+    - url: https://github.com/Zefan-Cai/MMGR
+      display: Code
+    - url: https://zefan-cai.github.io/MMGR.github.io/
+      display: Project
+
+- title: "SATURN: Symbolic Spatial Reasoning for Multi-Perspective Grounding"
+  authors: Danial Kamali, Tanawan Premsri, Shreya Rajpal, Amir Zadeh, Chuan Li, Parisa Kordjamshidi
+  venue: The 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026 Main Conference)
+  year: 2026
+  links:
+    - url: https://arxiv.org/abs/2606.22694
+      display: PDF
+
+- title: "PercepLog-0: LLM-Augmented Backward Chaining for Legal Reasoning"
+  authors: Parisa Kordjamshidi, Sai Amrit Bulusu, Madhavan Seshadri, Samer Aslan, Leslie Barrett, Enrico Santus
+  venue: Findings of the Association for Computational Linguistics (EMNLP 2026)
+  year: 2026
+
+- title: "CLAMP: Constrained Decoding for Vision-Language Embodied Planning"
+  authors: Tianyi Ma, Parisa Kordjamshidi
+  venue: Findings of the Association for Computational Linguistics (EMNLP 2026)
+  year: 2026
+  links:
+    - url: https://arxiv.org/abs/2609.08602
+      display: PDF
+    - url: https://github.com/HLR/CLAMP
+      display: Code
+    - url: https://suemarsr.github.io/CLAMP/
+      display: Project
+
+- title: "Spatial Reasoning via Modality Switching Between Language and Symbolic Representations"
+  authors: Shreya Rajpal, Tanawan Premsri, Parisa Kordjamshidi
+  venue: Findings of the Association for Computational Linguistics (EMNLP 2026)
+  year: 2026
+  links:
+    - url: https://arxiv.org/abs/2606.31285
+      display: PDF
+    - url: https://github.com/HLR/Spatial-Modality-Switching
+      display: Code
+
 - title: "FoR-SALE: Frame of Reference-guided Spatial Adjustment in LLM-based Diffusion Editing"
   authors: Tanawan Premsri, Parisa Kordjamshidi
   venue: The Conference on Language Modeling (COLM)
