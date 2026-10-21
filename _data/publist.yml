@@ -20,8 +20,6 @@
       display: PDF
     - url: https://github.com/HLR/AgenticDomiKnowS
       display: Code
-    - url: /downloads/nafar2026agentic.bib
-      display: BibTeX
 
 - title: "MMGR: Multi-Modal Generative Reasoning Benchmark and Evaluation"
   authors: Zefan Cai, Haoyi Qiu, Tianyi Ma, Haozhe Zhao, Gengze Zhou, Tingting Liao, Xinyan Velocity Yu, Kung-Hsiang Huang, Ke Wan, Shawn Lin, Parisa Kordjamshidi, Minjia Zhang, Wen Xiao, Jiuxiang Gu, Nanyun Peng, Junjie Hu
