@@ -11,6 +11,22 @@
 #     - url:
 #       display: Code
 
+- title: "Modeling the Developmental Shift in Telicity Acquisition"
+  authors: Ellie Xia, Parisa Kordjamshidi, Alan Hezao Ke
+  venue: The 2nd BabyLM Workshop (EMNLP 2026)
+  year: 2026
+  links:
+    - url: https://arxiv.org/pdf/2609.17996
+      display: PDF
+
+- title: "Reasoners or Translators? Contamination-aware Evaluation and Neuro-Symbolic Robustness on Tax Law"
+  authors: Parisa Kordjamshidi, Samer Aslan, Madhavan Seshadri, Leslie Barrett, Enrico Santus
+  venue: First Workshop on Structured Understanding, Retrieval, and Generation in the LLM Era (SURGeLLM 2026)
+  year: 2026
+  links:
+    - url: https://aclanthology.org/2026.surgellm-1.23.pdf
+      display: PDF
+
 - title: "An Agentic Framework for Neuro-Symbolic Programming"
   authors: Aliakbar Nafar, Chetan Chigurupati, Danial Kamali, Hamid Karimian, Parisa Kordjamshidi
   venue: 20th International Conference on Neurosymbolic Learning and Reasoning (NeSy 2026)
