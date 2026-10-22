@@ -26,6 +26,13 @@
 #   webpage: https://zhangyuejoslin.github.io/
 #   joined: Spring 2020
 
+- name: Darius Nafar
+  photo: Darius.jpg
+  research_interest: Question Answering, Probabilistic Logical Reasoning, Natural Language Processing
+  email: nafarali@msu.edu
+  webpage: https://www.egr.msu.edu/~nafarali/
+  joined: Spring 2021
+
 - name: Danial Kamali
   photo: danialkamali.jpg
   research_interest: Computer Vision and Linguistic, Compositional Learning.
