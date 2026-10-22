@@ -120,6 +120,7 @@ Go to <a href="{{ site.url }}{{ site.baseurl }}/pictures/"> <b>Gallery</b> </a>
 ## Alumni & Past Members
 <h4>Ph.D. graduates: </h4>
 
+- Darius Nafar, PhD Graduate (2021-2026).
 - Yue Zhang (Joslin), PhD Graduate (2020-2025). Post-doctoral researcher at North Carolina at Chapel Hill.
 - Hossein Faghihi, PhD Graduate (2019-2024). ML Engineer at Google.
 - Guangyue Xu, PhD Graduate (2019-2024). Senior Data Scientist at Target.
